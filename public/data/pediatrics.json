@@ -16866,6 +16866,582 @@
                         }
                     ],
                     "answer": "D"
+                },
+                {
+                    "id": 233601,
+                    "topic": "Unclassified",
+                    "stem": "An 8-year-old girl is referred to the paediatric nephrologist for increasing lethargy and extremely puffy eyelids for a week. Urinalysis shows 4+ protein with no glucose, red blood cells, or ketones. Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Membranoproliferative glomerulonephritis"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Focal segmental glomerulosclerosis"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Minimal change disease"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Berger's disease"
+                        }
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "id": 233602,
+                    "topic": "Unclassified",
+                    "stem": "A 5-year-old child has a 1-day history of cola-colored urine with red blood cell casts. Two weeks ago, the child had culture-positive streptococcal tonsillitis. Which of the following is the best clinical evidence to support post-streptococcal glomerulonephritis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Mildly elevated blood creatinine"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Negative antinuclear antibody"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Positive streptozyme test"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Low C3"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "id": 233603,
+                    "topic": "Unclassified",
+                    "stem": "A 9-year-old girl is brought to the Emergency Department with abnormal movements and a recent history of tea-colored urine following a skin infection. Examination shows hypertension, edema, anemia, and low complement levels. Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Post-streptococcal glomerulonephritis"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Hemolytic uremic syndrome"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Henoch-Schonlein purpura"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Acute renal failure"
+                        }
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "id": 233604,
+                    "topic": "Unclassified",
+                    "stem": "A 6-year-old girl presents with reddish urine, fever, and abdominal tenderness. Urinalysis shows leukocytes, erythrocytes, and protein. Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Urinary tract infection"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Henoch-Schonlein purpura"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Autoimmune hemolytic anemia"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Post-streptococcal glomerulonephritis"
+                        }
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "id": 233605,
+                    "topic": "Unclassified",
+                    "stem": "A 3-year-old boy presents with painless abdominal distension, hematuria, and a flank mass. He also has aniridia and undescended testes. Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Hydronephrosis"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Nephroblastoma"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Urinary tract infection"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Polycystic kidney disease"
+                        }
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "id": 233606,
+                    "topic": "Unclassified",
+                    "stem": "A 14-month-old girl with vomiting and diarrhea has 5% dehydration and weighs 10 kg. Which of the following is the appropriate intravenous fluid requirement per day?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "1000 mL"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "1250 mL"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "1500 mL"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "1750 mL"
+                        }
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "id": 233607,
+                    "topic": "Unclassified",
+                    "stem": "A 9-year-old boy presents with abdominal pain, ankle swelling, and rash after an upper respiratory infection. Which of the following is the most appropriate management?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Antibiotics"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Platelet transfusion"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Supportive treatment"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Factor VIII transfusion"
+                        }
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "id": 233608,
+                    "topic": "Unclassified",
+                    "stem": "In which of the following conditions should circumcision be avoided?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Phimosis"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Hypospadias"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Unilateral cryptorchidism"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Posterior urethral valve"
+                        }
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "id": 233609,
+                    "topic": "Unclassified",
+                    "stem": "A child with chronic proteinuria and hypertension is at risk of progression to end-stage renal disease. Which of the following drugs is most useful to prevent progression?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Enalapril"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Clonidine"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Propranolol"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Amlodipine"
+                        }
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "id": 233610,
+                    "topic": "Unclassified",
+                    "stem": "A 14-year-old boy presents with brown urine and periorbital edema following a sore throat 2 weeks ago. Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "IgA nephropathy"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Acute pyelonephritis"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Hemolytic uremic syndrome"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Post-streptococcal glomerulonephritis"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "id": 233611,
+                    "topic": "Unclassified",
+                    "stem": "A child presents with abdominal pain and purpuric rash following an upper respiratory infection. Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Henoch-Schonlein purpura"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Immune thrombocytopenia"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Hemophilia"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Sepsis"
+                        }
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "id": 233612,
+                    "topic": "Unclassified",
+                    "stem": "A child presents with hematuria shortly after a respiratory infection. Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Post-streptococcal glomerulonephritis"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "IgA nephropathy"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Nephrotic syndrome"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Urinary tract infection"
+                        }
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "id": 233613,
+                    "topic": "Unclassified",
+                    "stem": "A child presents with edema, heavy proteinuria, and hypoalbuminemia. Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Nephritic syndrome"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Nephrotic syndrome"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Urinary tract infection"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Acute renal failure"
+                        }
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "id": 233614,
+                    "topic": "Unclassified",
+                    "stem": "A child presents with hypertension, hematuria, and mild proteinuria. Which of the following syndromes is most likely?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Nephrotic syndrome"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Nephritic syndrome"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Minimal change disease"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Diabetes mellitus"
+                        }
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "id": 233601,
+                    "topic": "Unclassified",
+                    "stem": "An 8-year-old girl is referred to the paediatric nephrologist for increasing lethargy and extremely puffy eyelids for a week. Urinalysis shows 4+ protein with no glucose, red blood cells, or ketones. Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Membranoproliferative glomerulonephritis"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Focal segmental glomerulosclerosis"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Minimal change disease"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Berger's disease"
+                        }
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "id": 233602,
+                    "topic": "Unclassified",
+                    "stem": "An 8-year-old girl is referred to the paediatric nephrologist for increasing lethargy and extremely puffy eyelids for a week. Urinalysis showed 4+ proteins but glucose, red blood cells and ketones were absent. Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Mildly elevated blood creatinine"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Negative antinuclear antibody"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Positive streptozyme test"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Low C3"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "id": 233603,
+                    "topic": "Unclassified",
+                    "stem": "A 9-year-old girl is brought to the Emergency Department with abnormal movements and a recent history of tea coloured urine. Her parents described a preceding skin eruption. On examination, the child looks unwell, unresponsive and lower limb swelling is noted (see lab results). Blood pressure 155/105 mmHg Heart rate 110/min Respiratory rate 25 /min Temperature 37.4° C Test Result (Normal Values): Hb 78 (112-165 g/L) Platelets count 165 (150-400 x 109/L) Blood urea nitrogen 13.1 (1.8 to 6.4 mol/L) Creatinine 101 (27-88 mol/L) Complement C3 0.5 0.7-1.5 g/L Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Post-streptococcal glomerulonephritis"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Hemolytic uremic syndrome"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Henoch-Schonlein purpura"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Acute renal failure"
+                        }
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "id": 233604,
+                    "topic": "Unclassified",
+                    "stem": "A 6-year-old girl developed reddish urine. Her parents stated that she had been constipated for the last 2 weeks and recently became incontinent. On examination, there is abdominal tenderness, and no organomegaly (see lab results). Blood pressure 115/76 mmg Heart rate 76/min Respiratory rate 27 /min Temperature 38.9° C Test Result (Normal Values): WBC 9.5 (4.5-10.5 x 109/L) Hb 79 (112-165 g/L) Platelets count 325 (150-400 × 109/L) Urine Analysis Result (Normal Values): Leukocytes 25-30 (0-3 per high power field) Erythrocytes 30-35 (0-2 per high power field) Protein + (Absent) Blood +++ (Absent) Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Urinary tract infection"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Henoch-Schonlein purpura"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Autoimmune hemolytic anemia"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Post-streptococcal glomerulonephritis"
+                        }
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "id": 233605,
+                    "topic": "Unclassified",
+                    "stem": "A 3-year-old boy presents with painless abdominal distension. He has had occasional attacks of abdominal pain, vomiting, and bloody urine. On examination, there is a smooth firm mass in the right loin, an absent iris, and undescended testes.\n\nUrinalysis Result (Normal Values):\nColor: Clear (Clear or light yellow)\nAppearance: Turbid Clear\nSpecific gravity: 1.025 (1.001-1.030)\npH: 7.5 (4.3-8)\nLeukocytes: 5 (0-3 per high power field)\nErythrocytes: 15 (0-2 per high power field)\nColor: Clear (Clear or light yellow)\n\nWhich of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Hydronephrosis"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Nephroblastoma"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Urinary tract infection"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Polycystic kidney disease"
+                        }
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "id": 233606,
+                    "topic": "Unclassified",
+                    "stem": "A 14-month-old girl is brought to the clinic with vomiting and diarrhoea. The mother reports her child is less active. On examination, she has mild dehydration with an estimated fluid deficit of 5%.\n\nWeight: 10 kg\n\nTest Result (Normal Values):\nSodium: 128 (134-146 mmol/L)\nPotassium: 3.3 (3.5-5.1 mmol/L)\nChloride: 94 (97-108 mmol/L)\nBicarbonate: 12 (21-28 mmol/L)\n\nHow much intravenous fluid (ml/day) should be given?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "1000 mL"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "1250 mL"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "1500 mL"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "1750 mL"
+                        }
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "id": 233607,
+                    "topic": "Unclassified",
+                    "stem": "A 9-year-old boy presents with abdominal pain and swelling of his right ankle. He had an upper respiratory tract infection 3 weeks earlier. On examination, he has multiple maculopapular lesions.\n\nTest Result (Normal Value):\nErythrocytes: 15 (0-2 per high power field)\n\nWhich of the following is the most appropriate management?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Antibiotics"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Platelet transfusion"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Supportive treatment"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Factor VIII transfusion"
+                        }
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "id": 233608,
+                    "topic": "Unclassified",
+                    "stem": "In which of the following conditions should circumcision be avoided?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Phimosis"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Hypospadias"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Unilateral cryptorchidism"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Posterior urethral valve"
+                        }
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "id": 233609,
+                    "topic": "Unclassified",
+                    "stem": "A child is brought to the clinic with chronic proteinuria, renal disease, and hypertension. The parents are concerned about progression to end-stage renal disease. Which of the following drugs would be most useful in preventing this progression?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Enalapril"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Clonidine"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Propranolol"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Amlodipine"
+                        }
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "id": 233610,
+                    "topic": "Unclassified",
+                    "stem": "A 14-year-old boy presents to the clinic complaining of brown urine for the past 3 days. Two weeks ago, he had 2 days of fever and a sore throat, but he improved spontaneously and has been well ever since. On physical examination, only periorbital edema is noted.\n\nBlood pressure: 136/92 mmHg\nHeart rate: 98/min\nRespiratory rate: 28/min\nTemperature: 37°C\n\nUrinalysis Result (Normal Values):\nSpecific gravity: 1.035 (1.001-1.030)\nProteins: ++ (Absent)\nBlood: ++ (Absent)\n\nWhich of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "IgA nephropathy"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Acute pyelonephritis"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Hemolytic-uremic syndrome"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Post-streptococcal glomerulonephritis"
+                        }
+                    ],
+                    "answer": "D"
                 }
             ]
         }
