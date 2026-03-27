@@ -2871,7 +2871,7 @@
                     "answer": "A"
                 },
                 {
-                    "id": 1836,
+                    "id": 1836.5,
                     "topic": "Infectious diseases",
                     "stem": "A 2-year-old child presents to the clinic with 3-day history of vesicular lesions on the lips, gums and anterior surface of the tongue and hard palate. On examination, child looks dehydrated and the lesions look extensive, painful with mild bleeding. According to the mother, she is not eating or drinking well because of the pain for the last 2 days. Which of the following is the best management?",
                     "options": [
@@ -3011,6 +3011,30 @@
                     "answer": "A"
                 },
                 {
+                    "id": 1841.5,
+                    "topic": "Infectious diseases",
+                    "stem": "A 15-month-old child is brought to the clinic with one day of fever and vomiting. A lumbar puncture is performed (see lab results and report). A 3-day-old baby is brought to the clinic with fever, vomiting and hypothermia. Prior to labour his mother was febrile. He was examined and lumbar puncture was performed (see report). Cerebrospinal Fluid Gram stain: Showed Gram positive bacilli and on culture it was Beta hemolytic and catalase positive. Which of the following antibiotics should be started empirically?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Meropenem"
+                        },
+                        {
+                            "letter": "B",
+                            "text": " Cefotaxime"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Gentamicin"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Ampicillin"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
                     "id": 1842,
                     "topic": "Infectious diseases",
                     "stem": "A 7-year-old child is brought to the clinic with fever, headache and vomiting of 2 days. On examination, there is meningeal irritation. A lumbar puncture is done (see lab results and report). CSF Analysis Test Result (Normal Values) Total Protein 560 (150-450 mg/L) Glucose 2.9 (2.50-4.8 mmol/L) Bacteriology Report: Gram positive cocci in pairs. Which of the following antibiotics combination would be most appropriate?",
@@ -3126,6 +3150,54 @@
                         {
                             "letter": "D",
                             "text": "Idiopathic thrombocytopenic purpura"
+                        }
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "id": 1846.5,
+                    "topic": "Infectious diseases",
+                    "stem": "A 6-year-old child presents with a high-grade fever, malaise, conjunctivitis, coryza, and a cough. A rash of discrete pink macules recently began on the face and extends to the hands and feet. The child also had small, whitish spots inside the mouth before the rash appeared. Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Toxic shock syndrome"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Gonococcal bacteremia"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Measles"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Rubella"
+                        }
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "id": 1846.6,
+                    "topic": "Infectious diseases",
+                    "stem": "A 13-year-old boy comes to the clinic complaining of fatigue, non-productive cough, low-grade fever and night sweats over the past 7 weeks. He also mentioned that he has had 2 episodes of hemoptysis. Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Tuberculosis"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Bronchiectasis"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Lung neoplasm"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Mycoplasma pneumonia"
                         }
                     ],
                     "answer": "A"
