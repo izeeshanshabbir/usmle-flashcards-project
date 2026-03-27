@@ -17442,6 +17442,870 @@
                         }
                     ],
                     "answer": "D"
+                },
+                {
+                    "id": 233611,
+                    "topic": "Unclassified",
+                    "stem": "An 18-month-old infant presents to the Pediatric Outpatient Clinic for evaluation of delay in walking. It is observed that there is widening of the lower ends of long bones.\n\nHeight: 78 cm\nWeight: 10 kg\n\nTest Result (Normal Values):\nCalcium total: 8.1 (2.2-2.7 mmol/L)\nPhosphate: 2.1 (1.3-2.3 mmol/L)\nAlkaline phosphatase: 1020 (100-320 U/L)\n\nWhich of the following is the most likely cause?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Hypophosphatasia"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Renal osteodystrophy"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Vitamin D deficient rickets"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Familial hypophosphatemic rickets"
+                        }
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "id": 233612,
+                    "topic": "Unclassified",
+                    "stem": "An 11-month-old child presents with failure to thrive, frequent large volumes of urine, excessive thirst, and three episodes of dehydration not associated with vomiting or diarrhoea. Several boys in his family showed similar symptoms.\n\nWhich of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Diabetes mellitus"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Diabetes insipidus"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Water intoxication"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Nephrotic syndrome"
+                        }
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "id": 233613,
+                    "topic": "Unclassified",
+                    "stem": "A 2-year-old girl presents with low energy and failure to thrive. The child was born at 38 weeks gestation with a birth weight of 3.3 kg. Her current weight is 10 kg (3rd percentile). The mother reports poor appetite and little interest in food. The family follows a strict vegetarian diet. Physical examination reveals pallor of the skin and mucous membranes, cracks at the corners of the mouth, and abnormal nails.\n\nHeart rate: 110/min\nRespiratory rate: 36/min\nTemperature: 36.8°C\nOxygen saturation: 95% on room air\n\nTest Result (Normal Values):\nHb: 90 (112-165 g/L)\nHCT: 0.29 (0.32-0.42)\nPlatelet count: 470 (150-400 × 10^9/L)\nMCV: 78 (80-95 fL)\nMCH: 25 (28-33 pg/cell)\n\nWhich of the following is the most appropriate treatment?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Transfusion of packed red blood cells"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Erythropoiesis-stimulating agents"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Oral ferrous sulfate"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Parenteral iron"
+                        }
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "id": 233614,
+                    "topic": "Unclassified",
+                    "stem": "A newborn presents with jaundice 12 hours after birth. At 36 hours, the jaundice worsens and a blood smear is performed.\n\nTest Results (Normal Values):\nHb: 91 (112-165 g/L)\nReticulocyte: 7% (0.2-1.2%)\nTotal bilirubin: 2800 (<205 µmol/L)\n\nWhich of the following is the most appropriate next step in the investigation?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Osmotic fragility test"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Pyruvate kinase assay"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Haemoglobin electrophoresis"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Measurement of glucose-6-phosphate dehydrogenase activity"
+                        }
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "id": 233615,
+                    "topic": "Unclassified",
+                    "stem": "A 1-year-old boy is noted to have microcytic anaemia on routine screening. Haemoglobin electrophoresis shows an increased fraction of haemoglobin A2.\n\nWhich of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "β-thalassemia"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Iron deficiency"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Sickle cell anaemia"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Folic acid deficiency"
+                        }
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "id": 233616,
+                    "topic": "Unclassified",
+                    "stem": "A newborn presents with jaundice 12 hours after birth. At 36 hours after birth, the jaundice worsens and a blood smear is performed.\n\nTest Results (Normal Values):\nHb: 91 (112-165 g/L)\nReticulocyte: 7% (0.2-1.2%)\nTotal bilirubin: 2800 (<205 µmol/L)\n\nTest Results (Normal Values):\nHb: 55 (112-165 g/L)\nWBC: 15 (4.5-10.5 × 10^9/L)\nPlatelet count: 200 (150-400 × 10^9/L)\nReticulocyte: 7.5% (0.2-1.2%)\nRBC: 2 (4.6-4.8 × 10^12/L)\n\nTest Results:\nDirect Coombs test: Positive\nIndirect Coombs test: Positive\n\nWhich of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Spherocytosis"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Fanconi anemia"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Autoimmune hemolytic anemia"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Glucose-6-phosphate dehydrogenase deficiency"
+                        }
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "id": 233617,
+                    "topic": "Unclassified",
+                    "stem": "A 12-month-old boy is brought to the clinic with decreased appetite. The child was born at 36 weeks' gestation and has been fed with cow's milk formula since the age of 9 months. His weight is 13.6 kg (>97th percentile) and length is 75 cm (50th percentile). Physical examination reveals pallor of the skin and buccal mucous membranes, a systolic heart murmur, and a palpable spleen.\n\nTest Result (Normal Values):\nHb: 90 (112-165 g/L)\nRBC: 3.0 (4.6-4.8 × 10^12/L)\n\nWhat additional laboratory finding is most likely to be significantly lower than the normal value?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "WBC"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "MCV"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Platelets"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Reticulocyte count"
+                        }
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "id": 233618,
+                    "topic": "Unclassified",
+                    "stem": "A 12-month-old boy is brought to the clinic with decreased appetite. The child was born at 36 weeks' gestation and has been fed with cow's milk formula since the age of 9 months. His weight is 13.6 kg (>97th percentile) and length is 75 cm (50th percentile). Physical examination reveals pallor of the skin and buccal mucous membranes, a systolic heart murmur, and a palpable spleen.\n\nTest Result (Normal Values):\nHb: 90 (112-165 g/L)\nWBC: 10 (4.5-10.5 × 10^9/L)\nPlatelet count: 500 (150-400 × 10^9/L)\nMCV: 70 (80-95 fL)\nReticulocyte: 1.2% (0.2-1.2%)\nRBC: 3.0 (4.6-4.8 × 10^12/L)\n\nWhich of the following components need to be replaced?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Iron"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Folic acid"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Vitamin B12"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Erythrocytes"
+                        }
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "id": 233619,
+                    "topic": "Unclassified",
+                    "stem": "A 16-year-old boy presents with a 6-day history of fever and abdominal pain. He appears pale and toxic and has a tender, mildly enlarged spleen.\n\nWhat is the most sensitive culture to be recommended?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Stool or urine culture"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "A single blood culture"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Multiple blood cultures"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Bone marrow aspirate culture"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "id": 233620,
+                    "topic": "Unclassified",
+                    "stem": "A 5-year-old boy presents with sudden and severe bone pain in his hands and feet. On examination, he appears dehydrated.\n\nBlood pressure: 105/60 mmHg\nHeart rate: 100/min\nRespiratory rate: 22/min\nTemperature: 38.8°C (rectal)\n\nWhich of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Sickle cell disease"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Alpha thalassemia"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Thalassemia major"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Iron deficiency anaemia"
+                        }
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "id": 233621,
+                    "topic": "Unclassified",
+                    "stem": "A 12-year-old girl presents with bleeding gums while brushing her teeth. This started 1 week ago after a viral upper respiratory tract infection. On examination, there are petechiae on her extremities and abdomen, with no lymphadenopathy or hepatosplenomegaly.\n\nTest Result (Normal Values):\nHb: 130 (112-165 g/L)\nHCT: 0.39 (0.32-0.42)\nMCV: 88 (80-95 fL)\nWBC: 8 (4.5-10.5 × 10^9/L)\nPlatelet count: 20 (150-400 × 10^9/L)\n\nBone marrow: Increased megakaryocytes\n\nWhich of the following is the most appropriate management?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Azathioprine"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Prednisolone"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Splenectomy"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Cyclophosphamide"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "id": 233622,
+                    "topic": "Unclassified",
+                    "stem": "A 12-year-old girl presents with bleeding gums while brushing her teeth. This started 1 week ago after a viral upper respiratory tract infection. On examination, there are petechiae on her extremities and abdomen, with no lymphadenopathy or hepatosplenomegaly.\n\nTest Result (Normal Values):\nHb: 130 (112-165 g/L)\nHCT: 0.39 (0.32-0.42)\nMCV: 88 (80-95 fL)\nWBC: 8 (4.5-10.5 × 10^9/L)\nPlatelet count: 20 (150-400 × 10^9/L)\n\nWhich of the following findings is expected in this patient's bone marrow?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Hypoplasia"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Reduced iron stores"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Megaloblastic changes"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Increased megakaryocytes"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "id": 233623,
+                    "topic": "Unclassified",
+                    "stem": "Which of the following conditions can lead to hyposplenism?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "G6PD deficiency"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Sickle cell disease"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Vitamin B12 deficiency"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Hereditary spherocytosis"
+                        }
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "id": 233624,
+                    "topic": "Unclassified",
+                    "stem": "A 5-year-old boy presents with sudden and severe bone pain in his hands and feet. On examination, he appears dehydrated.\n\nBlood pressure: 110/60 mmHg\nHeart rate: 125/min\nRespiratory rate: 28/min\nTemperature: 38.8°C (rectal)\n\nTest Result (Normal Values):\nHb: 108 (112-165 g/L)\nHCT: 0.30 (0.32-0.42)\nMCV: 76 (80-95 fL)\n\nWhich of the following is responsible for this clinical presentation?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Aplastic crisis"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Sequestration crisis"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Vaso-occlusive crisis"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Sickle chest syndrome"
+                        }
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "id": 233625,
+                    "topic": "Unclassified",
+                    "stem": "A 1-year-old boy is diagnosed with factor VII deficiency with a level of less than 1%. Which of the following investigations will be affected?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Bleeding time"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Platelet count"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Prothrombin time"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Activated partial thromboplastin time"
+                        }
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "id": 233626,
+                    "topic": "Unclassified",
+                    "stem": "A 1-year-old baby presents with prolonged bleeding after circumcision.\n\nTest Result (Normal Values):\nBleeding time: 1.6 (up to 4 min)\nProthrombin time: 40 (12-14 sec)\nAPTT: 120 (30-40 sec)\nPlatelet count: 160 (150-400 × 10^9/L)\n\nWhich factor deficiency is the most likely cause?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "VIII"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "VII"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "IX"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "X"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "id": 233627,
+                    "topic": "Unclassified",
+                    "stem": "Which of the following signs are more likely to be associated with haemophilia?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Epistaxis"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Gum bleeding"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Haemarthrosis"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Petechial haemorrhages"
+                        }
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "id": 233628,
+                    "topic": "Unclassified",
+                    "stem": "A 15-year-old patient presents for a routine check-up.\n\nTest Result (Normal Values):\nRBC: 5.3 (4.4-4.8 × 10^12/L)\nWBC: 68 (4.5-10.5 × 10^9/L)\nHb: 98 (112-165 g/L)\nMCV: 69 (80-95 fL)\nMCHC: 261 (260-340 g/L)\nReticulocyte: 1.0% (0.2-1.2%)\n\nWhich of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Sickle cell anaemia"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "β-thalassemia trait"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Iron deficiency anaemia"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Other"
+                        }
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "id": 233629,
+                    "topic": "Unclassified",
+                    "stem": "A 5-day-old infant delivered at home presents with increasing bleeding from the umbilical cord. He has been breastfed since birth. The mother has epilepsy and has been taking phenobarbital.\n\nTest Result (Normal Values):\nBleeding time: 3.8 (up to 4 min)\nProthrombin time: 21 (12-14 sec)\nAPTT: 46 (30-40 sec)\n\nWhich of the following is the most appropriate treatment?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Corticosteroids"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Platelet transfusion"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Fresh frozen plasma"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Parenteral 1 mg vitamin K1"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "id": 233630,
+                    "topic": "Unclassified",
+                    "stem": "A 1-year-old boy is investigated for pallor, jaundice, lethargy, and delayed growth. On examination, he is short for his age with a prominent forehead and splenomegaly.\n\nTest Result (Normal Values):\nHb: 40 (112-165 g/L)\nRDW: 14 (11.5-14.5%)\nMCV: 70 (80-95 fL)\nReticulocyte: 2.4% (0.2-1.2%)\nWBC: 5.5 (4.5-10.5 × 10^9/L)\nRBC: 5.8 (4.6-4.8 × 10^12/L)\n\nHb electrophoresis:\nHb A2: 30 (2-3%)\nHb F: 50 (1-2%)\n\nWhich of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Iron deficiency anaemia"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "β-thalassemia"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Sickle cell disease"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "α-thalassemia"
+                        }
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "id": 233631,
+                    "topic": "Unclassified",
+                    "stem": "A preschool child presents for a routine examination.\n\nTest Result (Normal Values):\nHb: 90 (112-165 g/L)\nRDW: 20 (11.5-16%)\nPlatelet count: 490 (150-400 × 10^9/L)\nMCV: 68 (80-95 fL)\nMCH: 26 (28-33 pg/cell)\nMCHC: 241 (260-340 g/L)\nReticulocyte: 1.1% (0.2-1.2%)\nWBC: 7.5 (4.5-10.5 × 10^9/L)\nRBC: 5 (4.6-4.8 × 10^12/L)\n\nWhich of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Aplastic anaemia"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Thalassemia minor"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Iron deficiency anaemia"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Hereditary spherocytosis"
+                        }
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "id": 233632,
+                    "topic": "Unclassified",
+                    "stem": "A 2-year-old child with sickle cell disease develops shortness of breath and pallor following an upper respiratory tract infection. On examination, the child appears pale, sick, and has splenomegaly.\n\nBlood pressure: 90/60 mmHg\nHeart rate: 110/min\nRespiratory rate: 25/min\nTemperature: 38.6°C\n\nTest Result (Normal Values):\nHb: 34 (112-165 g/L)\nWBC: 3.1 (4.5-10.5 × 10^9/L)\nLymphocytes: 52% (20-40%)\nNeutrophils: 58% (40-60%)\nPlatelet count: 166 (150-400 × 10^9/L)\nReticulocyte: 0.1% (0.2-1.2%)\nESR: 25 (2-10 mm/h)\n\nWhich of the following is the best immediate management?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Splenectomy"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Fluids and analgesia"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Intravenous antibiotics"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Packed red cell transfusion"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "id": 233633,
+                    "topic": "Unclassified",
+                    "stem": "A 53-day-old boy is referred to the Paediatric Clinic for investigation of anaemia. He was born full term and is a known case of G6PD deficiency. On examination, both height and weight are at the 10th percentile, and the rest of the examination is normal.\n\nTest Result (Normal Values):\nHb: 70 (112-165 g/L)\nPlatelet count: 350 (150-400 × 10^9/L)\nTotal bilirubin: 25.1 (<20.5 µmol/L)\n\nUrinalysis (Normal Values):\nColor: Clear (clear or light yellow)\nLeukocytes: 0 (0-3 per high power field)\nErythrocytes: 0 (0-2 per high power field)\n\nWhich of the following is the best management?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Blood transfusion"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Iron supplement"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Reassurance"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Folic acid"
+                        }
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "id": 233634,
+                    "topic": "Unclassified",
+                    "stem": "A 53-day-old boy is referred to the Paediatric Clinic for investigation of anaemia. He was born full term and is a known case of G6PD deficiency. On examination, both height and weight are at the 10th percentile, and the rest of the examination is normal.\n\nTest Result (Normal Values):\nHb: 70 (112-165 g/L)\nPlatelet count: 350 (150-400 × 10^9/L)\nTotal bilirubin: 25.1 (<20.5 µmol/L)\n\nUrinalysis (Normal Values):\nColor: Clear (clear or light yellow)\nLeukocytes: 0 (0-3 per high power field)\nErythrocytes: 0 (0-2 per high power field)\n\nWhich of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Haemolysis"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Iron deficiency"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Physiological jaundice"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Anaemia of chronic disease"
+                        }
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "id": 233635,
+                    "topic": "Unclassified",
+                    "stem": "A 6-year-old girl presents to the Emergency Department with a history of feeling unwell and tired over the last 10 hours. On examination, she appears pale, has a palpable liver, and her spleen is 6 cm below the costal margin.\n\nBlood pressure: 93/55 mmHg\nHeart rate: 169/min\nRespiratory rate: 28/min\nTemperature: 37.5°C\n\nTest Result (Normal Values):\nHb: 52 (112-165 g/L)\nPlatelet count: 102 (150-400 × 10^9/L)\nSickle cell screen: Positive\n\nWhich of the following is the most appropriate treatment?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Blood transfusion"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Immunoglobulin"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Clarithromycin"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Prednisolone"
+                        }
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "id": 233636,
+                    "topic": "Unclassified",
+                    "stem": "A 6-year-old girl presents to the Emergency Department with a history of feeling unwell and tired over the last 10 hours. On examination, she appears pale, has a palpable liver, and her spleen is 6 cm below the costal margin.\n\nBlood pressure: 93/55 mmHg\nHeart rate: 169/min\nRespiratory rate: 28/min\nTemperature: 37.5°C\n\nTest Result (Normal Values):\nHb: 52 (112-165 g/L)\nPlatelet count: 102 (150-400 × 10^9/L)\nSickle cell screen: Positive\n\nWhich of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Sequestration crisis"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Evans syndrome"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Bacterial sepsis"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Aplastic crisis"
+                        }
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "id": 233637,
+                    "topic": "Unclassified",
+                    "stem": "A 6-year-old girl presents to the Emergency Department with a history of feeling unwell and tired over the last 10 hours. She has had two previous similar attacks. On examination, she appears pale, has a palpable liver, and her spleen is 6 cm below the costal margin.\n\nBlood pressure: 93/55 mmHg\nHeart rate: 169/min\nRespiratory rate: 28/min\nTemperature: 37.5°C\n\nTest Result (Normal Values):\nHb: 52 (112-165 g/L)\nPlatelet count: 102 (150-400 × 10^9/L)\nSickle cell screen: Positive\n\nWhich of the following is the most appropriate management?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Regular blood transfusions"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Hydrocortisone"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Splenectomy"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Hydroxyurea"
+                        }
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "id": 233638,
+                    "topic": "Unclassified",
+                    "stem": "A 2-year-old boy presents for a routine examination. He was born full term with a birth weight of 3450 g. He was breastfed for one year and then fed whole formula milk with a balanced diet. His growth and development have been normal. At 1 year, Hb was 105 g/L and oral ferrous sulfate was started. Six months later Hb was 103 g/L, so the dose was increased. After another 3 months, there was still no significant improvement despite continued therapy.\n\nTest Result (Normal Values):\nHb: 91 (112-165 g/L)\nRDW: 13.1 (11.5-14.5%)\nWBC: 10.4 (4.5-10.5 × 10^9/L)\nMCV: 62 (80-95 fL)\nReticulocyte: 0.8% (0.2-1.2%)\nPlatelet count: 280 (150-400 × 10^9/L)\n\nWhich of the following is the most appropriate next step in definitive diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Serum vitamin B12 level"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Bone marrow aspiration"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Serum iron and ferritin level"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Haemoglobin electrophoresis"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "id": 233639,
+                    "topic": "Unclassified",
+                    "stem": "A 4-year-old boy presents with a 1-day history of abdominal pain and vomiting. He is afebrile and has no diarrhea. He also has bilateral knee pain with tenderness but no effusion. Within 24 hours, he develops a petechial and purpuric rash on his legs and buttocks, with a normal platelet count.\n\nWhich of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Systemic lupus erythematosus"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Hemolytic uremic syndrome"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Henoch-Schönlein purpura"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Kawasaki disease"
+                        }
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "id": 233640,
+                    "topic": "Unclassified",
+                    "stem": "An 8-year-old girl presents with fever, widespread bruising, and pain in both legs. Examination reveals pallor, ecchymoses, and petechiae on the face, trunk, and extremities.\n\nTest Result (Normal Values):\nHb: 63 (112-165 g/L)\nWBC: 28 (4.5-10.5 × 10^9/L)\nPlatelet count: 29 (150-400 × 10^9/L)\n\nWhich of the following would be the most appropriate diagnostic test?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Bone marrow aspiration"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Coagulation profile"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Haemoglobin electrophoresis"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "CT scan of liver"
+                        }
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "id": 233641,
+                    "topic": "Unclassified",
+                    "stem": "A 5-year-old child develops acute right upper quadrant abdominal pain following an upper respiratory tract infection. Examination shows normal bowel sounds and no rebound tenderness.\n\nBlood pressure: 110/70 mmHg\nHeart rate: 110/min\nRespiratory rate: 24/min\nTemperature: 38.9°C\n\nTest Result (Normal Values):\nHb: 72 (112-165 g/L)\nWBC: 12 (4.5-10.5 × 10^9/L)\nReticulocyte: 7.2% (0.2-1.2%)\n\nPeripheral smear:\nNormochromic normocytic RBCs with target cells and inclusion bodies\n\nWhich of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "GI infarction"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Lead poisoning"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Sickle cell disease"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Acute appendicitis"
+                        }
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "id": 233642,
+                    "topic": "Unclassified",
+                    "stem": "A 2-year-old child presents with bruising and generalized petechiae, mainly on the legs. The child was previously healthy. The parents report an upper respiratory infection 2 weeks ago that resolved without treatment.\n\nTest Results (Normal Values):\nHb: 131 (112-165 g/L)\nHCT: 0.39 (0.32-0.42)\nWBC: 6.8 (4.5-10.5 × 10^9/L)\nLymphocytes: 22% (20-40%)\nMonocytes: 2% (2-8%)\nNeutrophils: 58% (40-60%)\nPlatelet count: 15 (150-400 × 10^9/L)\n\nWhich of the following is the most appropriate management?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Splenectomy"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Platelet transfusion"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Factor VIII transfusion"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Intravenous γ-globulin"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "id": 233643,
+                    "topic": "Unclassified",
+                    "stem": "A 6-year-old girl presents to the Emergency Department with a history of feeling unwell over the last 10 hours. On examination, she appears pale, has a palpable liver, and her spleen is 6 cm below the costal margin.\n\nBlood pressure: 93/55 mmHg\nHeart rate: 169/min\nRespiratory rate: 28/min\nTemperature: 37.5°C\n\nTest Result (Normal Values):\nHb: 58 (112-165 g/L)\nPlatelet count: 98 (150-400 × 10^9/L)\nSickle cell screen: Positive\n\nWhich of the following is the most useful investigation?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Bone marrow aspiration"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Abdominal ultrasound"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Antinuclear antibody"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Reticulocyte count"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "id": 233644,
+                    "topic": "Unclassified",
+                    "stem": "An infant girl is diagnosed clinically with Down syndrome. The mother asks about the risk in future pregnancies.\n\nWhich of the following is the appropriate investigation to determine this risk?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Karyotyping for this infant"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Amniocentesis in next pregnancy"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Ultrasound during next pregnancy"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Karyotyping for this infant and mother"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "id": 233645,
+                    "topic": "Unclassified",
+                    "stem": "A 7-year-old boy has had recurrent upper and lower respiratory tract bacterial infections since infancy. On examination, he has eczema and areas of ecchymosis on his skin. His brother and a paternal uncle are similarly affected.\n\nTest Result (Normal Values):\nHb: 108 (112-165 g/L)\nWBC: 7.6 (4.5-10.5 × 10^9/L)\nPlatelet count: 40 (150-400 × 10^9/L)\n\nWhich of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Severe combined immunodeficiency"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Bruton agammaglobulinemia"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Wiskott–Aldrich syndrome"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "DiGeorge syndrome"
+                        }
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "id": 233646,
+                    "topic": "Unclassified",
+                    "stem": "A 14-month-old boy presents with severe recurrent gram-positive bacterial pneumonia. This is his third infection in 4 months. He has two healthy sisters, and a brother who died at 10 months of age from pneumonia. Blood tests show low levels of all immunoglobulin classes, few B cells, but normal T-cell numbers and function.\n\nWhich of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Transient hypogammaglobulinemia of infancy"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Common variable hypogammaglobulinemia"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "CD40 ligand deficiency"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "X-linked hypogammaglobulinemia"
+                        }
+                    ],
+                    "answer": "D"
                 }
             ]
         }
