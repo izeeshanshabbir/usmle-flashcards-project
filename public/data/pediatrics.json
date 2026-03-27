@@ -3542,6 +3542,30 @@
                     "answer": "D"
                 },
                 {
+                    "id": 1860.5,
+                    "topic": "Vaccination",
+                    "stem": "A 6-month-old boy presents to the Well Baby Clinic for the 6-month vaccination. The mother states that he has developed febrile seizure with his last DTaP vaccine. Which of the following is the best answer to the mother's concerns?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Delay the vaccination until he is 18 month old"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Febrile seizure is true contraindication to DaP vaccination"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "He has to have the vaccine regardless of the adverse reactions"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Febrile seizure does not have long-term sequelae and is not contraindication for subsequent vaccines"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
                     "id": 1861,
                     "topic": "Vaccination",
                     "stem": "Which of the following is an absolute contraindication to DTaP vaccination?",
@@ -3624,7 +3648,11 @@
                         },
                         {
                             "letter": "B",
-                            "text": "Do not give the DPT vaccines C.First, refer for allergen screening"
+                            "text": "Do not give the DPT vaccines"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "First, refer for allergen screening"
                         },
                         {
                             "letter": "D",
@@ -3682,6 +3710,30 @@
                     "answer": "B"
                 },
                 {
+                    "id": 1866.5,
+                    "topic": "Vaccination",
+                    "stem": "A full term boy was born to a mother diagnosed antenatally with Hepatitis B surface Ag positive (HBAg positive). Her delivery was unremarkable and the newborn weighed 3.4 kg and was normal on assessment. He received the Hepatitis B vaccine and Hepatitis B Immunoglobulins within the first 4 hours. The mother is very enthusiastic to breastfeed her child as she did with her previous children. Which of the following is the best advice?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Wait 12 hours before"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Encourage breastfeeding"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Advise not to breastfeed"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Measure HbsAg, then decide"
+                        }
+                    ],
+                    "answer": "B"
+                },
+                {
                     "id": 1867,
                     "topic": "Vaccination",
                     "stem": "An 18-month-old girl presents to the clinic to receive her scheduled vaccines. Her mother reports that she is currently completing a course of antibiotics for tonsillitis, diagnosed 4 days ago. Initially she had fever, irritability, and poor oral intake. Today she is better and started to play and feed normally. Examination reveals a hyperaemic pharynx. Blood pressure 85/65 mmHg Heart rate 100 /min Respiratory rate 25 /min Temperature 37.3° C Which of the following is the best decision about the vaccination?",
@@ -3704,6 +3756,30 @@
                         }
                     ],
                     "answer": "A"
+                },
+                {
+                    "id": 1867.5,
+                    "topic": "Vaccination",
+                    "stem": "A full term girl was born to a mother who is Hepatitis B surface Ag positive (HbAg +ve). The baby weighs 3.2 kg and is asymptomatic. What is the appropriate immunoprophylaxis that should be considered in the first 12 hours?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Administer Hepatitis B vaccine"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Give Hepatitis B immunoglobulins"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Give Hepatitis B vaccine and immunoglobulins"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Measure Hepatitis B surface antigen in the newborn"
+                        }
+                    ],
+                    "answer": "C"
                 },
                 {
                     "id": 1868,
@@ -4477,6 +4553,54 @@
                     "answer": "A"
                 },
                 {
+                    "id": 1899.5,
+                    "topic": "Gastroenterology",
+                    "stem": "A 10-year-old boy presents to the clinic complaining of abdominal pain, frequent diarrhoea sometimes bloody, and pain usually accompanying defecation. His mother observed that he has lost weight over the last 3 months since the onset of the problem. The boy also has ache and pains of his joints. On examination, he looks ill and pale, with a soft abdomen and no tenderness or organomegaly. Which of the following radiographic signs is associated with duodenal obstruction in a neonate?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Kerley B lines"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Bird's beak sign"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Hampton's hump"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Double bubble sign"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "id": 1899.6,
+                    "topic": "Gastroenterology",
+                    "stem": "A 2-year-old boy presents with poor growth, abdominal distension and diarrhoea. On examination, he is at the 5th percentile on the growth chart. He looks pale, has abdominal distension, and wasting of the buttocks. Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Celiac disease"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Cystic fibrosis"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Crohn's disease"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Toddler diarrhoea"
+                        }
+                    ],
+                    "answer": "A"
+                },
+                {
                     "id": 1900,
                     "topic": "Gastroenterology",
                     "stem": "A 6-week-old infant begins to exhibit forceful vomiting after each meal. The infant was born at term to a 23 year-old primigravida whose pregnancy was uncomplicated and ended with a normal vaginal delivery. No congenital anomalies are noted upon examination of the infant. Which of the following is the most likely diagnosis?",
@@ -4525,6 +4649,30 @@
                     "answer": "A"
                 },
                 {
+                    "id": 1901.5,
+                    "topic": "Gastroenterology",
+                    "stem": "A 10-year-old patient presents with a 3-day history of yellow discoloration of the sclera, anorexia and abdominal pain. Test Result Normal Values Indirect bilirubin 140 <19 mol/L Total bilirubin 260 <20.5 mol/L Albumin 40 36-52 g/L Total Proteins 76 56-80 g/L Alanine aminotransferase 878 10-35 U/L Aspartate aminotransferase 1005 12-40 IU/L Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Gilbert's syndrome"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Infective hepatitis"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Obstructive jaundice"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Acute pancreatitis"
+                        }
+                    ],
+                    "answer": "B"
+                },
+                {
                     "id": 1902,
                     "topic": "Gastroenterology",
                     "stem": "A 7-year-old child presents with recurrent a]acks of abdominal pain for the last 2 weeks, decreased appetite and general weakness. On examination, she looks ill. Abdominal palpation detected a tender mass located in the right lower quadrant; it was confirmed by rectal examination. Complete blood count shows leukocytosis with le\\ shi\\ Blood pressure 90/60 min Heart rate 100 /min Temperature 37.5° C Which of the following investigations is most likely to confirm the diagnosis?",
@@ -4535,7 +4683,15 @@
                         },
                         {
                             "letter": "B",
-                            "text": "Plain abdomen X ray C.Abdominal CT scan! D.Barium enema"
+                            "text": "Plain abdomen X ray"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Abdominal CT scan"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Barium enema"
                         }
                     ],
                     "answer": "C"
@@ -4543,7 +4699,31 @@
                 {
                     "id": 1903,
                     "topic": "Gastroenterology",
-                    "stem": "A 10-year-old girl is referred to the gastroenterologist after complaining about intense upper abdominal pain for the last 2 months. The pain is independent of meals and there is no vomiting or reflux. She has a normal stool and appe7te. The patient's father has a history of peptic ulcer. Laboratory findings are normal. The C13-Urea-breath test is positive. The gastroenterologist performs a gastroscopy and takes a biopsy for microbiological testing. Which bacterium is most likely to be found in the biopsy? A.Helicobacter pylori B.Shigella dysenteriae C.Campylobacter jejuni DSalmonella enteritidis A 12-year-old patient presents with recent onset of fever and abdominal pain. Just before arrival, the patient vomited. Pain began in the periumbilical area. After several hours, the pain localised to the right lower abdominal quadrant. The patient stated that any food offered would be refused. The patient is alert. Physical examination confirms guarding and rebound tenderness in the right lower abdominal quadrant and there are positive psoas and obturator signs (see lab result). Blood pressure 110/70 mmHg Heart rate 120/min Respiratory rate 22 /min Temperature 38.2° C WBC 15.8 4-10.5 x 109/L Which of the following is the most likely pathophysiology?",
+                    "stem": "A 10-year-old girl is referred to the gastroenterologist after complaining about intense upper abdominal pain for the last 2 months. The pain is independent of meals and there is no vomiting or reflux. She has a normal stool and appetite. The patient's father has a history of peptic ulcer. Laboratory findings are normal. The C13-Urea-breath test is positive. The gastroenterologist performs a gastroscopy and takes a biopsy for microbiological testing. Which bacterium is most likely to be found in the biopsy?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Helicobacter pylori"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Shigella dysenteriae"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Campylobacter jejuni"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Salmonella enteritidis"
+                        }
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "id": 1903.5,
+                    "topic": "Gastroenterology",
+                    "stem": "A 12-year-old patient presents with recent onset of fever and abdominal pain. Just before arrival, the patient vomited. Pain began in the periumbilical area and later localized to the right lower abdominal quadrant. The patient refuses food. Physical examination confirms guarding and rebound tenderness in the right lower abdominal quadrant with positive psoas and obturator signs. Blood pressure 110/70 mmHg Heart rate 120/min Respiratory rate 22 /min Temperature 38.2° C WBC 15.8 (4-10.5 x 10^9/L) Which of the following is the most likely pathophysiology?",
                     "options": [
                         {
                             "letter": "A",
@@ -4555,7 +4735,11 @@
                         },
                         {
                             "letter": "C",
-                            "text": "Intussusception of the ileum D.Obstruction of appendiceal lumen"
+                            "text": "Intussusception of the ileum"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Obstruction of appendiceal lumen"
                         }
                     ],
                     "answer": "D"
@@ -4563,7 +4747,7 @@
                 {
                     "id": 1904,
                     "topic": "Gastroenterology",
-                    "stem": "A 10-month-old presents with fever, vomiting and copious watery diarrhoea for the past 3 days. Examination reveals a lethargic child with cool, dry skin, sunken eyes, tachycardia and mild tachypnea. Which of the following tests is the most likely confirm the diagnosis?",
+                    "stem": "A 10-month-old presents with fever, vomiting and copious watery diarrhoea for the past 3 days. Examination reveals a lethargic child with cool, dry skin, sunken eyes, tachycardia and mild tachypnea. Which of the following tests is most likely to confirm the diagnosis?",
                     "options": [
                         {
                             "letter": "A",
@@ -4571,19 +4755,35 @@
                         },
                         {
                             "letter": "B",
-                            "text": "Serum antibody C.Stool leukocyte"
+                            "text": "Serum antibody"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Stool leukocyte"
                         },
                         {
                             "letter": "D",
-                            "text": "Stool antigen A 6-year-old child is brought to the Paediatric Clinic. The parent reports intermittent fever, vomiting, diarrhoea, and diffuse abdominal pain for the past week. The parent indicated that the child's eyes also appears to have a yellowish skin stain for the past 2 days. The liver is palpable 5 cm below costal margin and there is jaundice, scleral icterus, and mild abdominal tenderness on examination. Blood pressure 110/70 mmhg Heart rate 76 /min Respiratory rate 18 /min Temperature 38.0° C Which of the following is the most likely type of viral hepatitis?"
-                        },
+                            "text": "Stool antigen"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "id": 1904.5,
+                    "topic": "Gastroenterology",
+                    "stem": "A 6-year-old child is brought to the Paediatric Clinic with intermittent fever, vomiting, diarrhoea, and diffuse abdominal pain for the past week. The parent reports yellowish discoloration of the eyes for 2 days. Examination shows hepatomegaly, jaundice, scleral icterus, and mild abdominal tenderness. Blood pressure 110/70 mmHg Heart rate 76 /min Respiratory rate 18 /min Temperature 38.0° C Which of the following is the most likely type of viral hepatitis?",
+                    "options": [
                         {
                             "letter": "A",
                             "text": "A"
                         },
                         {
                             "letter": "B",
-                            "text": "B C.C"
+                            "text": "B"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "C"
                         },
                         {
                             "letter": "D",
@@ -4607,7 +4807,11 @@
                         },
                         {
                             "letter": "C",
-                            "text": "Reyes syndrome D.Gastric mucosal atrophy"
+                            "text": "Reyes syndrome"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Gastric mucosal atrophy"
                         }
                     ],
                     "answer": "B"
@@ -4651,7 +4855,11 @@
                         },
                         {
                             "letter": "C",
-                            "text": "Sonography D.Endoscopy"
+                            "text": "Sonography"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Endoscopy"
                         }
                     ],
                     "answer": "C"
@@ -4724,6 +4932,30 @@
                         {
                             "letter": "D",
                             "text": "Physiologic gastrosophageal reflux"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "id": 1910.5,
+                    "topic": "Gastroenterology",
+                    "stem": "A 2-month-old boy is being evaluated in the Well Baby Clinic. He is the first child for a young mother who is concerned about his fussiness and spitting up after feeds and in between feeds. He is taking cow-milk based formula and otherwise healthy. His growth parameters are normal. His physical examination is normal. What would be your next step in his management?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Observation"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Pyloric ultrasonography"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "24-hour impedance pH study test"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Reflux precautions and reassurance"
                         }
                     ],
                     "answer": "D"
@@ -4969,6 +5201,30 @@
                     "answer": "D"
                 },
                 {
+                    "id": 1920.5,
+                    "topic": "Gastroenterology",
+                    "stem": "A 1-month-old boy presented to the Emergency Room with a history of forceful, nonbilious vomiting. The mother is very concerned as he is her first baby and was delivered by caesarean section. She stated that he is always hungry no matter how much he feeds. Physical examination showed a palpable \"olive\" in the abdominal right upper quadrant. Which of the following is the most appropriate immediate next step in the management?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Upper GI series"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Prescribe promethazine"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Abdominal ultrasonography"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Correction of dehydration and electrolyte imbalance"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
                     "id": 1921,
                     "topic": "Gastroenterology",
                     "stem": "Which of the following viral gastroenteritis can be prevented by vaccination?",
@@ -5087,6 +5343,54 @@
                         }
                     ],
                     "answer": "B"
+                },
+                {
+                    "id": 1925.5,
+                    "topic": "Gastroenterology",
+                    "stem": "A 7-year-old boy presented with recurring upper abdominal pain and occasional vomiting after meals for the last 6 months. The child has not gained any weight since the beginning of the symptoms and has a loss of appetite. The father has a history of peptic ulcer. Physical examination confirms epigastric tenderness on palpation. A gastroscopy is performed and a biopsy is taken for microbiological testing. A triple treatment with amoxicillin, clarithromycin and a proton pump inhibitor is recommended. Laboratory findings are normal. 13C-Urea-breath test: Positive. Which of the following is the most appropriate way to monitor the response to treatment?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Serologic testing"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Clinical manifestation"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "13C-Urea-breath test"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Biopsy for microbiological testing"
+                        }
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "id": 1925.6,
+                    "topic": "Gastroenterology",
+                    "stem": "A 7-year-old boy presents with recurring upper abdominal pain and occasional vomiting after meals over the last 6 months. The child has not gained any weight since the beginning of the symptoms and has a loss of appetite. The father has a history of peptic ulcer. Physical examination confirms epigastric tenderness on palpation. A gastroscopy is performed and a biopsy is taken for microbiological testing. Treatment with metronidazole and a proton pump inhibitor is recommended. Laboratory findings are normal. 13C-Urea-breath test: Positive. Which additional medication should be added to the treatment?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Clarithromycin"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Tetracycline"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Prednisone"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Sucralfate"
+                        }
+                    ],
+                    "answer": "A"
                 },
                 {
                     "id": 1926,
@@ -5569,6 +5873,54 @@
                     "answer": "A"
                 },
                 {
+                    "id": 1945.5,
+                    "topic": "Gastroenterology",
+                    "stem": "A 2-week-old girl presents with persistent vomiting since birth. She vomits about 1 hour after feeding. She passes stool 3 times per day. The physical examination shows a small non-tender mass in the epigastrium. Blood pressure 95/55 mmHg Heart rate 135 /min Respiratory rate 35 /min Temperature 37.1° C Which of the following is the most appropriate investigation?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Barium swallow"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Abdominal X-ray"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Abdominal CT scan"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Abdominal ultrasound"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "id": 1945.6,
+                    "topic": "Gastroenterology",
+                    "stem": "A 3-year-old boy presents to the clinic with blood in his diapers for 2 days. There is no associated abdominal pain or constipation. He had a similar presentation 3 months ago. The physical examination shows pale conjunctiva and dry oral mucosa. Blood pressure 130/75 mmHg Heart rate 124 /min Respiratory rate 35 /min Temperature 37.4° C Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Juvenile polyp"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Intussusception"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Hirschsprung disease"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Meckel's diverticulum"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
                     "id": 1946,
                     "topic": "Gastroenterology",
                     "stem": "A 10-day-old full term boy presents with abdominal distension for 1 week. It is associated with greenish vomiting and difficulty in passing stool. His stools are loose in constancy. On per-rectal examination, the rectum is empty and he passed large amount of stool and gases after the figure was removed (see image). Which of the following is most likely diagnosis?",
@@ -5603,7 +5955,11 @@
                         },
                         {
                             "letter": "B",
-                            "text": "Ileum C.Colon"
+                            "text": "Ileum"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Colon"
                         },
                         {
                             "letter": "D",
@@ -5663,8 +6019,12 @@
                 {
                     "id": 1950,
                     "topic": "Gastroenterology",
-                    "stem": "Which of the following is most appropriate management for Hirschsprung's disease? \"A. Surgical resection",
+                    "stem": "Which of the following is most appropriate management for Hirschsprung's disease?",
                     "options": [
+                        {
+                            "letter": "A",
+                            "text": "Surgical resection"
+                        },
                         {
                             "letter": "B",
                             "text": "Dietary alteration"
@@ -5675,10 +6035,10 @@
                         },
                         {
                             "letter": "D",
-                            "text": "Immuno-supressive agents Answer: it is not obvious in the golden file but It is mostly A"
+                            "text": "Immuno-supressive agents"
                         }
                     ],
-                    "answer": ""
+                    "answer": "A"
                 },
                 {
                     "id": 1951,
@@ -5763,7 +6123,11 @@
                         },
                         {
                             "letter": "B",
-                            "text": "A decreased hematocrit C.Elevated C-reactive protein"
+                            "text": "A decreased hematocrit"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Elevated C-reactive protein"
                         },
                         {
                             "letter": "D",
@@ -5803,7 +6167,11 @@
                     "options": [
                         {
                             "letter": "A",
-                            "text": "ABO incompatibility B.Rh incompatibility"
+                            "text": "ABO incompatibility"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Rh incompatibility"
                         },
                         {
                             "letter": "C",
@@ -5887,8 +6255,12 @@
                 {
                     "id": 1960,
                     "topic": "Gastroenterology",
-                    "stem": "A 12-year-old boy presents to the clinic with intermittent abdominal distention, abdominal colic and excessive flatulence. He first started noticing these symptoms when he moved into his father's house and his stepmother insisted on milk at dinner every night. He is otherwise healthy, has normal growth, no weight loss, and no travel history. Which of the following tests has the highest diagnostic value? A. Serum lactose levels",
+                    "stem": "A 12-year-old boy presents to the clinic with intermittent abdominal distention, abdominal colic and excessive flatulence. He first started noticing these symptoms when he moved into his father's house and his stepmother insisted on milk at dinner every night. He is otherwise healthy, has normal growth, no weight loss, and no travel history. Which of the following tests has the highest diagnostic value?",
                     "options": [
+                        {
+                            "letter": "A",
+                            "text": "Serum lactose levels"
+                        },
                         {
                             "letter": "B",
                             "text": "Esophageal manometry"
@@ -5907,8 +6279,12 @@
                 {
                     "id": 1961,
                     "topic": "Gastroenterology",
-                    "stem": "A 6-month-old infant is brought to the clinic with a 3-day history of watery diarrhoea. On examination, the infant is awake and alert but restless and eager to drink, had a depressed fontanel, tachycardia, normal pulses and sunken eyes. What would be the expected percentage of dehydration? A. <1%",
+                    "stem": "A 6-month-old infant is brought to the clinic with a 3-day history of watery diarrhoea. On examination, the infant is awake and alert but restless and eager to drink, had a depressed fontanel, tachycardia, normal pulses and sunken eyes. What would be the expected percentage of dehydration?",
                     "options": [
+                        {
+                            "letter": "A",
+                            "text": "<1%"
+                        },
                         {
                             "letter": "B",
                             "text": "1-3%"
@@ -5951,8 +6327,12 @@
                 {
                     "id": 1963,
                     "topic": "Gastroenterology",
-                    "stem": "A 4-day-old infant is seen by a paediatrician in the newbom nursery, for bilious vomiting and abdominal distention. The newbom has been feeding poorly and is difficult to calm. The newborn passed meconium shortly after birth and has passed several seedy, yellow stools each day since then. The physical examination confirmed abdominal distention. Which of the following is the most likely diagnosis? A. Allergic reaction to formula",
+                    "stem": "A 4-day-old infant is seen by a paediatrician in the newbom nursery, for bilious vomiting and abdominal distention. The newbom has been feeding poorly and is difficult to calm. The newborn passed meconium shortly after birth and has passed several seedy, yellow stools each day since then. The physical examination confirmed abdominal distention. Which of the following is the most likely diagnosis?",
                     "options": [
+                        {
+                            "letter": "A",
+                            "text": "Intestinal malrotation with volvulus"
+                        },
                         {
                             "letter": "B",
                             "text": "Hirschsprung's disease"
@@ -5995,7 +6375,7 @@
                 {
                     "id": 1965,
                     "topic": "Gastroenterology",
-                    "stem": "Which of the following is the most likely cause?",
+                    "stem": "A 4-month-old presents with frequent post-prandial regurgitation. The symptoms have been present since birth but have worsened when the mother increased the formula feeding volumes. The patient’s weight is less than it was at the three-month check-up. General examination is otherwise normal. Blood pressure 80/40 mmHg Heart rate 120 /min Respiratory rate 32 /min Temperature 36.6° C Which of the following is the most likely cause?",
                     "options": [
                         {
                             "letter": "A",
@@ -6075,10 +6455,62 @@
                         },
                         {
                             "letter": "C",
-                            "text": "Order a stool culture D.Fluid and electrolyte replacement"
+                            "text": "Order a stool culture"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Fluid and electrolyte replacement"
                         }
                     ],
                     "answer": "D"
+                },
+                {
+                    "id": 1968.5,
+                    "topic": "Gastroenterology",
+                    "stem": "A 3-year-old boy with a known case of celiac disease presents to the clinic with frontal bossing, bowlegs and Harrison sulcus. He missed follow-up for the last 6 months. Which of the following can help in confirming the diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "X-ray of the wrist joint shows cupping"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Flaky-paint skin rash with hyperkeratosis"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Ultrasound abdomen shows enlarged liver"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Low plasma albumin, potassium and magnesium"
+                        }
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "id": 1968.6,
+                    "topic": "Gastroenterology",
+                    "stem": "A 3-year-old boy with celiac disease presents to the clinic with frontal bossing, bowlegs and Harrison sulcus. He missed follow-up for the last 6 months. Which of the following is the best management?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Daily administration of Vitamin D3"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Daily administration of Vitamin A"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Daily administration of Vitamin B12"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Daily administration of Vitamin C"
+                        }
+                    ],
+                    "answer": "A"
                 }
             ]
         },
@@ -6472,6 +6904,174 @@
                     "answer": "D"
                 },
                 {
+                    "id": 1984.5,
+                    "topic": "Respiratory",
+                    "stem": "A 5-year-old child with bronchial asthma under control with inhalers. Mother is concerned about the future of her child's asthma during adulthood. Which of the following is the most likely prognosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Chronic lung disease"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Most of the children grow out of it"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Asthmatic during adulthood"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "No correlation between childhood and adulthood asthma"
+                        }
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "id": 1984.6,
+                    "topic": "Respiratory",
+                    "stem": "A 3-year-old child with bronchial asthma on ventolin nebulizer at home as per needs. The mother expresses concern that the family cannot go out because the nebulizer requires electricity. Which of the following is the most appropriate counselling?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Agree and support their decision as the priority is asthma control"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Find someone to take care of the child if family goes out"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Educate with clear instructions inhaler usage and advise to stop nebulizer"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Find a portable nebulizer machine"
+                        }
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "id": 1984.7,
+                    "topic": "Respiratory",
+                    "stem": "What is the most effective treatment for moderate bronchial asthma severity?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Beta agonist agents"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Beta agonist agents and steroids"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Long acting beta agonist agents with steroids"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Long acting beta agonist agents with anticholinergics"
+                        }
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "id": 1984.8,
+                    "topic": "Respiratory",
+                    "stem": "A 6-year-old boy presents with an acute asthma attack and improves after initial management. Oxygen saturation is 88%. Which of the following is the most likely reason for admission?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Hypoxia"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Patient age"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Hypotension"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Asthma attack"
+                        }
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "id": 1984.9,
+                    "topic": "Respiratory",
+                    "stem": "A 2-year-old child diagnosed with pneumonia has poor oral intake and vomiting. Which of the following justifies hospitalization?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Age of the child"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Vital signs findings"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Inability to take orally"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Primary diagnosis of pneumonia"
+                        }
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "id": 1984.10,
+                    "topic": "Respiratory",
+                    "stem": "A 3-year-old child presents with fever and cough for 5 days following flu-like prodrome. Examination shows decreased air entry and crackles. Lab results show leukocytosis. Which of the following is the most appropriate management?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Reassurance"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Bronchodilator and steroids"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Admit for intravenous antibiotics"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Discharge on amoxicillin for 7 days"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "id": 1984.11,
+                    "topic": "Respiratory",
+                    "stem": "A 2-month-old infant presents with cough, sneezing, occasional cyanosis and frothy secretions. Examination shows tachypnea, retractions, rhonchi and crackles with good air entry. Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Bronchiolitis"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Heart failure"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Bronchial asthma"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Gastroesophageal reflux"
+                        }
+                    ],
+                    "answer": "A"
+                },
+                {
                     "id": 1985,
                     "topic": "Respiratory",
                     "stem": "A male newborn develops sudden respiratory distress (see report). Chest radiograph: A hyperlucent left upper lobe with adjacent lobar compression and mediastinal shift to the right. Which of the following is most appropriate treatment?",
@@ -6784,9 +7384,33 @@
                     "answer": "B"
                 },
                 {
+                    "id": 1996.5,
+                    "topic": "Respiratory",
+                    "stem": "A 3-month-old boy presented to the Emergency Room with history of paroxysmal episodes of staccato cough, inspiration between each cough. It is associated with perioral cyanosis and post-tussive vomiting. This illness was preceded by conjunctivitis a few days ago. On examination, the child looks unwell and tachypneic with crackles. Laboratory evaluation shows normal white blood cell count with elevated eosinophils. Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Pertussis"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Adenovirus pneumonia"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Mycoplasma pneumonia"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Chlamydia trachomatis pneumonia"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
                     "id": 1998,
                     "topic": "Respiratory",
-                    "stem": "A 30-minute-old, preterm at 27-week, delivered by emergency cesarean section for maternal reason have tachypnea, labored breathing and chest wall recession. Blood pressure 55/135 mmH Heart rate 135 /min Respiratory rate 65 /min Temperature 36.2 °C Oxygen saturation 86% Which of the following is the most likely diagnosis?",
+                    "stem": "A 30-minute-old preterm infant at 27 weeks presents with tachypnea, labored breathing and chest wall recession. Blood pressure 55/135 mmHg Heart rate 135 /min Respiratory rate 65 /min Temperature 36.2 °C Oxygen saturation 86%. Which of the following is the most likely diagnosis?",
                     "options": [
                         {
                             "letter": "A",
@@ -6794,7 +7418,15 @@
                         },
                         {
                             "letter": "B",
-                            "text": "Apnea of prematurity C.Respiratory distress syndrome D.Transient tachypnea of newborn"
+                            "text": "Apnea of prematurity"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Respiratory distress syndrome"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Transient tachypnea of newborn"
                         }
                     ],
                     "answer": "C"
@@ -6898,8 +7530,12 @@
                 {
                     "id": 2003,
                     "topic": "Respiratory",
-                    "stem": "A 5-year-old child presents with a severe sore throat, high fever and increasing difficulty breathing over 8 hours. On examination, ill and toxic looking child with drooling of saliva and sitting immobile with an open mouth. Blood pressure 110/70 mmHg Heart rate 120 /min Respiratory rate 28 /min Temperature 38.6 °C Oxygen saturation 95 % Which of the following is the most likely diagnosis? A. Bronchitis",
+                    "stem": "A 5-year-old child presents with a severe sore throat, high fever and increasing difficulty breathing over 8 hours. On examination, ill and toxic looking child with drooling of saliva and sitting immobile with an open mouth. Blood pressure 110/70 mmHg Heart rate 120 /min Respiratory rate 28 /min Temperature 38.6 °C Oxygen saturation 95 % Which of the following is the most likely diagnosis?",
                     "options": [
+                        {
+                            "letter": "A",
+                            "text": "Bronchitis"
+                        },
                         {
                             "letter": "B",
                             "text": "Pharyngitis"
@@ -7058,6 +7694,30 @@
                         }
                     ],
                     "answer": "B"
+                },
+                {
+                    "id": 2009.5,
+                    "topic": "Respiratory",
+                    "stem": "A 5-week-old baby is brought to the clinic with low-grade fever and difficulty breathing. Her parents report that she had 2 episodes in which she appeared to have stopped breathing. Physical examination confirms subcostal retractions with inspiration and diffuse bilateral wheeze. Temperature 37 °C Heart rate 130 /min Which of the following is the most frequent agent causing acute bronchiolitis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Adenovirus"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Parainfluenza"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Mycoplasma pneumonia"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Respiratory syncytial virus"
+                        }
+                    ],
+                    "answer": "D"
                 },
                 {
                     "id": 2010,
@@ -7350,7 +8010,7 @@
                 {
                     "id": 2022,
                     "topic": "Respiratory",
-                    "stem": "day history of a mild upper airway infection. Blood pressure 80/65 mmg Heart rate 120 /min Respiratory rate 40 /min Temperature 38.5° C Which of the following is the most appropriate way to establish the diagnosis?",
+                    "stem": "A 1-year-old girl is brought to the Paediatric Emergency Department in the early morning with breathing difficulties. She has a dry cough that sounds like the barking of a sea lion and gets worse when she is crying. Every time the infant breathes in, there is a high-pitched sound. There is also a 4-day history of a mild upper airway infection. Blood pressure 80/65 mmg Heart rate 120 /min Respiratory rate 40 /min Temperature 38.5° C Which of the following is the most appropriate way to establish the diagnosis?",
                     "options": [
                         {
                             "letter": "A",
@@ -7482,7 +8142,11 @@
                         },
                         {
                             "letter": "C",
-                            "text": "Expiratory stridor D Bluish coloured lips"
+                            "text": "Expiratory stridor"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Bluish coloured lips"
                         }
                     ],
                     "answer": "D"
@@ -8078,6 +8742,30 @@
                     "answer": "C"
                 },
                 {
+                    "id": 2051.5,
+                    "topic": "Nephrology",
+                    "stem": "A 5-year-old boy presented with eye puffiness and lower limb edema. He has no fever, vomiting or abdominal pain. His physical examination revealed well-perfused extremities and lower limb pitting edema. The rest of his exam is unremarkable. His laboratory testing confirmed the diagnosis of nephrotic syndrome. Which of the following is the first line of treatment in this patient?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Rituximab"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Prednisone"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Cyclosporine"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Cyclophosphamide"
+                        }
+                    ],
+                    "answer": "B"
+                },
+                {
                     "id": 2052,
                     "topic": "Nephrology",
                     "stem": "A 3-year-old child presents with a history of increasing eye puffiness for 1 week especially in the morning. He has had flu-like illness 2 week ago. On examination, he looks well, not in distress and no lower limb edema. Eye, chest and abdomen exams are normal (see lab results). Blood pressure 110/70 mmg Heart rate 76 /min Respiratory rate 18/min Temperature 36.6 °C Oxygen saturation 95 % Color Clear clear or light yellow Protein +4 Glucose Absent Leukocytes 0 0-3 per high power field Erythrocytes 0 Which of the following has the highest diagnostic value?",
@@ -8260,10 +8948,38 @@
                         },
                         {
                             "letter": "C",
-                            "text": "Plain abdomen X-ray D.?? Answer: ??"
+                            "text": "Plain abdomen X-ray"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Low complement C3"
                         }
                     ],
-                    "answer": ""
+                    "answer": "D"
+                },
+                {
+                    "id": 2059.5,
+                    "topic": "Nephrology",
+                    "stem": "A 3-year-old girl is brought to the Emergency Department with fever and dark urine. Her parents state that she had been constipated. On examination, she looks unwell and irritable with abdominal tenderness, but no palpable liver or spleen. Blood pressure 125/86 mmHg Heart rate 125 /min Respiratory rate 29 /min Temperature 39.9°C Test Result Normal Values WBC 16.5 4.5-10.5 x 10^9/L Hb 81 112-160 g/L Platelets count 325 150-400 x 10^9/L Urinalysis Test Result Normal Values Leukocytes 16 0-3 per high power field Erythrocytes 18 0-2 per high power field Protein ++ Absent Which of the following is the most appropriate management?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Frusemide"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Ceftriaxone"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Prednisone"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Salt free diet"
+                        }
+                    ],
+                    "answer": "B"
                 },
                 {
                     "id": 2060,
@@ -8530,6 +9246,30 @@
                     "answer": "C"
                 },
                 {
+                    "id": 2070.5,
+                    "topic": "Nephrology",
+                    "stem": "A 6-month-old infant presents to the Emergency Room with sudden apnea and color change. The mother reports recurrent vomiting and multiple chest infections. On examination, the infant is wasted, underweight, has failure to thrive and dystonic neck posturing while crying. Which of the following contributes to the disease?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Hypertrophy of the pyloric muscles"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Hypertrophy of the esophageal muscles"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Inappropriate relaxation of the upper esophageal sphincter"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Inappropriate relaxation of the lower esophageal sphincter"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
                     "id": 2071,
                     "topic": "Nephrology",
                     "stem": "A 3-year-old child presents to the clinic with history of passing red-brown urine. There is a positive history of flu-like prodrome 2 weeks ago. Which of the following has the highest diagnostic value?",
@@ -8576,222 +9316,6 @@
                         }
                     ],
                     "answer": "C"
-                },
-                {
-                    "id": 2337,
-                    "topic": "Nephrology",
-                    "stem": "An 8-year-old girl is referred to the paediatric nephrologist for increasing lethargy and extremely puffy eyelids for a week. Urinalysis showed 4+ proteins but glucose, red blood cells and ketones were absent. Which of the following is the most likely diagnosis?",
-                    "options": [
-                        {
-                            "letter": "A",
-                            "text": "Membrano-proliferative glomerulonephritis"
-                        },
-                        {
-                            "letter": "B",
-                            "text": "Focal segmental glomerulosclerosis"
-                        },
-                        {
-                            "letter": "C",
-                            "text": "Minimal change disease"
-                        },
-                        {
-                            "letter": "D",
-                            "text": "Berger's disease"
-                        }
-                    ],
-                    "answer": "C"
-                },
-                {
-                    "id": 2338,
-                    "topic": "Nephrology",
-                    "stem": "A 5-year-old child has a 1-day history of cola-coloured urine with red blood cell casts. 2 weeks ago, the child had culture-positive streptococcal tonsillitis. A diagnosis of acute post- streptococcal glomerulonephritis is suspected. Which of the following is the best clinical evidence to support the diagnosis?",
-                    "options": [
-                        {
-                            "letter": "A",
-                            "text": "Mildly elevated blood creatinine"
-                        },
-                        {
-                            "letter": "B",
-                            "text": "Negative antinuclear antibody"
-                        },
-                        {
-                            "letter": "C",
-                            "text": "Positive streptozyme test"
-                        },
-                        {
-                            "letter": "D",
-                            "text": "Low C3"
-                        }
-                    ],
-                    "answer": "D"
-                },
-                {
-                    "id": 2339,
-                    "topic": "Nephrology",
-                    "stem": "A 9-year-old girl is brought to the Emergency Department with abnormal movements and a recent history of tea coloured urine. Her parents described a preceding skin eruption. On examination, the child looks unwell, unresponsive and lower limb swelling is noted (see lab results). Blood pressure 155/105 mmHg Heart rate 110/min Respiratory rate 25 /min Temperature 37.4° C Test Result (Normal Values): Hb 78 (112-165 g/L) Platelets count 165 (150-400 x 109/L) Blood urea nitrogen 13.1 (1.8 to 6.4 mol/L) Creatinine 101 (27-88 mol/L) Complement C3 0.5 0.7-1.5 g/L Which of the following is the most likely diagnosis?",
-                    "options": [
-                        {
-                            "letter": "A",
-                            "text": "Post streptococcal glomerulonephritis"
-                        },
-                        {
-                            "letter": "B",
-                            "text": "Hemolyticureamic syndrome"
-                        },
-                        {
-                            "letter": "C",
-                            "text": "Henoch-schönleinpurpura"
-                        },
-                        {
-                            "letter": "D",
-                            "text": "Acute renal failure"
-                        }
-                    ],
-                    "answer": "A"
-                },
-                {
-                    "id": 2340,
-                    "topic": "Nephrology",
-                    "stem": "A 6-year-old girl developed reddish urine. Her parents stated that she had been constipated for the last 2 weeks and recently became incontinent. On examination, there is abdominal tenderness, and no organomegaly (see lab results). Blood pressure 115/76 mmg Heart rate 76/min Respiratory rate 27 /min Temperature 38.9° C Test Result (Normal Values): WBC 9.5 (4.5-10.5 x 109/L) Hb 79 (112-165 g/L) Platelets count 325 (150-400 × 109/L) Urine Analysis Result (Normal Values): Leukocytes 25-30 (0-3 per high power field) Erythrocytes 30-35 (0-2 per high power field) Protein + (Absent) Blood +++ (Absent) Which of the following is the most likely diagnosis?",
-                    "options": [
-                        {
-                            "letter": "A",
-                            "text": "Urinary tract infection"
-                        },
-                        {
-                            "letter": "B",
-                            "text": "Henoch-schönleinpurpura"
-                        },
-                        {
-                            "letter": "C",
-                            "text": "Autoimmune haemolytic anaemia"
-                        },
-                        {
-                            "letter": "D",
-                            "text": "Post streptococcal glomerulonephritis"
-                        }
-                    ],
-                    "answer": "A"
-                },
-                {
-                    "id": 2341,
-                    "topic": "Nephrology",
-                    "stem": "A 3-year-ald boy presents with painless abdominal distension, he has had occasional attacks of abdominal pain, vomiting, and bloody urine. On examination, there is a smooth firm mass in the right loin, an absent iris and undescended testes (see lab results). Urinalysis Result (Normal Values): Color: Clear (Clear or light yellow) Appearance: Turbid Clear Specific gravity: 1.025 (1.001-1.030) pH: 7.5 (4.3-8) Leukocytes: 5 (0-3 per high power field) Erythrocytes: 15 (0-2 per high power field) Color: Clear (Clear or light yellow) Which of the following is the most likely diagnosis?",
-                    "options": [
-                        {
-                            "letter": "A",
-                            "text": "Hydronephrosis"
-                        },
-                        {
-                            "letter": "B",
-                            "text": "Nephroblastoma"
-                        },
-                        {
-                            "letter": "C",
-                            "text": "Urinary tract infection"
-                        },
-                        {
-                            "letter": "D",
-                            "text": "Polycystic kidney disease"
-                        }
-                    ],
-                    "answer": "B"
-                },
-                {
-                    "id": 2342,
-                    "topic": "Nephrology",
-                    "stem": "A 14-month-old girl is brought to the clinic with vomiting and diarrhoea. The mother reports her child is less active. On examination, she has mild dehydration with an estimated fluid deficit of 5% (see lab results). Weight: 10 Kg Sodium: 128 (134-146 mmol/L) Potassium: 3.3 (3.5-5.1 mmol/L) Chloride: 94 (97-108 mmol/L) Bicarbonate: 12 (21-28 mmol/L) How much intravenous fluid (ml/day) should be given?",
-                    "options": [
-                        {
-                            "letter": "A",
-                            "text": "1000"
-                        },
-                        {
-                            "letter": "B",
-                            "text": "1250"
-                        },
-                        {
-                            "letter": "C",
-                            "text": "1500"
-                        },
-                        {
-                            "letter": "D",
-                            "text": "1750"
-                        }
-                    ],
-                    "answer": "C"
-                },
-                {
-                    "id": 2343,
-                    "topic": "Nephrology",
-                    "stem": "A 9-year-old boy presents with abdominal pain and swelling of his right ankle. He had had an upper respiratory tract infection 3 weeks earlier. On examination, he had multiple maculopapular lesions (see image and lab result). Test Result (Normal Value) Erythrocytes 15 (0-2 per high power field) Which of the following is the most appropriate management?",
-                    "options": [
-                        {
-                            "letter": "A",
-                            "text": "Antibiotics"
-                        },
-                        {
-                            "letter": "B",
-                            "text": "Platelet transfusion"
-                        },
-                        {
-                            "letter": "C",
-                            "text": "Supportive treatment"
-                        },
-                        {
-                            "letter": "D",
-                            "text": "Factor VIll transfusion"
-                        }
-                    ],
-                    "answer": "C"
-                },
-                {
-                    "id": 2344,
-                    "topic": "Nephrology",
-                    "stem": "A child is brought to the clinic with chronic proteinuria renal disease and hypertension. The parents are concerned about progression to end-stage renal disease. Which of the following drugs would be most useful in preventing this progression?",
-                    "options": [
-                        {
-                            "letter": "A",
-                            "text": "Enalapril"
-                        },
-                        {
-                            "letter": "B",
-                            "text": "Clonidine"
-                        },
-                        {
-                            "letter": "C",
-                            "text": "Propranolol"
-                        },
-                        {
-                            "letter": "D",
-                            "text": "Amlodipine"
-                        }
-                    ],
-                    "answer": "A"
-                },
-                {
-                    "id": 2345,
-                    "topic": "Nephrology",
-                    "stem": "A 14-year-old boy presents to the clinic complaining of \"brown urine\" for the past 3 days. 2 weeks ago, he had 2 days of fever and a sore throat, but he improved spontaneously and has been well ever since. On physical examination, only periorbital edema is noted (see lab results). Blood pressure 136/92 mmHg Heart rate 98 /min Respiratory rate 28 /min Temperature 37 ° C Urinalysis Result Normal Values Specific gravity 1.035 1001-1030 Proteins ++ Absent Blood ++ Absent Which of the following is the most likely diagnosis?",
-                    "options": [
-                        {
-                            "letter": "A",
-                            "text": "IgA nephropathy"
-                        },
-                        {
-                            "letter": "B",
-                            "text": "Acute pyelonephritis"
-                        },
-                        {
-                            "letter": "C",
-                            "text": "Hemolytic-uremic syndrome"
-                        },
-                        {
-                            "letter": "D",
-                            "text": "Post-streptococcal glomerulonephritis abdomen and extremities"
-                        }
-                    ],
-                    "answer": "D"
                 }
             ]
         },
@@ -9047,7 +9571,11 @@
                     "options": [
                         {
                             "letter": "A",
-                            "text": "Idiopathic thrombocytopenic purpura B. Henoch-schönlein purpura"
+                            "text": "Idiopathic thrombocytopenic purpura"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Henoch-schönlein purpura"
                         },
                         {
                             "letter": "C",
@@ -9147,7 +9675,11 @@
                         },
                         {
                             "letter": "C",
-                            "text": "Myocardial infarction D.Pneumococcal pneumonia"
+                            "text": "Myocardial infarction"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Pneumococcal pneumonia"
                         }
                     ],
                     "answer": "A"
@@ -10866,8 +11398,12 @@
                 {
                     "id": 2128,
                     "topic": "Cardiology",
-                    "stem": "A 4-week-old baby presents with tachypnea, tachycardia, differential cyanosis and irritability. Which of the following is the most common accompanying feature? A Cough",
+                    "stem": "A 4-week-old baby presents with tachypnea, tachycardia, differential cyanosis and irritability. Which of the following is the most common accompanying feature?",
                     "options": [
+                        {
+                            "letter": "A",
+                            "text": "Cough"
+                        },
                         {
                             "letter": "B",
                             "text": "Ascites"
@@ -11577,7 +12113,11 @@
                         },
                         {
                             "letter": "C",
-                            "text": "Dry eye syndrome D.Tourette syndrome"
+                            "text": "Dry eye syndrome"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Tourette syndrome"
                         }
                     ],
                     "answer": "A"
@@ -11753,18 +12293,50 @@
                 {
                     "id": 2165,
                     "topic": "Neurology",
-                    "stem": "A 3-year-old child falls out of a bunk bed. The child cries immediately, and there is no apparent loss of consciousness. Then he vomited twice and complains of a headache. The child has a normal mental status, normal neurological examination, and no evidence of a skull fracture. Which of the following is the most appropriate next step in management? A.Brain magnified resonance imaging",
+                    "stem": "A 3-year-old child falls out of a bunk bed. The child cries immediately, and there is no apparent loss of consciousness. Then he vomited twice and complains of a headache. The child has a normal mental status, normal neurological examination, and no evidence of a skull fracture. Which of the following is the most appropriate next step in management?",
                     "options": [
+                        {
+                            "letter": "A",
+                            "text": "Brain magnified resonance imaging"
+                        },
                         {
                             "letter": "B",
                             "text": "Brain computed tomography scan"
                         },
                         {
                             "letter": "C",
-                            "text": "Neurosurgical consultation D.Close observation"
+                            "text": "Neurosurgical consultation"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Close observation"
                         }
                     ],
                     "answer": "D"
+                },
+                {
+                    "id": 2165.5,
+                    "topic": "Neurology",
+                    "stem": "A 6-month-old baby is brought by his mother for assessment of feeding difficulties and constipation. On examination, the baby's growth curve is below the 25th percentile, and there is a marked delay in his milestones. He has spastic tone all over, with crossed legs, but both arms are less spastic. Blood pressure 90/50 Heart rate 120 /min Respiratory rate 22 /min Temperature 36.6 °C Which of the following cerebral palsy types is most likely?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Mixed"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Diplegic"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Hemiplegic"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Quadriplegic"
+                        }
+                    ],
+                    "answer": "B"
                 },
                 {
                     "id": 2166,
@@ -11945,7 +12517,11 @@
                         },
                         {
                             "letter": "B",
-                            "text": "Immunoglobulin C Methotrexate"
+                            "text": "Immunoglobulin"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Methotrexate"
                         },
                         {
                             "letter": "D",
@@ -12003,10 +12579,110 @@
                     "answer": "B"
                 },
                 {
+                    "id": 2175.5,
+                    "topic": "Neurology",
+                    "stem": "A 6-year-old boy presents with frequent brief episodes of rapid eye blinking for 2 weeks. The episodes are not associated with pain, redness, tearing or discharge. During the episodes, he communicates well. Physical examination shows normal visual acuity. Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Tic disorder"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Petit mal seizure"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Dry eye syndrome"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Tourette syndrome"
+                        }
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "id": 2175.6,
+                    "topic": "Neurology",
+                    "stem": "A 6-year-old girl presents with sudden involuntary abnormal limb movements and inability to speak. She took metoclopramide and hyoscine earlier. Examination shows facial grimacing and tongue protrusion. Which of the following is the most appropriate treatment?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Tizanidine"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Epinephrine"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Cyproheptadine"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Diphenhydramine"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "id": 2175.7,
+                    "topic": "Neurology",
+                    "stem": "A 5-year-old boy is brought after a generalized convulsion lasting 3 minutes. He had fever and upper respiratory symptoms for 3 days. Examination shows mild congestion but is otherwise normal. Which of the following is the most appropriate treatment?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Phenytoin"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Diazepam"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Amoxicillin"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Paracetamol"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "id": 2175.8,
+                    "topic": "Neurology",
+                    "stem": "A 14-year-old boy with epilepsy presents with progressive lower limb weakness and tingling for 2 days following a viral illness. Examination shows 3/5 strength and absent reflexes in lower limbs. Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Polymyositis"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Multiple sclerosis"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Acute poliomyelitis"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Guillain-Barre syndrome"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
                     "id": 2176,
                     "topic": "Neurology",
-                    "stem": "A 2-day-old baby is brought to the hospital because of reluctance to feed and seizures since last night. On examination, the baby weighed 3 kg, is inactive and has a generalized increased tone. A cerebral spinal fluid sample was obtained (see lab results). Gross appearance Clear Clear and colourless Glucose 3.5 2.8-5 mmol/L Total protein 0.22 0.22-0.33 g/L Cells 10 Up to 30/pL Which of the following is the most likely diagnosis? A. Neonatal sepsis",
+                    "stem": "A 2-day-old baby is brought to the hospital because of reluctance to feed and seizures since last night. On examination, the baby weighed 3 kg, is inactive and has a generalized increased tone. A cerebral spinal fluid sample was obtained (see lab results). Gross appearance Clear Clear and colourless Glucose 3.5 2.8-5 mmol/L Total protein 0.22 0.22-0.33 g/L Cells 10 Up to 30/pL Which of the following is the most likely diagnosis?",
                     "options": [
+                        {
+                            "letter": "A",
+                            "text": "Neonatal sepsis"
+                        },
                         {
                             "letter": "B",
                             "text": "Neonatal tetanus"
@@ -12462,6 +13138,54 @@
                     "answer": "C"
                 },
                 {
+                    "id": 2194.5,
+                    "topic": "Endocrinology",
+                    "stem": "A 3-year-old girl found during health campaign in a poor area has generalized edema, severe wasting, hyperkeratosis, distended abdomen and sparse hair. Laboratory findings show low albumin and electrolyte abnormalities. Which of the following contributes to the finding?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Vitamin B12 deficiency"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Vitamin D deficiency"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Severe protein malnutrition"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Severe carbohydrate malnutrition"
+                        }
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "id": 2194.6,
+                    "topic": "Endocrinology",
+                    "stem": "A 24-hour-old neonate with ambiguous genitalia has elevated 17-hydroxyprogesterone with hyponatremia, hyperkalemia and metabolic acidosis. Which of the following is the inheritance of this disease?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Multifactorial"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "X-linked dominant"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Autosomal dominant"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Autosomal recessive"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
                     "id": 2195,
                     "topic": "Endocrinology",
                     "stem": "What is the most common disorder of sexual differentiation in boys?",
@@ -12476,7 +13200,11 @@
                         },
                         {
                             "letter": "C",
-                            "text": "Hypospadias D.Cryptorchidism"
+                            "text": "Hypospadias"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Cryptorchidism"
                         }
                     ],
                     "answer": "D"
@@ -12904,7 +13632,11 @@
                         },
                         {
                             "letter": "C",
-                            "text": "Fragile X syndrome D.Noonan's syndrome"
+                            "text": "Fragile X syndrome"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Noonan's syndrome"
                         }
                     ],
                     "answer": "B"
@@ -13064,7 +13796,11 @@
                         },
                         {
                             "letter": "B",
-                            "text": "Nephrogenic diabetes insipidus C.Excessive intravenous fluid administration"
+                            "text": "Nephrogenic diabetes insipidus"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Excessive intravenous fluid administration"
                         },
                         {
                             "letter": "D",
@@ -13242,6 +13978,30 @@
                     "answer": "B"
                 },
                 {
+                    "id": 2275.5,
+                    "topic": "Endocrinology",
+                    "stem": "A 3-week-old girl presents with repeated vomiting over the last 4 days. The child was born full-term with a weight of 3.3 kg and now weighs 3 kg. There is no family history of significant illness. Physical examination shows reduced skin turgor, weak muscle tone, and an enlarged clitoris. The paediatrician initiates intravenous isotonic sodium chloride. Test results: pH 7.25, Sodium 120 mmol/L, Potassium 5.8 mmol/L, Glucose 2.9 mmol/L. Which of the following intravenous treatments is most appropriate?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Cefotaxime"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Vasopressin"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Sodium bicarbonate"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Hydrocortisone"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
                     "id": 2228,
                     "topic": "Endocrinology",
                     "stem": "A 12-year-old girl is diagnosed with type 1 diabetes 3 years earlier presents for a routine examination. She is on a basal bolus regime which she manages well. The total daily insulin dose is 32 units. Physical examination shows no abnormal findings. There are no signs of puberty (see lab result). Weight 40 kg (<50th percentile) Height 156 cm (75th percentile) Glucose 6.0 3.5-5.5 mmol/L Which of the following screening tests should be performed annually?",
@@ -13304,7 +14064,11 @@
                         },
                         {
                             "letter": "C",
-                            "text": "Cerebral edema D.Metabolic alkalosis"
+                            "text": "Cerebral edema "
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Metabolic alkalosis"
                         }
                     ],
                     "answer": "C"
@@ -13324,7 +14088,11 @@
                         },
                         {
                             "letter": "C",
-                            "text": "Fluid replacement D.Insulin infusion"
+                            "text": "Fluid replacement"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Insulin infusion"
                         }
                     ],
                     "answer": "C"
@@ -13336,7 +14104,15 @@
                     "options": [
                         {
                             "letter": "A",
-                            "text": "Chromosomal B.Constitutional C.Psychological"
+                            "text": "Chromosomal"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Constitutional"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Psychological"
                         },
                         {
                             "letter": "D",
@@ -13457,6 +14233,10 @@
                         {
                             "letter": "C",
                             "text": "Octreotide acetate D.Behavioural therapy"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Reassurance and follow up"
                         }
                     ],
                     "answer": "B"
@@ -13604,66 +14384,50 @@
                 {
                     "id": 2244,
                     "topic": "Endocrinology",
-                    "stem": "A 15-year-old boy is diagnosed with diabetes mellitus type 1 and prescribed insulin. He and his family were educated about the use and recognition of adverse effects of insulin. Which side effect would be most important to receive education on? A.Hypoglycemia",
+                    "stem": "A 15-year-old boy is diagnosed with diabetes mellitus type 1 and prescribed insulin. He and his family were educated about the use and recognition of adverse effects of insulin. Which side effect would be most important to receive education on?",
                     "options": [
+                        {
+                            "letter": "A",
+                            "text": "Hypoglycemia"
+                        },
                         {
                             "letter": "B",
                             "text": "Lipodystrophy"
                         },
                         {
                             "letter": "C",
-                            "text": "Hyperlipidemia D.Hypersensitivity"
+                            "text": "Hyperlipidemia "
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Hypersensitivity"
                         }
                     ],
                     "answer": "A"
                 },
                 {
-                    "id": 2346,
+                    "id": 2244.5,
                     "topic": "Endocrinology",
-                    "stem": "An 18-month-old infant presents to the Pediatric Outpatient Clinic for evaluation of delay in walking. It was observed that there is widening of the lower ends of long bones (see lab results). Height 78 cm Weight 10 Kg Calcium total 8.1 2.2-2.7 mmol/L Phosphate 2.1 1.3-2.3 mmol/L Alkaline phosphatase 1020 100-320 U/L Which of the following is the most likely cause?",
+                    "stem": "Which of the following findings is expected in a 6-year-old boy with Duchenne muscular dystrophy?",
                     "options": [
                         {
                             "letter": "A",
-                            "text": "Hypophosphatasia"
+                            "text": "Pes cavus"
                         },
                         {
                             "letter": "B",
-                            "text": "Renal osteodystrophy"
+                            "text": "Claw hands"
                         },
                         {
                             "letter": "C",
-                            "text": "Vitamin D deficient rickets"
+                            "text": "Muscle atrophy"
                         },
                         {
                             "letter": "D",
-                            "text": "Familial hypophosphatemic rickets"
+                            "text": "Positive Gower's sign"
                         }
                     ],
-                    "answer": "C"
-                },
-                {
-                    "id": 2347,
-                    "topic": "Endocrinology",
-                    "stem": "An 11-month-old child presents with failure to thrive, frequent large volumes of urine, excessive thirst, and 3 episodes of dehydration not associated with vomiting or diarrhoea. Several boys in his family showed similar symptoms. Which of the following is the most likely diagnosis?",
-                    "options": [
-                        {
-                            "letter": "A",
-                            "text": "Diabetes mellitus"
-                        },
-                        {
-                            "letter": "B",
-                            "text": "Diabetes insipidus"
-                        },
-                        {
-                            "letter": "C",
-                            "text": "Water intoxication"
-                        },
-                        {
-                            "letter": "D",
-                            "text": "Nephrotic syndrome"
-                        }
-                    ],
-                    "answer": "B"
+                    "answer": "D"
                 }
             ]
         },
@@ -13867,7 +14631,7 @@
                 {
                     "id": 2253,
                     "topic": "Genetics",
-                    "stem": "year-old is asking about the risk of recurrence in future pregnancy. What is the most appropriate counselling should be given?",
+                    "stem": " A 1-year-old diagnosed with Down syndrome, seen in the screening clinic. The mother, who is 27-year-old is asking about the risk of recurrence in future pregnancy. What is the most appropriate counselling should be given?",
                     "options": [
                         {
                             "letter": "A",
@@ -14015,6 +14779,30 @@
             "title": "Unclassified",
             "questionCount": 78,
             "questions": [
+                {
+                    "id": 2258.5,
+                    "topic": "Unclassified",
+                    "stem": "Which of the following measures would decrease the incidence of Sudden Infant Death Syndrome?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Pacifier at bedtime"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Sleep in prone position"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Soft sleeping mattress"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Sleep position support device"
+                        }
+                    ],
+                    "answer": "A"
+                },
                 {
                     "id": 2259,
                     "topic": "Unclassified",
@@ -14398,6 +15186,30 @@
                         }
                     ],
                     "answer": "D"
+                },
+                {
+                    "id": 2274.5,
+                    "topic": "Pediatrics",
+                    "stem": "A 3-year-old girl presents to the Emergency Department with vaginal bleeding and pain. Her mother reports that she has been passing stools in her pants for 2 weeks despite being toilet trained. On examination, there are bruises with blood staining the labia majora. Laboratory results are normal (Hb 120 g/L, WBC 9.4 x 10^9/L, Platelets 344 x 10^9/L, Prothrombin time 13 sec, APTT 36 sec). Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Sexual abuse"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Herpetic vaginitis"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Precocious puberty"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Gonorrheal vaginitis"
+                        }
+                    ],
+                    "answer": "A"
                 },
                 {
                     "id": 2275,
@@ -14790,7 +15602,11 @@
                     "options": [
                         {
                             "letter": "A",
-                            "text": "500 B.1000"
+                            "text": "500"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "1,000"
                         },
                         {
                             "letter": "C",
@@ -14818,7 +15634,11 @@
                         },
                         {
                             "letter": "C",
-                            "text": "Cyanide ingestion D.Cocaine overdose"
+                            "text": "Cyanide ingestion"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Cocaine overdose"
                         }
                     ],
                     "answer": "A"
@@ -14918,6 +15738,30 @@
                         }
                     ],
                     "answer": "D"
+                },
+                {
+                    "id": 2296.5,
+                    "topic": "Pediatrics",
+                    "stem": "A 3-week-old infant is brought to the Paediatrics Clinic. On examination, a right non-tender scrotal mass is seen. It is non-reducible and does not transilluminate. Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Orchitis"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Hydrocele"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Inguinal hernia"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Testicular torsion"
+                        }
+                    ],
+                    "answer": "C"
                 },
                 {
                     "id": 2297,
@@ -15022,7 +15866,11 @@
                     "options": [
                         {
                             "letter": "A",
-                            "text": "5 B.10"
+                            "text": "5"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "10"
                         },
                         {
                             "letter": "C",
@@ -15074,7 +15922,11 @@
                         },
                         {
                             "letter": "C",
-                            "text": "Urinalysis and urine culture D.Analgesics and apply ice to scrotum"
+                            "text": "Urinalysis and urine culture"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Analgesics and apply ice to scrotum"
                         }
                     ],
                     "answer": "A"
@@ -15138,7 +15990,11 @@
                         },
                         {
                             "letter": "B",
-                            "text": "Neonatal hypoglycaemia C.Neonatal sepsis"
+                            "text": "Neonatal hypoglycaemia"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Neonatal sepsis"
                         },
                         {
                             "letter": "D",
@@ -15292,6 +16148,30 @@
                     "answer": "B"
                 },
                 {
+                    "id": 2312.5,
+                    "topic": "Nephrology",
+                    "stem": "A 4-year-old boy with nephritic syndrome presents with vomiting, abdominal pain and diarrhoea. On examination, his abdomen is distended and there is evidence of generalized and rebound tenderness. Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Peritonitis"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Gastritis"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Pancreatitis"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Appendicitis"
+                        }
+                    ],
+                    "answer": "A"
+                },
+                {
                     "id": 2313,
                     "topic": "Unclassified",
                     "stem": "A 2-year-old boy presents to the paediatrician with severe testicular pain and swelling that had just started 2 hours before. The child is nauseous and has vomited twice. The parents report a similar episode that had happened 3 weeks ago but was of a very short duration. The scrotum is swollen and tender and does not transilluminate. No contraction of the cremaster muscle can be provoked by stroking the inner part of the thigh. Blood pressure 110/70 mmg Heart rate 160 /min Respiratory rate 50 /min Temperature 36.6° C Which of the following is the most appropriate treatment?",
@@ -15314,6 +16194,30 @@
                         }
                     ],
                     "answer": "C"
+                },
+                {
+                    "id": 2313.5,
+                    "topic": "Pediatrics",
+                    "stem": "A newborn boy is brought to the Paediatric Clinic for a check-up. Examination shows a tense, fluctuant, painless mass on the right side of the scrotum. Transillumination with a torch shows clear illumination. Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Varicocele"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Hydrocele"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Haematocele"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Indirect inguinal hernia"
+                        }
+                    ],
+                    "answer": "B"
                 },
                 {
                     "id": 2314,
@@ -15342,8 +16246,12 @@
                 {
                     "id": 2315,
                     "topic": "Unclassified",
-                    "stem": "A 7-month-old baby presents the Emergency Department with irritability, and intermittent crying during which he pulls up his legs, followed by periods with no discomfort for the last four hours. He had started to vomit just before his parents brought him. On examination, the child looked ill and lethargic, with a distended abdomen, and a palpable mass in the right upper quadrant. Heart rate 140/min Respiratory rate 28/min Temperature 38.6° C Which of the following is the most appropriate investigation? A.Contrast barium enema",
+                    "stem": "A 7-month-old baby presents the Emergency Department with irritability, and intermittent crying during which he pulls up his legs, followed by periods with no discomfort for the last four hours. He had started to vomit just before his parents brought him. On examination, the child looked ill and lethargic, with a distended abdomen, and a palpable mass in the right upper quadrant. Heart rate 140/min Respiratory rate 28/min Temperature 38.6° C Which of the following is the most appropriate investigation?",
                     "options": [
+                        {
+                            "letter": "A",
+                            "text": "Contrast barium enema"
+                        },
                         {
                             "letter": "B",
                             "text": "Abdominal ultrasound"
@@ -15351,6 +16259,10 @@
                         {
                             "letter": "C",
                             "text": "Plain Abdomen X-ray D.Abdominal CT scan"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Abdominal CT scan"
                         }
                     ],
                     "answer": "A"
@@ -15399,6 +16311,30 @@
                         {
                             "letter": "D",
                             "text": "Penicillamine"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "id": 2317.5,
+                    "topic": "Pediatrics",
+                    "stem": "A 5-year-old child presents with drowsiness, abdominal pain, nausea and bloody diarrhoea after ingesting an unknown number of iron tablets several hours earlier. Laboratory results show serum iron level of 94 µmol/L (normal 9–21.5 µmol/L). Which of the following is the most appropriate treatment?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Haemodialysis"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Gastric lavage"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Oral activated charcoal"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Intravenous deferoxamine"
                         }
                     ],
                     "answer": "D"
@@ -15462,7 +16398,11 @@
                         },
                         {
                             "letter": "B",
-                            "text": "Ceftriaxone C.Azthromycin"
+                            "text": "Ceftriaxone"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Azithromycin"
                         },
                         {
                             "letter": "D",
@@ -15470,6 +16410,54 @@
                         }
                     ],
                     "answer": "B"
+                },
+                {
+                    "id": 2320.5,
+                    "topic": "Gastroenterology",
+                    "stem": "A 12-month-old girl presents to the Emergency Department with cramping, colicky abdominal pain progressively developing over the past 12 hours. She has had 2 episodes of vomiting. On examination, the child is irritable with abdominal tenderness. During the examination, she passes a bloody stool with mucus. Laboratory testing shows leukocytosis and ultrasound reveals a doughnut-shaped lesion. Which of the following is the most appropriate step in management?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Watchful waiting"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Emergency surgery"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Radiographic reduction"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Intravenous normal saline"
+                        }
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "id": 2320.6,
+                    "topic": "Nephrology",
+                    "stem": "A 3-year-old child presents with a history of bloody diarrhea and oliguria. One week earlier, the child had fever, vomiting, diarrhea and abdominal pain after eating at a fast-food restaurant. On examination, the child is pale, lethargic and ill. Laboratory results show anemia (Hb 83 g/L), leukocytosis, thrombocytopenia and proteinuria. Which of the following should be recommended in addition to dietary management?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Furosemide"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Renal biopsy"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Corticosteroid trial"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Admit and start dialysis"
+                        }
+                    ],
+                    "answer": "C"
                 },
                 {
                     "id": 2321,
@@ -15494,6 +16482,30 @@
                         }
                     ],
                     "answer": "A"
+                },
+                {
+                    "id": 2321.5,
+                    "topic": "Dermatology",
+                    "stem": "A 9-month-old boy presents to the clinic with a skin rash noticed by his parents over the past few weeks. His parents have a history of eczema. Which of the following is the typical site of eczematous plaques at this age?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Upper back"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Diaper area"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Dorsum of the feet"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Scalp, cheeks, and forehead"
+                        }
+                    ],
+                    "answer": "D"
                 },
                 {
                     "id": 2322,
