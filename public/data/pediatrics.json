@@ -2247,6 +2247,30 @@
                     "answer": "A"
                 },
                 {
+                    "id": 1810.1,
+                    "topic": "Infectious diseases",
+                    "stem": "A 1-year-old girl presents to the Paediatrics Emergency Department at night with episodes of loud cough and refusal to feed. There is a history of upper airway infection with nasal congestion and sneezing over the last week. She has not received any routine immunizations. During the physical examination, there are repetitive violent fits of a hacking cough that are followed by forceful, high-pitched inhalations and accompanied by facial cyanosis. Between attacks the girl appeared exhausted and apathetic. Heart rate 150 /min Respiratory rate 60 /min Temperature 36.6° C Oxygen saturation 92% on room air Which of the following diagnostic tests would be most appropriate?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Nasopharyngeal swabbing"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Sweat chloride test"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Chest radiography"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Serologic testing"
+                        }
+                    ],
+                    "answer": "A"
+                },
+                {
                     "id": 1811,
                     "topic": "Infectious diseases",
                     "stem": "A 5-year-old childis brought to the clinic with a febrile illness with a cough and separate irregularly shaped (blotchy) rashes. He has not had any routine vaccinations. On physical examination, there are enlarged tender cervical lymph nodes. There are also erythematous maculopapular rashes behind the ear, face and neck and to a lesser extent on the trunk. Which of the following is the most likely diagnosis?",
