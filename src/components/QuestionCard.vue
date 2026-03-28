@@ -42,13 +42,16 @@
 
     <!-- Feedback -->
     <div v-if="result !== null" class="feedback" :class="result.correct ? 'correct' : 'wrong'">
-      <template v-if="result.correct">
-        ✓ Correct! The answer is <strong>{{ question.answer }}</strong>.
-      </template>
-      <template v-else>
-        ✗ You chose <strong>{{ result.chosenLetter }}</strong>.
-        Correct answer is <strong>{{ question.answer }}</strong>.
-      </template>
+      <span>
+        <template v-if="result.correct">
+          ✓ Correct! The answer is <strong>{{ question.answer }}</strong>.
+        </template>
+        <template v-else>
+          ✗ You chose <strong>{{ result.chosenLetter }}</strong>.
+          Correct answer is <strong>{{ question.answer }}</strong>.
+        </template>
+      </span>
+      <button class="undo-btn" @click="undo" title="Undo — pick again">↩ Undo</button>
     </div>
   </div>
 </template>
@@ -73,6 +76,10 @@ const result = computed(() =>
 function choose(letter: string) {
   if (result.value !== null) return
   store.recordAnswer(props.subjectId, props.topicId, props.question.id, letter, props.question.answer)
+}
+
+function undo() {
+  store.undoAnswer(props.subjectId, props.topicId, props.question.id)
 }
 
 function optClass(letter: string) {
@@ -162,12 +169,21 @@ function optClass(letter: string) {
 .opt-btn.dimmed { opacity: 0.38; }
 .opt-btn:disabled { cursor: default; }
 
-/* Feedback */
 .feedback {
   margin: 0 1rem 1rem;
   padding: 0.6rem 0.85rem;
   border-radius: var(--radius); font-size: 0.83rem; font-weight: 500;
+  display: flex; align-items: center; justify-content: space-between; gap: 0.75rem;
 }
 .feedback.correct { background: #22c55e12; border: 1px solid #22c55e33; color: var(--correct); }
 .feedback.wrong   { background: #ef444412; border: 1px solid #ef444433; color: var(--wrong);   }
+
+.undo-btn {
+  flex-shrink: 0;
+  background: #ffffff10; border: 1px solid #ffffff20;
+  color: var(--muted); border-radius: var(--radius-sm);
+  padding: 0.25rem 0.6rem; font-size: 0.75rem; font-weight: 600;
+  transition: background 0.15s, color 0.15s; white-space: nowrap;
+}
+.undo-btn:hover { background: #ffffff20; color: var(--text); }
 </style>

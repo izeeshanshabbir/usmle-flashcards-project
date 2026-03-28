@@ -15,7 +15,7 @@
           </div>
 
           <div class="stats-pills">
-            <span class="pill total">{{ stats.answered }}/{{ topic.questionCount }}</span>
+            <span class="pill total">{{ stats.answered }}/{{ questionCount }}</span>
             <span class="pill correct">✓ {{ stats.correct }}</span>
             <span class="pill wrong">✗ {{ stats.wrong }}</span>
             <span class="pill pct">
@@ -31,7 +31,7 @@
         <div class="stats-bar-progress">
           <ProgressBar
             :answered="stats.answered"
-            :total="topic.questionCount"
+            :total="questionCount"
             :color="subject.color"
           />
         </div>
@@ -106,6 +106,8 @@ const topic = computed(() => {
   }
   return null
 })
+
+const questionCount = computed(() => topic.value?.questions.length ?? 0)
 
 const stats = computed(() => store.getTopicStats(props.subjectId, props.topicId))
 

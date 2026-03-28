@@ -44,6 +44,13 @@ export const useProgressStore = defineStore('progress', () => {
     saveToStorage(progress.value)
   }
 
+  function undoAnswer(subjectId: string, topicId: string, questionId: number) {
+    if (progress.value[subjectId]?.[topicId]?.[questionId] !== undefined) {
+      delete progress.value[subjectId][topicId][questionId]
+      saveToStorage(progress.value)
+    }
+  }
+
   function resetTopic(subjectId: string, topicId: string) {
     if (progress.value[subjectId]) {
       delete progress.value[subjectId][topicId]
@@ -113,6 +120,7 @@ export const useProgressStore = defineStore('progress', () => {
   return {
     progress,
     recordAnswer,
+    undoAnswer,
     resetTopic,
     resetSubject,
     resetAll,

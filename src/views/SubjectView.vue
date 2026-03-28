@@ -53,18 +53,18 @@
           >
             <div class="topic-row-left">
               <span class="topic-name">{{ topic.title }}</span>
-              <span class="topic-count">{{ topic.questionCount }} questions</span>
+              <span class="topic-count">{{ topic.questions.length }} questions</span>
             </div>
             <div class="topic-row-right">
               <div class="topic-prog-wrap">
                 <ProgressBar
                   :answered="store.getTopicStats(subjectId, topic.id).answered"
-                  :total="topic.questionCount"
+                  :total="topic.questions.length"
                   :color="subject.color"
                 />
               </div>
               <span class="topic-answered">
-                {{ store.getTopicStats(subjectId, topic.id).answered }}/{{ topic.questionCount }}
+                {{ store.getTopicStats(subjectId, topic.id).answered }}/{{ topic.questions.length }}
               </span>
             </div>
             <span class="topic-arrow">→</span>
@@ -117,18 +117,18 @@
               >
                 <div class="topic-row-left">
                   <span class="topic-name">{{ topic.title }}</span>
-                  <span class="topic-count">{{ topic.questionCount }} questions</span>
+                  <span class="topic-count">{{ topic.questions.length }} questions</span>
                 </div>
                 <div class="topic-row-right">
                   <div class="topic-prog-wrap">
                     <ProgressBar
                       :answered="store.getTopicStats(subjectId, topic.id).answered"
-                      :total="topic.questionCount"
+                      :total="topic.questions.length"
                       :color="subject.color"
                     />
                   </div>
                   <span class="topic-answered">
-                    {{ store.getTopicStats(subjectId, topic.id).answered }}/{{ topic.questionCount }}
+                    {{ store.getTopicStats(subjectId, topic.id).answered }}/{{ topic.questions.length }}
                   </span>
                 </div>
                 <span class="topic-arrow">→</span>
@@ -176,7 +176,7 @@ function toggleSection(id: string) {
 }
 
 function sectionTotal(section: Section): number {
-  return section.topics.reduce((sum, t) => sum + t.questionCount, 0)
+  return section.topics.reduce((sum, t) => sum + t.questions.length, 0)
 }
 
 function sectionAnswered(section: Section): number {
