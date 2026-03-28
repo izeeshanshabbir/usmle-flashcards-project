@@ -6862,7 +6862,14 @@
                                 }
                             ],
                             "answer": "D"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": "contraception-and-hormonal-replacement-therapy-hrt",
+                    "title": "Contraception and Hormonal Replacement Therapy (HRT)",
+                    "questionCount": 8,
+                    "questions": [
                         {
                             "id": 1526,
                             "topic": "Pelvic Inflammatory Disease (PID)",
