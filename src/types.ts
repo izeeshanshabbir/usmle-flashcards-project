@@ -39,6 +39,12 @@ export interface SubjectIndex {
   subjects: SubjectMeta[]
 }
 
+export interface Section {
+  id: string
+  title: string
+  topics: Topic[]
+}
+
 export interface SubjectFull {
   id: string
   title: string
@@ -46,7 +52,8 @@ export interface SubjectFull {
   color: string
   icon: string
   totalQuestions: number
-  topics: Topic[]
+  topics?: Topic[]       // flat subjects (most)
+  sections?: Section[]   // sectioned subjects (e.g. OB/GYN)
 }
 
 // Progress types stored in localStorage

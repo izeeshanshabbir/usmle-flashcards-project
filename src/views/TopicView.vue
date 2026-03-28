@@ -92,9 +92,20 @@ const props = defineProps<{
 const store = useProgressStore()
 const { subject, loading, error } = useSubject(props.subjectId)
 
-const topic = computed(() =>
-  subject.value?.topics.find((t) => t.id === props.topicId) ?? null
-)
+const topic = computed(() => {
+  const s = subject.value
+  if (!s) return null
+  // Flat subjects
+  if (s.topics?.length) return s.topics.find((t) => t.id === props.topicId) ?? null
+  // Sectioned subjects (e.g. OB/GYN)
+  if (s.sections?.length) {
+    for (const sec of s.sections) {
+      const found = sec.topics.find((t) => t.id === props.topicId)
+      if (found) return found
+    }
+  }
+  return null
+})
 
 const stats = computed(() => store.getTopicStats(props.subjectId, props.topicId))
 
