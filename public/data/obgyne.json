@@ -136,6 +136,30 @@
                             "answer": "D"
                         },
                         {
+                            "id": 1287.1,
+                            "topic": "Contraindications to Pregnancy (Medications and Vaccines)",
+                            "stem": "A 22-year-old married woman has had severe, recurrent depression associated with multiple suicide attempts. She has been stabilized for the past 3 months on paroxetine and is now pregnant. Which of the following is the most appropriate management?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Discontinue paroxetine due to avoid prematurity"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Continue paroxetine and monitor for depression"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Discontinue paroxetine to avoid fetal damage"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Continue paroxetine and add lithium"
+                                }
+                            ],
+                            "answer": "B"
+                        },
+                        {
                             "id": 1288,
                             "topic": "Contraindications to Pregnancy (Medications and Vaccines)",
                             "stem": "Which of the following vaccine is contraindicated during pregnancy?",
@@ -630,6 +654,54 @@
                             "answer": "D"
                         },
                         {
+                            "id": 1307.1,
+                            "topic": "Antenatal care",
+                            "stem": "A 28-year-old woman G5 P3013 is seen in the Antenatal Clinic. Her previous pregnancies were term normal deliveries. Currently, she is 10 weeks' gestation confirmed by a pregnancy test and ultrasound examination. Which of the following is the most important purpose of the first antenatal visit?  ( Repeated )",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Identify the risk factors"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Confirm viable pregnancy"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Confirm the gestational dating"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Estimate the hemoglobin level"
+                                }
+                            ],
+                            "answer": "C"
+                        },
+                        {
+                            "id": 1307.2,
+                            "topic": "Antenatal care",
+                            "stem": "A 33-year-old pregnant woman G4 P2012 at 38 weeks' gestation presented with a complaint of dizziness, light-headedness and fainting sensation especially in bed for 2 weeks duration (see lab results). Blood pressure 110/70 mmHg, Heart rate 100 /min, Respiratory rate 24/min, Temperature 36.6° C Hb 95 120-160 g/L WBC 9 4.5-10.5 x 109/L Platelet count 200 150-400 × 109/L Which of the following is the best management?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Blood transfusion"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Refer to a neurologist"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Avoid sleep on the back"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "ECG and echocardiography"
+                                }
+                            ],
+                            "answer": "C"
+                        },
+                        {
                             "id": 1308,
                             "topic": "Antenatal care",
                             "stem": "A patient is seen at 8 weeks' gestation in an Antenatal Clinic with a diagnosis of cervical incompetence. Which of the following is the most appropriate management?",
@@ -829,6 +901,30 @@
                             "answer": "D"
                         },
                         {
+                            "id": 1215.1,
+                            "topic": "Contraindications to Pregnancy (Medications and Vaccines)",
+                            "stem": "A 25-year-old woman in her first trimester of pregnancy has come for a routine prenatal visit. She used to smoke one pack of cigarettes per day, and is now being advised to quit smoking. Which of the following is the greatest risk to her unborn child?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Macrosomia"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Low birth weight"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Transient tachypnea"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Neonatal hypoglycemia"
+                                }
+                            ],
+                            "answer": "B"
+                        },
+                        {
                             "id": 1316,
                             "topic": "Fetal Medicine",
                             "stem": "A 24-year-old woman G2 P0010 at 29 weeks has not felt fetal movement for 1 day. Fetal heart tones are heard by Doppler. Non-stress test is reactive. Biophysical profile demonstrates a score of 8. Which of the following is the most appropriate next step?",
@@ -851,6 +947,30 @@
                                 }
                             ],
                             "answer": "C"
+                        },
+                        {
+                            "id": 1316.1,
+                            "topic": "Cervical Incompetence",
+                            "stem": "A 23-year-old woman G3 P02002 at 20 weeks' gestation with history of previous 2 preterm deliveries attend Antenatal Clinic. Current pregnancy is uneventful. An ultrasound shows size corresponds to date, anterior placenta and cervical length is 30 mm. Which of the following is the most appropriate intervention?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Strict bed rest till term."
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Immediate cervical cerclage."
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Aspirin 81 mg oral tablet daily."
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Progesterone supplementation."
+                                }
+                            ],
+                            "answer": "D"
                         },
                         {
                             "id": 1317,
@@ -980,6 +1100,30 @@
                             "answer": "A"
                         },
                         {
+                            "id": 1321.1,
+                            "topic": "Antenatal care",
+                            "stem": "A 26-year-old primigravida woman presented to the clinic at 37 weeks' gestation for a routine antenatal care. She reports feeling ill and has a frontal headache. A urine dipstick analysis is performed and shows proteinuria 2+. She is admitted to the hospital High Risk Unit and started on an intravenous infusion of magnesium sulfate. Blood pressure 152/102 mmHg Heart rate 72 /min Respiratory rate 16 /min Temperature 37.2° C oral Which of the following is the primary reason for administering the intravenous medication?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Prevent pulmonary congestion"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Control vascular vasospasms"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Reduce blood pressure"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Prevent seizures"
+                                }
+                            ],
+                            "answer": "D"
+                        },
+                        {
                             "id": 1322,
                             "topic": "Hypertension in Pregnancy and Preeclampsia",
                             "stem": "A 34-year-old gravida 2 para 1 woman 10 weeks gestation known to have a hypertension taking labetalol 100 milligrams twice per day. In her first pregnancy had no complications and resulted in a healthy infant. During this pregnancy which of the following risks is increased?",
@@ -1030,8 +1174,12 @@
                         {
                             "id": 1324,
                             "topic": "Hypertension in Pregnancy and Preeclampsia",
-                            "stem": "A 27-year-old primigravida presented at 36-weeks of gestation with headache, blurred vision (see lab result). Blood pressure 160/110 mmHg Heart rate 76 /min Respiratory rate 18 /min Temperature 36.8 °C Test Result Normal Values Protein ++ absent Which of the following is the most appropriate medication for acute treatment of hypertension? A. Clonidine",
+                            "stem": "A 27-year-old primigravida presented at 36-weeks of gestation with headache, blurred vision (see lab result). Blood pressure 160/110 mmHg Heart rate 76 /min Respiratory rate 18 /min Temperature 36.8 °C Test Result Normal Values Protein ++ absent Which of the following is the most appropriate medication for acute treatment of hypertension?",
                             "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Clonidine"
+                                },
                                 {
                                     "letter": "B",
                                     "text": "Methyldopa"
@@ -1094,6 +1242,30 @@
                                 }
                             ],
                             "answer": "C"
+                        },
+                        {
+                            "id": 1326.1,
+                            "topic": "Hypertension in Pregnancy and Preeclampsia",
+                            "stem": "A 34-year-old G4 P0030 at 32 weeks' gestation presented to the Emergency Department with tonic clonic convulsions. Temperature 37.2 Blood pressure 140/95 mmHg Respiratory rate 16/ minute Pulse 90/minute What is the most effective drug to control her seizures?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Magnesium sulphate"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Hydralazine"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Phenytoin"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Diazepam"
+                                }
+                            ],
+                            "answer": "A"
                         },
                         {
                             "id": 1327,
@@ -1238,6 +1410,54 @@
                                 }
                             ],
                             "answer": "C"
+                        },
+                        {
+                            "id": 1332.1,
+                            "topic": "Hypertension in Pregnancy and Preeclampsia",
+                            "stem": "A 35-year-old nulliparous woman presents to the Maternal Health Clinic at 24 weeks' gestation. The significant medical history includes insulin-dependent diabetes class F with nephritis. Additionally, she has chronic hypertension which is controlled with medication. The pregnancy has been uncomplicated so far. The uterine funds measured 25 cm above the symphysis and fetal heart tones show a baseline of 160 beats per minute. Which of the following complications is most likely to occur?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Stillbirth"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Pre-eclampsia"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Shoulder dystocia"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Large for gestational age infant"
+                                }
+                            ],
+                            "answer": "B"
+                        },
+                        {
+                            "id": 1332.2,
+                            "topic": "Hypertension in Pregnancy and Preeclampsia",
+                            "stem": "A 34-year-old gravida 2 para 1 woman 10 weeks gestation known to have a hypertension taking labetalol 100 milligrams twice per day. In her first pregnancy had no complications and resulted in a healthy infant. During this pregnancy which of the following risks is increased?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Intrauterine growth restriction"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Abnormal fetal presentation"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Adherent placenta"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Uterine rupture"
+                                }
+                            ],
+                            "answer": "A"
                         }
                     ]
                 },
@@ -1343,6 +1563,102 @@
                             "answer": "B"
                         },
                         {
+                            "id": 1336.1,
+                            "topic": "Diabetes Mellitus and Gestational Diabetes Mellitus",
+                            "stem": "A 30-year-old multiparous woman at 10 weeks' gestation presented to the Maternal Health Clinic complaining of nausea and vomiting. She was unable to keep down any food or fluid. Her tongue appeared dry and covered with a white coating. The skin turgor was reduced; refill time and urine output was scant. She was admitted to the High Risk Maternity Unit for observation and was started on an intravenous infusion of 10% glucose in normal saline. A urinalysis sent to the laboratory for examination, Blood pressure 90/60 mmHg Heart rate 120 /min Respiratory rate 16 /min Temperature 37.0° C oral Which urinalysis finding would most likely confirm the diagnosis?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Leukocytes"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Glucose"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Ketones"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Proteins"
+                                }
+                            ],
+                            "answer": "C"
+                        },
+                        {
+                            "id": 1336.2,
+                            "topic": "Diabetes Mellitus and Gestational Diabetes Mellitus",
+                            "stem": "A 35-year-old G2 P1001 at 30 weeks' gestation with poorly controlled gestational diabetes on diet.Which of the following medications is the most appropriate treatment?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Pioglitazone HCI"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Metformin HCI"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Glyburide"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Insulin"
+                                }
+                            ],
+                            "answer": "D"
+                        },
+                        {
+                            "id": 1336.3,
+                            "topic": "Diabetes Mellitus and Gestational Diabetes Mellitus",
+                            "stem": "A 27-year-old primigravida had a glucose tolerance test (see lab results). Patient's results Normal Values Fasting 5.7 3.3 to 5.5 Mmol/ 1 hour 9.4 Less than 11.1 Mmol/ 2 hour 9.8 Less than 8.6 Mmol/I 3 hour 7.2 Less than 7.8 Mmol/ Which of the following is the next best step in management?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Take a random glucose level"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Obtain a haemoglobin A1c"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Adjust the patient's diet"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Repeat the GTT"
+                                }
+                            ],
+                            "answer": "C"
+                        },
+                        {
+                            "id": 1336.4,
+                            "topic": "Diabetes Mellitus and Gestational Diabetes Mellitus",
+                            "stem": "A 25-year-old woman has delivered a boy. On inspection of the umbilical cord, a single artery was noticed. Which of the following is associated with the above finding?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "African race"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Maternal diabetes"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Low foetal mortality"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Major foetal malformation in 80%"
+                                }
+                            ],
+                            "answer": "B"
+                        },
+                        {
                             "id": 1337,
                             "topic": "Diabetes Mellitus and Gestational Diabetes Mellitus",
                             "stem": "After how many weeks of gestation, it is recommended to screen for gestational diabetes mellitus in asymptomatic pregnant women?",
@@ -1376,7 +1692,7 @@
                         {
                             "id": 1338,
                             "topic": "Pregnancy Related Medical and Surgical Conditions",
-                            "stem": "gram oral glucose tolerance test. 1 hour later by finger stick sample glucose was 8.1 mmol/L. Which vaginal infection is she at the highest risk of contracting? A Candidiasis",
+                            "stem": "A 35-year-old woman G4 P2012 at 26 weeks' gestation, uneventful pregnancy presented for a 50-gram oral glucose tolerance test. 1 hour later by finger stick sample glucose was 8.1 mmol/L. Which vaginal infection is she at the highest risk of contracting?",
                             "options": [
                                 {
                                     "letter": "B",
@@ -1874,6 +2190,54 @@
                             "answer": "B"
                         },
                         {
+                            "id": 1358.1,
+                            "topic": "Hypertension in Pregnancy and Preeclampsia",
+                            "stem": "A 24-year-old primigravida is found during antenatal care at 22 weeks gestation to have a blood pressure of 140/95 mmg in 2 different measurements documented 4 hours apart. Her urine test for protein was negative and she was asymptomatic. Which of the following is the most likely diagnosis?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Preeclampsia."
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Chronic hypertension."
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Gestational hypertension."
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Transient hypertension of pregnancy."
+                                }
+                            ],
+                            "answer": "C"
+                        },
+                        {
+                            "id": 1358.2,
+                            "topic": "Hypertension in Pregnancy and Preeclampsia",
+                            "stem": "A 30-year-old woman G2 P1001 at 32 weeks' gestation is admitted to labor and delivery complaining of lower abdominal and back pain. She has a significant previous history of severe preeclampsia (see lab results). Blood pressure 140/90 mmg Platelets count 80 150-400 x 109/L Uric Acid 460 140-360 mol/L Which of the following findings would indicate severe preeclampsia?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Abdominal pain."
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Blood pressure."
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Uric acid level."
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Platelet count."
+                                }
+                            ],
+                            "answer": "D"
+                        },
+                        {
                             "id": 1359,
                             "topic": "Pregnancy Related Medical and Surgical Conditions",
                             "stem": "A 38-year-old woman G3 P2002 at 34 weeks' gestation is admitted to labor and delivery complaining of headache, epigastric pain and blurred vision. Non-stress test is reassuring. Blood pressure 170/120 mmHg Which of the following is the most appropriate management?",
@@ -1948,8 +2312,12 @@
                         {
                             "id": 1362,
                             "topic": "Pregnancy Related Medical and Surgical Conditions",
-                            "stem": "A 23-year-old primigravida presented at 32-weeks of gestation with seizures (see lab result). Blood pressure 160/110 mmHg Heart rate 78 /min Respiratory rate 18 /min Temperature 36.6 °C Protein +++ absent which of the following is the most appropriate next step in management? A. Steroids",
+                            "stem": "A 23-year-old primigravida presented at 32-weeks of gestation with seizures (see lab result). Blood pressure 160/110 mmHg Heart rate 78 /min Respiratory rate 18 /min Temperature 36.6 °C Protein +++ absent which of the following is the most appropriate next step in management?",
                             "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Steroids"
+                                },
                                 {
                                     "letter": "B",
                                     "text": "Diuretics"
@@ -2064,15 +2432,71 @@
                         {
                             "id": 1367,
                             "topic": "Pregnancy Related Medical and Surgical Conditions",
-                            "stem": "A 34-year-old woman G5 P4004 presented to with amenorthes, tredness, nausea and voming during the morning hours for 3 months. Human chorionic gonadotropin test was positive. A physical examination showed no swelling in the lower extremities. The thyrold was enlarged on palpation. The tongue, conjunctiva and nail beds appeared pale. The uterine fundus was palpable 3 cm above the pubic symphysis. A peripheral blood smear showed microcytic red blood cells and hypersegmented neutrophils (see lab results). Blood pressure 100/60 mmHg Heart rate 120 /min Respiratory rate 26 /min Temperature 37.0* C oral Hb 85 120-160 g/. НСТ 0.32 0.37-0.48 МСНС 332 320-360 g/1 MCV 100 80-95 f1 Thyroid-Stimulating Hormone 0.44 0.4 - 5.0 pU/L Which of the following is the most appropriate treatment? A Intravenous rehydration",
+                            "stem": "A 34-year-old woman G5 P4004 presented to with amenorthes, tredness, nausea and voming during the morning hours for 3 months. Human chorionic gonadotropin test was positive. A physical examination showed no swelling in the lower extremities. The thyrold was enlarged on palpation. The tongue, conjunctiva and nail beds appeared pale. The uterine fundus was palpable 3 cm above the pubic symphysis. A peripheral blood smear showed microcytic red blood cells and hypersegmented neutrophils (see lab results). Blood pressure 100/60 mmHg Heart rate 120 /min Respiratory rate 26 /min Temperature 37.0* C oral Hb 85 120-160 g/. НСТ 0.32 0.37-0.48 МСНС 332 320-360 g/1 MCV 100 80-95 f1 Thyroid-Stimulating Hormone 0.44 0.4 - 5.0 pU/L Which of the following is the most appropriate treatment?",
                             "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Intravenous rehydration"
+                                },
                                 {
                                     "letter": "B",
                                     "text": "Folic acid supplements"
                                 },
                                 {
                                     "letter": "C",
-                                    "text": "Observation D: Iron tablets"
+                                    "text": "Observation"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Iron tablets"
+                                }
+                            ],
+                            "answer": "B"
+                        },
+                        {
+                            "id": 1367.1,
+                            "topic": "Pregnancy Related Medical and Surgical Conditions",
+                            "stem": "A 20-year-old nulliparous woman at 20 weeks' gestation has been on iron supplement therapy throughout her pregnancy to treat anemia. She complained of weakness and becoming easily tired (see lab results). Hb 78 120-160 g/L MCV 60 80-95 fl RBC 5.4 4.2-5.4 x 1012/L Which of the following is the most likely diagnosis?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Pregnancy associated hypothyroidism"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Vitamin B12 deficiency"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Iron deficiency anemia"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Beta thalassemia"
+                                }
+                            ],
+                            "answer": "D"
+                        },
+                        {
+                            "id": 1367.2,
+                            "topic": "Pregnancy Related Medical and Surgical Conditions",
+                            "stem": "A 34-year-old woman G5 P4004 presented to with amenorthes, tredness, nausea and voming during the morning hours for 3 months. Human chorionic gonadotropin test was positive. A physical examination showed no swelling in the lower extremities. The thyrold was enlarged on palpation. The tongue, conjunctiva and nail beds appeared pale. The uterine fundus was palpable 3 cm above the pubic symphysis. A peripheral blood smear showed microcytic red blood cells and hypersegmented neutrophils (see lab results). Blood pressure 100/60 mmHg Heart rate 120 /min Respiratory rate 26 /min Temperature 37.0* C oral Hb 85 120-160 g/. НСТ 0.32 0.37-0.48 МСНС 332 320-360 g/1 MCV 100 80-95 f1 Thyroid-Stimulating Hormone 0.44 0.4 - 5.0 pU/L Which of the following is the most appropriate treatment?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Intravenous rehydration"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Folic acid supplements"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Observation"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Iron tablets"
                                 }
                             ],
                             "answer": "B"
@@ -2102,9 +2526,33 @@
                             "answer": "B"
                         },
                         {
+                            "id": 1368.1,
+                            "topic": "Pregnancy Related Medical and Surgical Conditions",
+                            "stem": "A 32-year-old primigravida at 34 weeks' gestation presents for urgent care after falling down a flight of stairs. The patient complains of uterine tenderness and reduced fetal movement in the 45 minutes since the fall. There has been a small amount of dark red vaginal bleeding. The fetal heart monitoring revealed a heart rate of 150 bpm with irregular uterine contractions every 3 to 4 minutes. Her pregnancy has been uncomplicated. She has a positive history of cigarette smoking. Which of the following is the most likely diagnosis?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Placenta previa"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Uterine rupture"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Placental abruption"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Latent phase of labour"
+                                }
+                            ],
+                            "answer": "C"
+                        },
+                        {
                             "id": 1369,
                             "topic": "Pregnancy Related Medical and Surgical Conditions",
-                            "stem": "Which of the following is the most likely diagnosis?",
+                            "stem": " A 32-year-old pregnant woman at 36 weeks attends to the clinic complaining of abdominal pain that has been increasing in nature and is noted to be continuous, the patient denies any bleeding. Abdominal examination reveals a 38 cm fundal height, and the uterus was found to be tender and tense. Pelvic examination reveals a closed and un-effaced cervical os. The cardiogram shows category 1. Which of the following is the most likely diagnosis?",
                             "options": [
                                 {
                                     "letter": "A",
@@ -2224,7 +2672,7 @@
                         {
                             "id": 1374,
                             "topic": "Pregnancy Related Medical and Surgical Conditions",
-                            "stem": "Which of the following is the most likely diagnosis?",
+                            "stem": "A 34-year-old primigravida presented to the obstetrician for an initial prenatal visit after selfconfirming pregnancy with a home pregnancy test. She complained of breast tenderness and occasional nausea. There were no complaints of urinary frequency or urgency. Urine dipstick analysis was performed and a mid-stream urine sample was obtained (see lab results and report).Test Result Normal Values provided: Nitrites + (n: Negative) Leukocyte esterase Positive (n: Negative) Culture Report: Escherichia coli count is 50,000 CFU/mi. Which of the following is the most likely diagnosis?",
                             "options": [
                                 {
                                     "letter": "A",
@@ -2412,6 +2860,54 @@
                                 }
                             ],
                             "answer": "A"
+                        },
+                        {
+                            "id": 1381.1,
+                            "topic": "Hypertension in Pregnancy and Preeclampsia",
+                            "stem": "A 29-year-old G4 P3003 at 12 weeks' gestation. Her current pregnancy has been uneventful. One week ago she noticed swelling of her ankles and feet (see lab results). Blood pressure 150/95 mmHg Heart rate 84 /minute Temperature 36.9°C Respiratory Rate 15 /minute Hb 11.9 120-158 g/ Creatinine 65 58-145 mol/L Uric acid 210 140-360 mol/L Urinalysis Trace protein Which of the following is the most appropriate therapy?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Methyldopa"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Atenolol"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Captopril"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Losartan"
+                                }
+                            ],
+                            "answer": "A"
+                        },
+                        {
+                            "id": 1381.2,
+                            "topic": "Pregnancy Related Medical and Surgical Conditions",
+                            "stem": "A 40-year-old Healthy Primigravida with a history of previous deep venous thrombosis. Which of the following is the most appropriate management?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Aspirin"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Heparin"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Enoxaparin"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "No anticoagulation"
+                                }
+                            ],
+                            "answer": "D"
                         }
                     ]
                 },
@@ -2716,6 +3212,30 @@
                             "answer": "A"
                         },
                         {
+                            "id": 1393.1,
+                            "topic": "Pregnancy Related Medical and Surgical Conditions",
+                            "stem": "A multiparous woman presents to the Maternal Health Clinic at 37 weeks' gestation with regular contractions occurring every 2 minutes lasting for 45-60 seconds with moderate intensity. Last pregnancy ended up with low transverse incision caesarean section. She is now pregnant with twins. Twin A is breech and twin B is cephalic. There has been small amount of clear fluid leaking from the vagina for the past hour. A nitrazine paper test turns blue-green in color. Pelvic examination shows a cervical dilation of 4 cm and 80% effacement. The obstetrician informs her that a cesarean section is necessary. Which of the following is the most likely reason for a cesarean section?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Ruptured membranes"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Previous cesarean"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Fetal presentation"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Fetal age"
+                                }
+                            ],
+                            "answer": "B"
+                        },
+                        {
                             "id": 1394,
                             "topic": "Labor and CTG Monitoring",
                             "stem": "A 40-year-old woman at 37 weeks of gestation with polyhydramnios presented in active labor following spontaneous rupture of membranes. Cardiotocogram shows persistent fetal bradycardia. Which of the following is the most likely diagnosis?",
@@ -2812,6 +3332,30 @@
                             "answer": "D"
                         },
                         {
+                            "id": 1397.1,
+                            "topic": "Labor and CTG Monitoring",
+                            "stem": "A 32-year-old woman G3 P2002 presented at 38 weeks' gestation to Antenatal Clinic. She has had a history of 2 previous normal deliveries of 3 Kg babies. Current pregnancy, fetus found to be breech in presentation. The patient was counselled and consented for external cephalic version. On the scheduled day, an estimated fetal weight is 2.6 Kg by ultrasound, flexed fetal head, and uterus is bicornuate with average liquor measured. Which of the above findings is contraindicated external cephalic version?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Flexed fetal head."
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Bicornuate uterus."
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Average liquor."
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Fetal weight."
+                                }
+                            ],
+                            "answer": "B"
+                        },
+                        {
                             "id": 1398,
                             "topic": "Labor and CTG Monitoring",
                             "stem": "A 21-year-old woman primigravida at 38 weeks' gestation is in active labor. Her cervix is 5 cm dilated and fetal vertex is at +1 station. The tocodynamometer is done (see image). What is the best description of the initial acid-base status of the fetus?",
@@ -2858,6 +3402,30 @@
                                 }
                             ],
                             "answer": "D"
+                        },
+                        {
+                            "id": 1399.1,
+                            "topic": "Pregnancy Related Medical and Surgical Conditions",
+                            "stem": "A 24-year-old multiparous woman is in the second stage of labour. She has a history of asthma and she uses an albuterol inhaler as needed. She has a prior herpes simplex virus infection and reports outbreaks about once per year. As a child, she contracted rheumatic fever and takes prophylactic antibiotics when needed for mitral valve stenosis. Which significant medical history indicates beneficial use of forceps?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Herpes"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Asthma"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Mitral stenosis"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Prolonged labour"
+                                }
+                            ],
+                            "answer": "C"
                         },
                         {
                             "id": 1400,
@@ -3220,6 +3788,126 @@
                             "answer": "A"
                         },
                         {
+                            "id": 1414.1,
+                            "topic": "Labor and CTG Monitoring",
+                            "stem": "A 30-year-old woman G2 P1002 admitted at 40 weeks' gestation with onset of labor and ruptured membranes. Her cervix was 5 cm dilated and 100% effaced with 0 station vertex for 3 hours. A fetal monitoring strip showed 2 contractions in 10 minutes with a reassured non-stress test. Which of the following is the most appropriate management?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Augmentation with oxytocin"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Prostaglandin E1 analogue"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Continue observation"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Dinoproston"
+                                }
+                            ],
+                            "answer": "A"
+                        },
+                        {
+                            "id": 1414.2,
+                            "topic": "Labor and CTG Monitoring",
+                            "stem": "A 22-year-old primigravida presented at 38 weeks' gestation in labor. Vaginal examination showed ticm dilated cervix, full effacement and vertex. An hour later the obstetrician noticed a loop of the umbilical cord below the fetal head. Foetal Heart Rate 120 beat/min. Which of the following is the most appropriate immediate management?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Vacuum extraction"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Cesarean section"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Forceps delivery"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Fetal monitoring"
+                                }
+                            ],
+                            "answer": "B"
+                        },
+                        {
+                            "id": 1414.3,
+                            "topic": "Labor and CTG Monitoring",
+                            "stem": "A primigravida at 37 weeks gestation known to have bicornuate uterus complains of subcostal discomfort and fetal kicking is appreciated in the lower abdomen mainly. Leopold maneuver; shows global soft presenting part with sluggish ballottement by first and second pelvic grips. Fetal heart detected at the level of maternal umbilicus. Which of the following is the most likely fetal presentation?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Face presentation"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Brow presentation"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Breech presentation"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Shoulder presentation"
+                                }
+                            ],
+                            "answer": "C"
+                        },
+                        {
+                            "id": 1414.4,
+                            "topic": "Labor and CTG Monitoring",
+                            "stem": "A primigravida at 37 weeks gestation known to have bicornuate uterus complains of subcostal discomfort and fetal kicking is appreciated in the lower abdomen mainly. Leopold maneuver; shows global soft presenting part with sluggish ballottement by first and second pelvic grips. Fetal heart detected at the level of maternal umbilicus. What is the recommended method of delivery if this fetal presentation persisted?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Spontaneous vaginal delivery"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Ventouse delivery"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Forceps delivery"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Cesarean section"
+                                }
+                            ],
+                            "answer": "D"
+                        },
+                        {
+                            "id": 1414.5,
+                            "topic": "Labor and CTG Monitoring",
+                            "stem": "A 26-year-old woman G2 P1001 admitted to the hospital in active labor and ruptured membranes at 38 weeks of gestation. Upon vaginal examination, the cervix was 6 cm dilated and 1 cm long. The orbital ridge and orbits, saddle of the nose, mouth, and chin were palpable. What is the scientific term for this fetal presentation?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Compound presentation"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Cephalic presentation"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Brow presentation"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Face presentation"
+                                }
+                            ],
+                            "answer": "D"
+                        },
+                        {
                             "id": 1415,
                             "topic": "Labor and CTG Monitoring",
                             "stem": "A 30-year-old woman G2 P2002 at 32 weeks' gestation presents to Emergency Department complaining of lower abdominal and back pain, which has increased in frequency and intensity over the last few hours. Abdominal examination shows fundal height equals to 32 cm, longitudinal lie fetus and cephalic presentation. Fetal heart was positive and cardiotocography is reactive with 2-3 uterine contractions per 10 minutes. Vaginal examination shows 1 cm dilated cervix, 70% effacement, -3 station and cephalic. Which of the following is the most appropriate step in management?",
@@ -3266,6 +3954,30 @@
                                 }
                             ],
                             "answer": "C"
+                        },
+                        {
+                            "id": 1416.1,
+                            "topic": "Labor and CTG Monitoring",
+                            "stem": "A 23-year-old primigravida presented in labour. The mid wife advised mediolateral episiotomy during the 2nd stage of labour.What is the advantage of a mediolateral episiotomy?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Easy repair"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Less infection"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Tighter introitus"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Less anal extension"
+                                }
+                            ],
+                            "answer": "D"
                         },
                         {
                             "id": 1417,
@@ -3419,6 +4131,102 @@
                             "answer": "B"
                         },
                         {
+                            "id": 1422.1,
+                            "topic": "Labor and CTG Monitoring",
+                            "stem": "A 30-year-old woman G2 P2002 at 32 weeks' gestation presents to Emergency Department complaining of lower abdominal and back pain, which has increased in frequency and intensity over the last few hours. Abdominal examination shows fundal height equals to 32 cm, longitudinal lie fetus and cephalic presentation. Fetal heart was positive and cardiotocography is reactive with 2-3 uterine contractions per 10 minutes. Vaginal examination shows 1 cm dilated cervix, 70% effacement, -3 station and cephalic. Which of the following is the most appropriate step in management?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Inform neonatologist, administer corticosteroids and strict bed rest."
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Inform neonatologist, administer corticosteroids and hydrate the patient."
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Inform neonatologist, administer tocolylics and start intravenous antibiotics."
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Inform neonatologist, administer intravenous antibiotics and strict bed rest."
+                                }
+                            ],
+                            "answer": "B"
+                        },
+                        {
+                            "id": 1422.2,
+                            "topic": "Preterm labor, Preterm Rupture of Membrane (PROM) and Premature Preterm Rupture of Membrane (PPROM)",
+                            "stem": "A 30-year-old woman G2 P2002 at 32 weeks' gestation presents to Emergency Department complaining of lower abdominal and back pain which has increased in frequency and intensity over the last few hours. Abdominal examination shows fundal height equals to 32 cm, longitudinal lie fetus and cephalic presentation. Fetal heart was positive and cardiotocography is reactive with 2-3 uterine contractions/10 minutes. Vaginal examination shows 1 cm dilated cervix, 70% effacement, -3 station and cephalic. Which of the following is the next step to confirm the diagnosis? (Repeated)",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Continuous cardiotocography."
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Lecithin-sphingomyelin ratio."
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Repeat vaginal assessment in two hours- (time?)"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Cervical length assessment by ultrasound scanning"
+                                }
+                            ],
+                            "answer": "C"
+                        },
+                        {
+                            "id": 1422.3,
+                            "topic": "Preterm labor, Preterm Rupture of Membrane (PROM) and Premature Preterm Rupture of Membrane (PPROM)",
+                            "stem": "A 23-year-old woman G3 P02002 at 20 weeks' gestation with history of previous 2 preterm deliveries attend Antenatal Clinic. Current pregnancy is uneventful. An ultrasound shows size corresponds to date, anterior placenta and cervical length is 30 mm. Which of the following is the most appropriate intervention? (Repeated)",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Strict bed rest till term."
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Immediate cervical cerclage."
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Aspirin 81 mg oral tablet daily."
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Progesterone supplementation."
+                                }
+                            ],
+                            "answer": "D"
+                        },
+                        {
+                            "id": 1422.4,
+                            "topic": "Preterm labor, Preterm Rupture of Membrane (PROM) and Premature Preterm Rupture of Membrane (PPROM)",
+                            "stem": "A 30-year-old woman presents to the Women's Health Clinic after a spontaneous rupture of membranes occurred at home 1 hour before. Patient medical records indicate a positive history of recurrent vaginal herpes simplex. Which of the following is the next best step in management?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Pelvic speculum examination"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Prepare for instrumental delivery"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Proceed to caesarean section deliver"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Intravenous acyclovir administration"
+                                }
+                            ],
+                            "answer": "A"
+                        },
+                        {
                             "id": 1423,
                             "topic": "Preterm labor, Preterm Rupture of Membrane (PROM) and Premature Preterm Rupture of Membrane (PPROM)",
                             "stem": "A 38-year-old primigravida presents at 38-weeks of gestation with history of spontaneous rupture of membranes 24-hours ago. She has no labour pains. On abdominal examination, the uterus is soft and the fetus is in cephalic presentation. Cardiotocography shows normal fetal heart rate. Which of the following is the most appropriate next step in management?",
@@ -3491,6 +4299,30 @@
                             "answer": "C"
                         },
                         {
+                            "id": 1425.1,
+                            "topic": "Preterm labor, Preterm Rupture of Membrane (PROM) and Premature Preterm Rupture of Membrane (PPROM)",
+                            "stem": "A 34-week pregnant woman presents in labor with contractions occurring every 4 minutes, she also has vaginal bleeding which is heavier than normal menstrual flow. The fetus is in a back- down position, transverse lie, and the cervix is dilated 3 cm with bulging membranes. The fetal heart rate is 170 bpm. The sonography showed a posterior fundal placenta with a retroplacental sonolucent area. Which of the following is the most appropriate initial management?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Administration of a tocolytic agent"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Oxytocin augmentation"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Caesarean section"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Amniotomy"
+                                }
+                            ],
+                            "answer": "C"
+                        },
+                        {
                             "id": 1426,
                             "topic": "Preterm labor, Preterm Rupture of Membrane (PROM) and Premature Preterm Rupture of Membrane (PPROM)",
                             "stem": "A 20 year-old woman primigravida at 29 weeks' gestation presents with continuous vaginal bleeding and back pain. She denies sexual intercourse within the last 48 hours or trauma to the abdomen. Vaginal Examination reveals about 100 mL of blood in the vaginal vault and cervix is closed (see image and report). Blood pressure 110/60 mmH Heart rate 90 /min Respiratory rate 16 /min Temperature 36.0 °C Pelvic Ultrasound: Cephalic fetal presentation, amniotic fluid index of 10, and anterior-fundal placenta Which of the following is the most appropriate medication?",
@@ -3541,8 +4373,12 @@
                         {
                             "id": 1428,
                             "topic": "Preterm labor, Preterm Rupture of Membrane (PROM) and Premature Preterm Rupture of Membrane (PPROM)",
-                            "stem": "A 25-year-old woman primigravida at 31+5 weeks' gestation presents with abdominal cramping and lower back pain. She denies leaking of fluid from the vagina. Speculum examination shows no pooling liquor and nitrazine paper stays yellow. Cervical cultures are taken. Her cervix changes from closed and 50% effaced to 2 to 3 cm and 80% effaced. She is placed on fetal monitoring (see image). Which of the following is the most appropriate next step in management? A. Terbutaline",
+                            "stem": "A 25-year-old woman primigravida at 31+5 weeks' gestation presents with abdominal cramping and lower back pain. She denies leaking of fluid from the vagina. Speculum examination shows no pooling liquor and nitrazine paper stays yellow. Cervical cultures are taken. Her cervix changes from closed and 50% effaced to 2 to 3 cm and 80% effaced. She is placed on fetal monitoring (see image). Which of the following is the most appropriate next step in management?",
                             "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Terbutaline"
+                                },
                                 {
                                     "letter": "B",
                                     "text": "Cesarean section"
@@ -3708,6 +4544,30 @@
                                 }
                             ],
                             "answer": "A"
+                        },
+                        {
+                            "id": 1434.1,
+                            "topic": "Postpartum",
+                            "stem": "A nulliparous woman is admitted to the hospital at 42 weeks' gestation for induction of labour with cervical prostaglandin gel. On admission, a pelvic examination shows the cervix is closed, thick and posterior facing. A non-stress test shows the fetal heart rate is 130-140 beats per minute with good variability. There are 3 accelerations and 2 fetal movements during the examination. 1 hour after applying the prostaglandin gel, the fetal heart tones are 80 beats per minute and the contractions last for two minutes. Which of the following intervention is the most important?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Administer oxygen at 10 L/min by facemask"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Prepare for an urgent caesarean section"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Administer subcutaneous terbutaline"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Assess for cord prolapse"
+                                }
+                            ],
+                            "answer": "C"
                         },
                         {
                             "id": 1435,
@@ -4068,6 +4928,78 @@
                                 }
                             ],
                             "answer": "A"
+                        },
+                        {
+                            "id": 1449.1,
+                            "topic": "Postpartum",
+                            "stem": "A 37-year-old woman G8 P7017 at 36 weeks' gestation has history of recurrent postpartum that required blood transfusion. She has no significant medical problem. Which of the following is the most appropriate preventive measure at delivery?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Deliver the patient in the operating room"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Perform an elective cesarean section at 38 weeks gestation"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Perform active management of 3rd stage of labor"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Give the patient preload of crystalloid fluids while in labor to overcome the possible post- delivery hypovolemia"
+                                }
+                            ],
+                            "answer": "C"
+                        },
+                        {
+                            "id": 1449.2,
+                            "topic": "Postpartum",
+                            "stem": "A 40-year-old woman has just delivered her 7th child at 38 weeks with 4 kg baby boy vaginally 10 minutes ago. The placenta is still in place and she starts to bleed profusely. The estimated amount of blood loss visually is around 800 ml. Which of the following best describes this case?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Secondary post-partum hemorrhage"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "latrogenic post-partum hemorrhage"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Primary post-partum hemorrhage"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Tertiary post-partum hemorrhage"
+                                }
+                            ],
+                            "answer": "C"
+                        },
+                        {
+                            "id": 1449.3,
+                            "topic": "Postpartum",
+                            "stem": "A 38-year-old G9 P8008 woman presented at 38 weeks gestation in labor and diagnosis of prolonged 2nd stage of labor was entertained and finally delivered 4.3 Kg baby by vacuum extraction. Anticipated management was taken because of risk of postpartum hemorrhage and hypovolemic shock. Which of the following is considered a best reliable indicator of above complications?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Visual estimation of blood loss"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Maternal pulse rate"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Hemoglobin level"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Hematocrit level"
+                                }
+                            ],
+                            "answer": "B"
                         },
                         {
                             "id": 1450,
