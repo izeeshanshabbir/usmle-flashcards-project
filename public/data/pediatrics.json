@@ -665,12 +665,12 @@
                             "text": "2"
                         },
                         {
-                            "letter": "C",
-                            "text": "4"
+                            "letter": "B",
+                            "text": "3"
                         },
                         {
-                            "letter": "D",
-                            "text": "5"
+                            "letter": "C",
+                            "text": "4"
                         },
                         {
                             "letter": "D",
@@ -1431,7 +1431,7 @@
                     "answer": "B"
                 },
                 {
-                    "id": 1777,
+                    "id": 1777.1,
                     "topic": "Infectious diseases",
                     "stem": "A 4-year-old girl presented to the clinic with a history of fever for the last 3 days associated with sore throat and decreased oral intake. She also has difficulty in swallowing solid food. Her vaccination is up to date. On examination, she has a palpable cervical lymph node that is about 2 cm in size, tender and fluctuates. Which of the following is the most likely causative organism?",
                     "options": [
