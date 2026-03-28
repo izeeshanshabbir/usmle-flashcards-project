@@ -7214,6 +7214,30 @@
                             "answer": "C"
                         },
                         {
+                            "id": 1539.1,
+                            "topic": "Abortion, Pregnancy Loss, and Intrauterine Fetal Demise (IUFD)",
+                            "stem": "A 24-year-old nulliparous woman presents to the Maternal Health Clinic in the evening at 34 weeks' gestation and complaining of decreased fetal movement. She says she had been at work all day and then came directly to the hospital when she noticed that the baby has not been moving as much as usual. There has been no leaking of amniotic fluid. There are no uterine contractions and also no vaginal bleeding. Which of the following is the most appropriate next step in management?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Non-stress test"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Biophysical profile"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Pelvic examination"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Vibro-acoustic stimulation"
+                                }
+                            ],
+                            "answer": "A"
+                        },
+                        {
                             "id": 1540,
                             "topic": "Abortion, Pregnancy Loss, and Intrauterine Fetal Demise (IUFD)",
                             "stem": "A 30-year-old primigravida with 10 weeks of amenorrhea presents with abdominal pain and vaginal bleeding. Pelvic examination reveals a partially dilated cervix, and the product of conception felt at the cervix. Which of the following is the most likely type of abortion?",
@@ -7382,6 +7406,30 @@
                             "answer": "A"
                         },
                         {
+                            "id": 1546.1,
+                            "topic": "Cervical Incompetence",
+                            "stem": "A woman presents at her 9th week of pregnancy with severe vaginal bleeding, lower abdominal pain and passage of the fetus through the vagina. On vaginal examination, cervix is open and tissue seen in the cervix. Which of the following the most appropriate management?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Fluid replacement and evacuation and curettage."
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Fluid replacement and expectant management."
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Fluid replacement and uterine massage."
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Fluid replacement and hysterectomy."
+                                }
+                            ],
+                            "answer": "A"
+                        },
+                        {
                             "id": 1547,
                             "topic": "Abortion, Pregnancy Loss, and Intrauterine Fetal Demise (IUFD)",
                             "stem": "A 30-year-old G3 P2002 at 8 weeks of gestation presents to the Emergency Room complaining of mild per vaginal bleeding, she denies history of passage of tissue and on examination the abdomen is soft and nontender. Pelvic examination reveals a healthy normally looking, closed cervical os with evidence of brownish discharge and no active bleeding seen (see report). Bedside Ultrasound: Reveals an intrauterine pregnancy with a crown-rump length of 7 weeks. Which of the following is the most likely diagnosis?",
@@ -7428,6 +7476,30 @@
                                 }
                             ],
                             "answer": "A"
+                        },
+                        {
+                            "id": 1548.1,
+                            "topic": "Abortion, Pregnancy Loss, and Intrauterine Fetal Demise (IUFD)",
+                            "stem": " A 30-year-old G3 P2002 at 8 weeks of gestation presents to the Emergency Room complaining of mild per vaginal bleeding, she denies history of passage of tissue and on examination the abdomen is soft and nontender. Pelvic examination reveals a healthy normally looking, closed cervical os with evidence of brownish discharge and no active bleeding detected (see report). Blood pressure 110/70 mmHg Heart rate 76 /min Respiratory rate 18/min Temperature 36.6 °C Bedside Ultrasound: Reveals an intrauterine pregnancy with a crown-rump length of 7 weeks. Which of the following is the most appropriate next step?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Complete bed rest"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Surgical intervention"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Termination of pregnancy"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Resume safely to daily activities"
+                                }
+                            ],
+                            "answer": "D"
                         },
                         {
                             "id": 1549,
@@ -7961,6 +8033,30 @@
                             "answer": "D"
                         },
                         {
+                            "id": 1570.1,
+                            "topic": "Ectopic Pregnancy",
+                            "stem": "A 30-year-old primigravida at 6 weeks of gestation presenting to the Emergency Room with mild abdominal pains. On examination, the abdomen is soft, non-tender. The pelvic examination reveals a normal cervix with mild cervical motion tenderness. The patient lives 80 km away from the hospital and her husband is participating in a mission in a different city. She was brought to the Emergency Room by her neighbor (see lab results and report). Blood pressure 110/70 mmHg, Heart rate 76 /min, Respiratory rate 18 /min, Temperature 36.6 °C Test Result Normal Values Hb 110 130-170 g/. (Male) 120-160 g/L (Female) Human chorionic gonadotropin 5000 < 5 ml/mL Trans-vaginal Ultrasound: Reveals a normal sized uterus with no clear gestational sac and a 4 cm right adnexal mass with no fetal pole. Which of the patient characteristics favor surgical management?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Vital signs"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "B-hCG level"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Social history"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Ultrasound findings"
+                                }
+                            ],
+                            "answer": "C"
+                        },
+                        {
                             "id": 1571,
                             "topic": "Ectopic Pregnancy",
                             "stem": "A 30-year-old primigravida at 6 weeks of gestation presenting to the Emergency Room with mild abdominal pains. On examination, the abdomen is soft, non-tender. The pelvic examination reveals a normal cervix with mild cervical motion tenderness (see lab results and report). Hb 130 130-170 g/L (Male) 120-160 g/L (Female) Human chorionic gonadotropin 3500 < 5 miU/mL Trans-vaginal Ultrasound: Reveals a normal sized uterus with no clear gestational sac and a 3 cm right adnexal mass with no fetal pole. What would be a prerequisite before counseling this patient for medical management?",
@@ -8105,6 +8201,30 @@
                             "answer": "A"
                         },
                         {
+                            "id": 1576.1,
+                            "topic": "Ectopic Pregnancy",
+                            "stem": "A 34-year-old woman presented to the hospital 7 days before with right-sided lower abdominal pain. In addition, she had slight bright red vaginal bleeding. A blood serum sample of B-human chorionic gonadotropin was 2900 IU/Liter. She was administered intramuscular methotrexate. A week later, she reported to the hospital with severe right-sided lower abdominal pain. A blood serum sample of B-human chorionic gonadotropin was drawn and shown to be 6000 IU/Liter. Which of the following would be most appropriate?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Exploratory laparoscopy"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Repeat methotrexate"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Salpingectomy"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Salpingostomy"
+                                }
+                            ],
+                            "answer": "A"
+                        },
+                        {
                             "id": 1577,
                             "topic": "Ectopic Pregnancy",
                             "stem": "A 26-year-old patient with a 6-week history of amenorrhea presented with mild lower pelvic pain and vaginal bleeding. Pelvic examination revealed a soft uterus of normal size with mild tenderness at the right adnexa (see lab results and report). Blood pressure 110/70 mmHg, Heart rate 82 /min Respiratory rate 22 /min Temperature 37.6 °C Human chorionic gonadotropin 1000 < 5 mlU/mL B-hCG 1000 1080-56500 m|U/ml Pelvic ultrasound: Shows a thickened endometrium with no intrauterine sac, minimal amount of fluid in the cul-de-sac and right adnexal mass measuring 1.2 cm. Which of the following is the most appropriate management?",
@@ -8206,6 +8326,54 @@
                                 }
                             ],
                             "answer": "C"
+                        },
+                        {
+                            "id": 1580.1,
+                            "topic": "Gestational Trophoblastic Disease (Molar pregnancy and Choriocarcinoma)",
+                            "stem": "A 22-year-old G3 P0020 with a history of 2 miscarriages presents to the Emergency Room with mild per vaginal bleeding. She denies history of tissue passage. The last menstruation started 6 weeks ago, she complains of a cough associated with hemoptysis for the last few days. On examination, the uterus is 12 weeks in size and is slightly tender. Pelvic examination reveals aggressive looking, irregular mass that bleeds on touch arising from the cervix (see lab results). Hb 70 g/L, HCT 0.21, MCH 25 pg/cell, MCV 75 fL, Human chorionic gonadotropin 1005023 mlU/mL. Which of the following is the most appropriate next step?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Biopsy the mass"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Admit for suction evacuation"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Admit for staging and chemotherapy"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Admit for preoperative workup for hysterectomy"
+                                }
+                            ],
+                            "answer": "C"
+                        },
+                        {
+                            "id": 1580.2,
+                            "topic": "Gestational Trophoblastic Disease (Molar pregnancy and Choriocarcinoma)",
+                            "stem": "A 32-year-old woman 16 weeks pregnant presents to the clinic with vaginal bleeding, abdominal enlargement and vomiting for the past 4 days. On examination, the uterine size is larger than expected for the gestational age. Human chorionic gonadotropin is 80,000 mlU/mL. Ultrasound shows a snowstorm-like appearance. Which of the following is the most likely diagnosis?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Complete hydatidiform mole"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Chorioadenoma destruens"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Partial hydatidiform mole"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Choriocarcinoma"
+                                }
+                            ],
+                            "answer": "A"
                         }
                     ]
                 },
@@ -9330,6 +9498,222 @@
                             "answer": "D"
                         },
                         {
+                            "id": 1625.1,
+                            "topic": "Cervical Cancer and Screening",
+                            "stem": "A 48-year-old woman has had 2 inflammatory pap smears 3 months apart and a normal pelvic examination. A colposcopically directed biopsy of a normal appearing cervix revealed invasive carcinoma. Which of the following is the best next step in management?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Clinical staging of the disease"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Conization of the disease area"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Radical hysterectomy and chemotherapy"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Radical hysterectomy and radiotherapy"
+                                }
+                            ],
+                            "answer": "A"
+                        },
+                        {
+                            "id": 1625.2,
+                            "topic": "Cervical Cancer and Screening",
+                            "stem": "A 30-year-old para 3 woman presented with a significant history of smoking 2 packs per week for the past 7 years. She was using progestin-only pills. She has had annual Papanicolaou examinations for the past 9 years and all results have been normal. Bimanual pelvic examination showed normal findings. Papanicolaou smear repeated with results of low-grade epithelial lesions. Which of the following is the most appropriate next step in management?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Colposcopy"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Repeat test in 1 year"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Cold-knife conization"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Loop electrosurgical incision"
+                                }
+                            ],
+                            "answer": "A"
+                        },
+                        {
+                            "id": 1625.3,
+                            "topic": "Cervical Cancer and Screening",
+                            "stem": "A 30-year-old married woman has had an abnormal Papanicolaou test result. Repeated smears were suggestive of high-grade intraepithelial lesions. Pelvic and rectal examinations were normal. Which of the following is the next step in management?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Total hysterectomy"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Cervical cone biopsy"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Therapeutic irradiation"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Colposcopy directed biopsy"
+                                }
+                            ],
+                            "answer": "D"
+                        },
+                        {
+                            "id": 1625.4,
+                            "topic": "Cervical Cancer and Screening",
+                            "stem": "A 34-year-old woman non-smoker with 2 previous normal deliveries presented for a routine pap smear and her last pap was normal 7 years ago. She had one episode of venereal warts at age 18 with no recurrence. Pap smear shows atypical squamous cells of undetermined significance (ASC-US). What will be the first step in management?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Another pap smear"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Hysterectomy"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Colposcopy"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "HPV testing"
+                                }
+                            ],
+                            "answer": "D"
+                        },
+                        {
+                            "id": 1625.5,
+                            "topic": "Cervical Cancer and Screening",
+                            "stem": "A 40-year-old woman complains of post-coital bleeding. Speculum examination reveals a cervical mass. Which of the following is the most appropriate next investigation?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Pap smear"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Cone biopsy"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "RNA analysis"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Directed biopsy"
+                                }
+                            ],
+                            "answer": "D"
+                        },
+                        {
+                            "id": 1625.6,
+                            "topic": "Cervical Cancer and Screening",
+                            "stem": "A 60-year-old woman's pap smear shows ASC-US. She was given topical vaginal estrogen for one month and repeat pap smear again showed ASC-US. Which of the following is the most appropriate next investigation?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Repeating pap smear after 6 months"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Endometrial biopsy"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "HPV testing"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Colposcopy"
+                                }
+                            ],
+                            "answer": "D"
+                        },
+                        {
+                            "id": 1625.7,
+                            "topic": "Cervical Cancer and Screening",
+                            "stem": "A 40-year-old sexually active patient presents for cervical cancer screening. Examination is normal, menstruation regular, last menstrual period 5 days ago. Which of the following is the best advice about Pap smear?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Yearly screening recommended"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Every 5 years is recommended"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "No routine screening recommended"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Three negative results and no further screening"
+                                }
+                            ],
+                            "answer": "A"
+                        },
+                        {
+                            "id": 1625.8,
+                            "topic": "Cervical Cancer and Screening",
+                            "stem": "A 35-year-old woman undergoing routine Pap smear has a raised irregular cervical mass measuring 10 x 12 mm on the left lateral aspect. Which of the following is the most appropriate next step?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Excise the lesion"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Tissue biopsy from the mass"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "HPV testing"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Reassurance until pap smear result"
+                                }
+                            ],
+                            "answer": "B"
+                        },
+                        {
+                            "id": 1625.9,
+                            "topic": "Cervical Cancer and Screening",
+                            "stem": "A 38-year-old woman presents with post-coital bleeding for 3 months. Speculum examination shows a normal cervix, but Pap smear reveals squamous cell carcinoma. What is the most appropriate next immediate action?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Radiotherapy"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Neoadjuvant chemotherapy"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Total abdominal hysterectomy"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Colposcopy directed cervical biopsy"
+                                }
+                            ],
+                            "answer": "D"
+                        },
+                        {
                             "id": 1626,
                             "topic": "Cervical Cancer and Screening",
                             "stem": "A 24-year-old woman comes to the clinic. She is married for 3 years and has no previous pap smears. She asks for a pap smear during the visit. Which of the following is the most appropriate action?",
@@ -9356,8 +9740,12 @@
                         {
                             "id": 1627,
                             "topic": "Cervical Cancer and Screening",
-                            "stem": "What is the recommended age to start Pap smear screening for cervical cancer in married women? A. 20-24",
+                            "stem": "What is the recommended age to start Pap smear screening for cervical cancer in married women?",
                             "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "20-24"
+                                },
                                 {
                                     "letter": "B",
                                     "text": "25-29"
@@ -9376,8 +9764,12 @@
                         {
                             "id": 1628,
                             "topic": "Cervical Cancer and Screening",
-                            "stem": "Which of the following is the recommended frequency of Pap smear screening for cervical cancer? A. Every year",
+                            "stem": "Which of the following is the recommended frequency of Pap smear screening for cervical cancer?",
                             "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Every year"
+                                },
                                 {
                                     "letter": "B",
                                     "text": "Every 2 years"
@@ -9431,6 +9823,30 @@
                     "title": "Endometrial Polyp, Hyperplasia and Carcinoma",
                     "questionCount": 12,
                     "questions": [
+                        {
+                            "id": 1629.1,
+                            "topic": "Endometrial Cancer and Postmenopausal Bleeding",
+                            "stem": "A 65-year-old post-menopausal woman complains of on and off vaginal bleeding that started 2 months ago. The bleeding is mild to moderate and consists of fresh blood. She is diabetic, hypertensive, obese, and has used hormone replacement therapy. Her body mass index is 37 kg/m2. Which of the following investigations is essential to establish the diagnosis?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Pelvic magnetic resonance imaging"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Pelvic ultrasonography"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Endometrial biopsy"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Tumor markers"
+                                }
+                            ],
+                            "answer": "C"
+                        },
                         {
                             "id": 1630,
                             "topic": "Endometrial Polyp, Hyperplasia and Carcinoma",
@@ -9718,6 +10134,30 @@
                                 }
                             ],
                             "answer": "B"
+                        },
+                        {
+                            "id": 1641.1,
+                            "topic": "Endometriosis",
+                            "stem": "A 39-year-old woman, mother of 3 children who has completed her family, is a known case of right ovarian endometrioma removed 2 years ago. She presents with mild to moderate dysmenorrhea, deep dyspareunia, and chronic lower abdominal pain. Pelvic ultrasonography shows a left ovarian cyst measuring 6 x 7 cm consistent with an endometriotic cyst. Which of the following is the most appropriate next step?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Removing the cyst when the size becomes more than 10 cm"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Aspiration of the cyst under ultrasound guidance"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Total abdominal hysterectomy and bilateral salpingo-oophorectomy"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Laparoscopic cyst removal with ablation of endometriotic lesions"
+                                }
+                            ],
+                            "answer": "D"
                         }
                     ]
                 },
@@ -9794,6 +10234,30 @@
                                 {
                                     "letter": "D",
                                     "text": "Urinalysis and culture"
+                                }
+                            ],
+                            "answer": "D"
+                        },
+                        {
+                            "id": 1644.1,
+                            "topic": "Obstetric Complications",
+                            "stem": "A patient who had a vaginal delivery 3 months ago is complaining of fecal incontinence and passage of vaginal flatus. These symptoms started 1 week postpartum. Which of the following is the most likely diagnosis?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Hemorrhoids"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Puerperal sepsis"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Partial perineal tear"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Recto-vaginal fistula"
                                 }
                             ],
                             "answer": "D"
@@ -9967,6 +10431,30 @@
                             "answer": "B"
                         },
                         {
+                            "id": 1651.1,
+                            "topic": "Pelvic Organ Prolapse",
+                            "stem": "A 55-year-old woman presents with a mass protruding through her vagina when standing for prolonged periods, especially during coughing and straining. She has had 7 vaginal deliveries. Her last delivery was complicated by a prolonged second stage and required vacuum extraction of a 4.2 kg baby. Which of the following is the most appropriate next step?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Bonney's test"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Urodynamic studies"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Retrograde cysto-urethrogram"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Speculum examination of vagina"
+                                }
+                            ],
+                            "answer": "D"
+                        },
+                        {
                             "id": 1652,
                             "topic": "Urogynecology",
                             "stem": "A 6-year-old girl brought by her mother with vulvar itching and bloody vaginal discharge for few days. Which of the following is the most likely diagnosis?",
@@ -10111,6 +10599,54 @@
                             "answer": "C"
                         },
                         {
+                            "id": 1657.1,
+                            "topic": "Urinary Tract Infections",
+                            "stem": "A 38-year-old woman presents with dysuria and increased frequency of urination. She is allergic to sulfa, penicillin, and shellfish. Vital signs: BP 120/80 mmHg, HR 80/min, RR 16/min, Temperature 38.0°C. Urine dipstick is positive for leukocyte esterase. Which of the following is the most appropriate treatment?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Nitrofurantoin"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Trimethoprim-sulfamethoxazole"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Cephalexin"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Amoxicillin"
+                                }
+                            ],
+                            "answer": "A"
+                        },
+                        {
+                            "id": 1657.2,
+                            "topic": "Gynecological Complications",
+                            "stem": "A patient presents for follow-up 2 weeks after a vaginal hysterectomy with anterior and posterior repair. She reports leakage of urine from the vagina during micturition. Which of the following is the most likely diagnosis?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Cystitis"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Vesicovaginal fistula"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Ureterovaginal fistula"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Urethrovaginal fistula"
+                                }
+                            ],
+                            "answer": "D"
+                        },
+                        {
                             "id": 1658,
                             "topic": "Urogynecology",
                             "stem": "A 40-year-old P6 patient attends to the clinic complaining of dribbling of a small amount of urine with associated dyspareunia and dysuria. She denies any history of previous surgeries or the development of fever. Which of the following is the most likely cause of the symptoms?",
@@ -10154,6 +10690,30 @@
                                 {
                                     "letter": "D",
                                     "text": "Urge incontinence"
+                                }
+                            ],
+                            "answer": "A"
+                        },
+                        {
+                            "id": 1959.1,
+                            "topic": "Urinary Disorders",
+                            "stem": "A 60-year-old woman presents with urinary urgency, increased frequency, dysuria, and urinary incontinence. Which of the following is the most appropriate next step?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Urinalysis"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Urodynamics"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Botox injection"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Ultrasound pelvis"
                                 }
                             ],
                             "answer": "A"
@@ -10205,6 +10765,30 @@
                                 }
                             ],
                             "answer": "B"
+                        },
+                        {
+                            "id": 1661.1,
+                            "topic": "Urinary Incontinence",
+                            "stem": "A 35-year-old woman delivered her fifth baby by vacuum extraction due to prolonged second stage of labor 3 months ago. She complains of leakage of urine when coughing, sneezing, or laughing. The symptoms started after delivery and have persisted since then. Which of the following is the most likely diagnosis?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Detrusor instability"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Stress incontinence"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Urethrovaginal fistula"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Overflow incontinence"
+                                }
+                            ],
+                            "answer": "B"
                         }
                     ]
                 },
@@ -10236,6 +10820,54 @@
                                 }
                             ],
                             "answer": "B"
+                        },
+                        {
+                            "id": 1662.1,
+                            "topic": "Breast Infections",
+                            "stem": "A 25-year-old breastfeeding mother, who delivered a month ago, presents with fever and pain in the right breast for the past 2 days. The fever is associated with chills and malaise. On examination, there is a wound on the areola with surrounding redness and induration. Vital signs: BP 110/70 mmHg, HR 86/min, RR 18/min, Temperature 39.0°C. Which of the following is the most likely causative pathogen?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Escherichia coli"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Staphylococcus aureus"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Haemophilus influenzae"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Beta-haemolytic streptococci"
+                                }
+                            ],
+                            "answer": "B"
+                        },
+                        {
+                            "id": 1662.2,
+                            "topic": "Breastfeeding",
+                            "stem": "A 28-year-old woman presents to the Maternal Health Clinic with amenorrhea for 2 months and a positive pregnancy test. She had a needle-stick injury 1 year ago from a hepatitis C patient and was treated with interferon with regular follow-up. She asks if she will be able to breastfeed her newborn. Which of the following complications would most likely prevent breastfeeding?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Lack of routine newborn immunizations"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Neonatal oral candidiasis"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Maternal anaemia"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Cracked nipples"
+                                }
+                            ],
+                            "answer": "D"
                         },
                         {
                             "id": 1663,
@@ -10332,6 +10964,30 @@
                                 }
                             ],
                             "answer": "B"
+                        },
+                        {
+                            "id": 1666.1,
+                            "topic": "Hypertensive Disorders in Pregnancy",
+                            "stem": "A young primigravida presents with significant edema of the lower extremities and hands. She is admitted for evaluation and management. Vital signs: BP 150/95 mmHg, HR 76/min, RR 18/min, Temperature 36.6°C. Which of the following is the most appropriate management?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Diuretics"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Low-salt diet"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Oral labetalol"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Continued evaluation"
+                                }
+                            ],
+                            "answer": "D"
                         },
                         {
                             "id": 1667,
@@ -10550,6 +11206,54 @@
                             "answer": "D"
                         },
                         {
+                            "id": 1675.1,
+                            "topic": "Vaccination in Pregnancy",
+                            "stem": "A gravida 3, para 2 woman at 16 weeks' gestation presents concerned about an outbreak of illness in her child's school and the potential effects on her fetus. Which of the following vaccines is recommended at this time?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Rubella"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Varicella"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Smallpox"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Influenza"
+                                }
+                            ],
+                            "answer": "D"
+                        },
+                        {
+                            "id": 1675.2,
+                            "topic": "Labour Induction",
+                            "stem": "A 32-year-old multiparous woman is admitted for induction of labour at 41 weeks and 2 days' gestation. She has had two prior uncomplicated vaginal deliveries. Pelvic examination reveals the cervix is 2 cm dilated, 50% effaced, with medium consistency and mid-anterior position. The presenting part is at -2 station. Which of the following is the most appropriate method for labour induction?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Artificial rupture of membranes"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Intravenous oxytocin infusion"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Indwelling catheter insertion"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Cervical ripening agent"
+                                }
+                            ],
+                            "answer": "D"
+                        },
+                        {
                             "id": 1676,
                             "topic": "Unclassified",
                             "stem": "A 30-year-old woman gravida 4, para 3 woman presents to Antenatal Clinic at 32 weeks' gestation with headache and swelling of the feet. At the initial antenatal visit, there was +2 pitting edema of the lower extremities and the face appears swollen. Dipstick of the urine shows proteinuria. The fundal height is 28 cm and fetal heart rate was 140-150 beats per minute with good variability. She reports regular fetal movements. Blood pressure 150/100 mmg, Heart rate 90 /min, Respiratory rate 26 /min, Temperature 37.1° C Which additional clinical finding would be associated with intrauterine growth restriction?",
@@ -10665,6 +11369,30 @@
                                 {
                                     "letter": "D",
                                     "text": "Follicular stimulating hormone"
+                                }
+                            ],
+                            "answer": "D"
+                        },
+                        {
+                            "id": 1680.1,
+                            "topic": "Menopause",
+                            "stem": "A 51-year-old woman presents complaining of hot flushes and asks for an explanation of her symptoms. Which of the following best describes the mechanism involved in hot flushes?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Subjective symptoms of vasomotor instability"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Peripheral vasodilatation reflecting an elevation of core body temperature"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Peripheral vasodilatation resulting from direct effect of elevated FSH and LH"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Peripheral redistribution of blood flow leading to sweating and increased heart rate"
                                 }
                             ],
                             "answer": "D"
@@ -10934,9 +11662,33 @@
                             "answer": "A"
                         },
                         {
-                            "id": 1692,
-                            "topic": "Unclassified",
-                            "stem": "Which of the following tests is initially most appropriate?",
+                            "id": 1691.1,
+                            "topic": "Obstetric Anesthesia",
+                            "stem": "A 26-year-old multiparous woman in labor requests pain relief. A pudendal nerve block is performed by injecting local anesthetic into the sacrotuberous ligament near the ischial spine. Which of the following structures will remain fully sensitive despite this block?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Urogenital diaphragm"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Perineal body"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Rectum"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Vulva"
+                                }
+                            ],
+                            "answer": "C"
+                        },
+                        {
+                            "id": 1691.2,
+                            "topic": "Respiratory Disorders in Pregnancy",
+                            "stem": "A 34-year-old multiparous woman at 28 weeks' gestation presents with cough and difficulty breathing. She is restless, with bilateral rhonchi on auscultation. She has allergies to dust, pollen, mold, and animal hair. Symptoms began 2 days ago with clear sputum. Vital signs: BP 124/72 mmHg, HR 120/min, RR 24/min, Temperature 37.5°C. Which of the following tests is initially most appropriate?",
                             "options": [
                                 {
                                     "letter": "A",
@@ -10956,6 +11708,78 @@
                                 }
                             ],
                             "answer": "A"
+                        },
+                        {
+                            "id": 1691.3,
+                            "topic": "Asthma in Pregnancy",
+                            "stem": "A 28-year-old woman with mild intermittent asthma presents at 24 weeks' gestation with worsening symptoms. Previously controlled with occasional albuterol use, she now has daily symptoms and weekly nighttime symptoms. FEV1 is 70% of normal. Which of the following is the most appropriate medication regimen?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Short-acting bronchodilators and oral glucocorticoids"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Inhaled glucocorticoids and short-acting bronchodilators"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Inhaled glucocorticoids and long-acting bronchodilators"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Long-acting beta2 agonist and inhaled glucocorticoids"
+                                }
+                            ],
+                            "answer": "C"
+                        },
+                        {
+                            "id": 1691.4,
+                            "topic": "Tuberculosis in Pregnancy",
+                            "stem": "A 28-year-old pregnant woman (G4 P2012) at 20 weeks' gestation presents with a productive cough and night chills for 1 month. She has not responded to prior treatment. Examination shows pallor, cervical lymphadenopathy, and crepitations in the left upper lobe. Interferon-gamma release assay is positive. Which of the following is the next best step to obtain a definitive diagnosis?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Chest X-ray"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Sputum culture"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Tuberculin skin test"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Sputum smear cytology"
+                                }
+                            ],
+                            "answer": "B"
+                        },
+                        {
+                            "id": 1692,
+                            "topic": "Pelvic Organ Prolapse",
+                            "stem": "A 58-year-old multiparous woman complains of urine leakage when laughing or coughing and a dragging or balloon-like sensation in the genital area for 4 months. Examination shows bulging of the lower anterior vaginal wall. What is the most likely cause?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Cystocele"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Rectocele"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Enterocele"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Urethrocele"
+                                }
+                            ],
+                            "answer": "D"
                         },
                         {
                             "id": 1693,
@@ -11004,6 +11828,30 @@
                                 }
                             ],
                             "answer": "A"
+                        },
+                        {
+                            "id": 1694.1,
+                            "topic": "Vulvar Cancer",
+                            "stem": "A 56-year-old postmenopausal woman presents with a 1-year history of recurrent irritation in the pubic area. She reports itchiness with occasional blood-stained discharge. She has tried metronidazole suppositories and topical creams with little relief. Recently, she noticed a pea-sized lump on the labia. Which of the following is the most likely diagnosis?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Bartholin cyst"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Cystic adenosis"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Bartholin gland carcinoma"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Squamous cell carcinoma of vulva"
+                                }
+                            ],
+                            "answer": "D"
                         },
                         {
                             "id": 1695,
@@ -11076,6 +11924,30 @@
                                 }
                             ],
                             "answer": "C"
+                        },
+                        {
+                            "id": 1697.1,
+                            "topic": "Vulvar Disorders",
+                            "stem": "A 25-year-old woman presents with swelling on one side of the labia, noticed 24 hours ago and not improved with warm tub soaking. Examination reveals a non-tender, 3 cm, slightly mobile cystic mass at approximately the 7 o'clock position on the right side of the vaginal introitus. Vital signs: BP 110/70 mmHg, HR 76/min, RR 18/min, Temperature 37°C. Which of the following is the most likely diagnosis?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Bartholin cyst"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Vulvar myoma"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Vaginal adenosis"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Skene's duct cyst"
+                                }
+                            ],
+                            "answer": "A"
                         },
                         {
                             "id": 1698,
@@ -11366,6 +12238,150 @@
                             "answer": "D"
                         },
                         {
+                            "id": 1709.1,
+                            "topic": "Multiple Pregnancy",
+                            "stem": "A 23-year-old G2 P1001 at 22 weeks' gestation presents with an abdomen larger than in her previous pregnancy. Ultrasound shows a dizygotic twin pregnancy. Which of the following best describes the membranes and placenta of dizygotic twins?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Monochorionic and monoamniotic for conjoined twins"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Monochorionic and diamniotic for fetuses of the same sex"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Dichorionic and monoamniotic for fetuses of the same sex"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Dichorionic and diamniotic regardless of the sex of the fetuses"
+                                }
+                            ],
+                            "answer": "D"
+                        },
+                        {
+                            "id": 1709.2,
+                            "topic": "Rh Incompatibility",
+                            "stem": "A 17-year-old woman at 39 weeks' gestation with no prior antenatal care delivers a healthy baby boy. She is given RhoGAM. What is the indication for RhoGAM?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Mother is Rh-negative and the baby is Rh-positive"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Father is Rh-positive and the baby is Rh-negative"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Mother is Rh-positive and the baby is Rh-negative"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Father is Rh-negative and the baby is Rh-positive"
+                                }
+                            ],
+                            "answer": "A"
+                        },
+                        {
+                            "id": 1709.3,
+                            "topic": "Infertility",
+                            "stem": "A 23-year-old nulligravida has been trying to conceive for 3 months with regular cycles and no prior reproductive issues. Her husband is healthy. What is the best next step?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Sperm count"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Continue trying"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Genetic testing"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Tubal patency test"
+                                }
+                            ],
+                            "answer": "B"
+                        },
+                        {
+                            "id": 1709.4,
+                            "topic": "Cervical Cancer Screening",
+                            "stem": "A 31-year-old woman with 5 years of normal annual screening has negative HPV and Pap smear results this year as well. When should screening be repeated?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "6 months"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "1 year"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "2 years"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "3 years"
+                                }
+                            ],
+                            "answer": "D"
+                        },
+                        {
+                            "id": 1709.5,
+                            "topic": "Vaccination in Pregnancy",
+                            "stem": "A gravida 2 para 0 woman with a history of stillbirth presents with a positive pregnancy test and requests vaccination. Which vaccine is most appropriate?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Rubella"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Measles"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Influenza"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Varicella"
+                                }
+                            ],
+                            "answer": "C"
+                        },
+                        {
+                            "id": 1709.6,
+                            "topic": "Twin Delivery",
+                            "stem": "A 34-year-old multiparous woman at 37 weeks' gestation with twins presents with regular contractions. Which fetal presentation is most favorable for vaginal delivery?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Transverse-cephalic"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Cephalic-cephalic"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Breech-breech"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Breech-cephalic"
+                                }
+                            ],
+                            "answer": "B"
+                        },
+                        {
                             "id": 1710,
                             "topic": "Unclassified",
                             "stem": "A 24-year-old woman has been applying a new herbal cream on her vulva for the last 2 weeks. She notices a burning sensation and itching along with redness at the area of application. Which of the following is the most likely diagnosis?",
@@ -11436,6 +12452,30 @@
                                 }
                             ],
                             "answer": "D"
+                        },
+                        {
+                            "id": 1712.1,
+                            "topic": "Polycystic Ovary Syndrome (PCOS)",
+                            "stem": "A 24-year-old woman presents with infertility for more than 2 years despite regular attempts. She has a history of irregular, infrequent, and scanty menstrual periods occurring every 6–7 weeks. Her BMI is 35 kg/m2. Transvaginal ultrasound shows multiple small peripheral ovarian cysts (3–5 mm) with a 'pearl necklace' appearance. Which of the following is the most likely factor contributing to her infertility?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Tubal factor"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Cervical factor"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Ovulatory factor"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Endometrial factor"
+                                }
+                            ],
+                            "answer": "C"
                         },
                         {
                             "id": 1713,
@@ -11532,6 +12572,54 @@
                                 }
                             ],
                             "answer": "B"
+                        },
+                        {
+                            "id": 1716.1,
+                            "topic": "Polycystic Ovary Syndrome (PCOS)",
+                            "stem": "A 30-year-old woman presents with infertility for 18 months. She previously had regular cycles but now has irregular bleeding. She has hirsutism (hair on upper lip and chin) and bilaterally enlarged ovaries. DHEA and 17-OH progesterone levels are normal. BMI is 30 kg/m2. Which of the following laboratory findings is most likely?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Normal testosterone levels"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Decreased free androgen index"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Increased thyroid hormones"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Follicle-stimulating hormone to luteinizing hormone ratio of 1:3"
+                                }
+                            ],
+                            "answer": "D"
+                        },
+                        {
+                            "id": 1716.2,
+                            "topic": "Polycystic Ovary Syndrome (PCOS)",
+                            "stem": "A 20-year-old woman presents with severe acne, irregular menstrual bleeding, and hirsutism affecting the chin, upper back, breasts, and lower abdomen. Pregnancy test is negative. On day 5 of her cycle, labs show FSH 10 IU/L, LH 28 U/L, prolactin 890 pmol/L, and testosterone 3.2 nmol/L. Which additional laboratory tests should be obtained?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Thyroid stimulating hormone and free T3 and T4"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Progesterone and thyroid stimulating hormone"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Dehydroepiandrosterone and androstenedione"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Glucose tolerance and lipid profile"
+                                }
+                            ],
+                            "answer": "D"
                         },
                         {
                             "id": 1717,
