@@ -10959,8 +10959,12 @@
                 {
                     "id": 1247,
                     "topic": "Post op complications",
-                    "stem": "A 38-year-old man has suffered from a severe hypovolemic shock due to traumatic splenic injury, and underwent splenectomy. He received 8 units of packed red blood cells during resuscitation and surgery. He was admitted to the intensive care unit. On the 3rd postoperative day, he was febrile (see report). Gram stain of blood: Positive for gram negative bacilli. Which of the following is the most likely source of the bacteraemia? A. Contaminated blood",
+                    "stem": "A 38-year-old man has suffered from a severe hypovolemic shock due to traumatic splenic injury, and underwent splenectomy. He received 8 units of packed red blood cells during resuscitation and surgery. He was admitted to the intensive care unit. On the 3rd postoperative day, he was febrile (see report). Gram stain of blood: Positive for gram negative bacilli. Which of the following is the most likely source of the bacteraemia?",
                     "options": [
+                        {
+                            "letter": "A",
+                            "text": "Contaminated blood"
+                        },
                         {
                             "letter": "B",
                             "text": "Urinary tract infection"
@@ -11368,6 +11372,30 @@
                     "answer": "D"
                 },
                 {
+                    "id": 1263.1,
+                    "topic": "Unclassified",
+                    "stem": "A 50-year-old diabetic man presented with a 5-year history of an unhealed foot ulcer. Physical examination confirmed a 2x2 cm irregular shaped ulcer at the dorsal aspect of the first toe with pearly white discoloration. Biopsy of the ulcer reported as pseudoepitheliomatous hyperplasia.\\nWhich of the following is the most appropriate management?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Repeat biopsy"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "First toe amputation"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Surgical debridement"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Negative pressure dressing"
+                        }
+                    ],
+                    "answer": "A"
+                },
+                {
                     "id": 1264,
                     "topic": "Unclassified",
                     "stem": "A 53-year-old man presented with sudden onset of severe right lower abdominal pain. On examination, there is a 3x3 cm right lower abdominal tender mass, which becomes more prominent with abdominal wall contraction. The patient has been on anticoagulants for atrial fibrillation for the past 4 years (see lab results and report). Blood pressure 130/80 mmH Heart rate 84 /min Respiratory rate 18 /min Temperature 36.8 °C INR 1.5 0.8-1.2 Prothrombin time 11 10-13 sec CT scan: 3x3 cm enhancing mass at the right rectus muscle. Which of the following is the most appropriate management?",
@@ -11387,6 +11415,30 @@
                         {
                             "letter": "D",
                             "text": "Angiography with embolization"
+                        }
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "id": 1264,
+                    "topic": "Unclassified",
+                    "stem": "A 44-year-old man presented with a 6-month history of vague central abdominal pain. CT scan of abdomen:\\nPresence of 20x10 cm retroperitoneal mass. No enlarged mesenteric or para aortic lymph nodes noted.\\nWhich of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Lymphoma"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Liposarcoma"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Germ cell tumor"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Metastatic testicular tumor"
                         }
                     ],
                     "answer": "B"
@@ -11459,6 +11511,30 @@
                         {
                             "letter": "D",
                             "text": "Family history of similar problems"
+                        }
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "id": 1267.1,
+                    "topic": "Unclassified",
+                    "stem": "A 70-year-old man presents with abdominal pain. Examination revealed a pulsatile abdominal mass felt on deep palpation with mild tenderness just above the umbilicus (see lab results and report).\\nBlood pressure 110/70 mmH\\nHeart rate 76 /min Respiratory rate 16 /min Temperature 36.6 °C\\nOxygen saturation 99 %\\nTest Result Normal Values\\nRBC 6.0 4.7-6.1 x 1012/L (Male)\\n4.2-5.4 x 1012/L (Female)\\nHb 135 130-170 g/L (Male)\\n120-160 g/L (Female)\\nHCT 0.42 0.42-0.52 (Male)\\n0.37-0.48 (Female)\\nPlatelets count 155 150-400 x 109/L\\nWBC 13.5 4.5-10.5 x 109/L\\nSodium 136 134-146 mmol/L\\nPotassium 4 3.5-5.1 mmol/L\\nBicarbonate 25 21-28 mmol/L\\nAlanine aminotransferase 10 5-40 IU/L\\nAspartate aminotransferase 20 12-40 IU/L\\nAmylase 100 24-151 IU/L\\nLactate dehydrogenase 70 60-160 IU/L\\nLipase 100 0-160 IU/L\\nUrea 3.5 2.75-7.4 mmol/L\\nBlood urea nitrogen 7.0 2.8 to 8.9 mmol/.\\nCreatinine 69 44-115 mol/L\\nUpright chest x-ray: No air under diaphragm.\\nAbdominal X-Ray: Unremarkable.\\nWhich of the following is the most appropriate diagnostic test?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "US abdomen"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "CT angiogram"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "MR angiography"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Conventional angiography"
                         }
                     ],
                     "answer": "B"
@@ -11742,7 +11818,11 @@
                         },
                         {
                             "letter": "C",
-                            "text": "Surgical correction D.Elastic support to the mid-abdomen"
+                            "text": "Surgical correction"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Elastic support to the mid-abdomen"
                         }
                     ],
                     "answer": "C"
