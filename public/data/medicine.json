@@ -636,6 +636,30 @@
                     "answer": "D"
                 },
                 {
+                    "id": 26.1,
+                    "topic": "Cardiology",
+                    "stem": " 30-year-old intravenous drug user presents with fever, night sweats, chest pain, and arthralgia. On examination, painless erythematous lesions noted on the palms of the hands; with round erythematous lesions and central clearing noted in the retina and splinter haemorrhage under the fingernails. Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Syphilis"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "HIV infection"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Infectious hepatitis"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Bacterial endocarditis"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
                     "id": 27,
                     "topic": "Cardiology",
                     "stem": "A 70-year-old man is found to have ejection systolic murmur in the aortic area during routine medical check-up. He denied symptoms of dyspnea, chest pain or syncope. Physical examination revealed slow raising carotid pulsation; normal JVP and normal lung auscultation (see reports). Blood pressure 110/70 mmHg Heart rate 76 /min Respiratory rate 18 /min Electrocardiogram: Normal sinus rhythm with LVH. Echocardiogram: Shows concentric LVH, normal ejection fraction and severely stenosed aortic valve. Which of the following is the next step in management?",
@@ -3444,6 +3468,30 @@
                     "answer": "D"
                 },
                 {
+                    "id": 143.1,
+                    "topic": "Cardiology",
+                    "stem": "Which of the following agents has been shown to reduce mortality in patients with congestive heart failure?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Digitalis"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Enalapril"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Furosemide"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Procainamide"
+                        }
+                    ],
+                    "answer": "C"
+                },
+                {
                     "id": 144,
                     "topic": "Cardiology",
                     "stem": "A 71-year-old man is referred to the Outpatient Clinic for advice on his antihypertensive treatment. He has a history of stroke and longstanding uncontrolled hypertension. 6 blood pressure recordings at home and at his surgery within the past 2 weeks were 188-216/03-112 mmg. His therapy comprised ramipril, atenolol, and amlodipine (see lab results). Sodium 138 134-146 mmol/L Potassium 2.9 3.5-5.1 mmol/L Urea 8 2.75-7.4 mmol/L Creatinine 88 44-115 mol/L Which of the following is most likely contributing to the treatment failure?",
@@ -5369,8 +5417,12 @@
                 {
                     "id": 224,
                     "topic": "Pulmonology",
-                    "stem": "A 6-year-old boy presents to Emergency Room with acute asthma attack responding to initial management with improved respiratory distress. His vitals after stabilization are recorded. The decision made for hospitalization. Blood pressure 110/70 mmHg Heart rate 97 /min Respiratory rate 20 /min Temperature 36.6 °C Oxygen saturation 88 % Which of the following is the most likely reason for admission? А. Нурохіа",
+                    "stem": "A 6-year-old boy presents to Emergency Room with acute asthma attack responding to initial management with improved respiratory distress. His vitals after stabilization are recorded. The decision made for hospitalization. Blood pressure 110/70 mmHg Heart rate 97 /min Respiratory rate 20 /min Temperature 36.6 °C Oxygen saturation 88 % Which of the following is the most likely reason for admission?",
                     "options": [
+                        {
+                            "letter": "A",
+                            "text": "Hypoxia"
+                        },
                         {
                             "letter": "B",
                             "text": "Patient age"
@@ -6253,8 +6305,12 @@
                 {
                     "id": 261,
                     "topic": "Pulmonology",
-                    "stem": "A 30-year-old woman with bronchial asthma developed worsening dyspnea and cough following paint inhalation from neighborhood apartment. On examination, she is in respiratory distress, cannot complete a sentence and cyanosed. Chest auscultation revealed reduced breath sounds in both sides with short inspiratory and exploratory rhonchi (see lab results). Blood pressure 110/70 mmHg Heart rate 130 /min Respiratory rate 20 /min Oxygen saturation 85 % ABG HCO3- 24 22-28 mmol/L ABG PCO2 7.8 4.7-6.0 kPa pH 7.3 7.36-7.45 ABG P02 7.5 10.6-14.2 kPa Which of the following is the best immediate action in management? A. Intravenous magnesium infusion",
+                    "stem": "A 30-year-old woman with bronchial asthma developed worsening dyspnea and cough following paint inhalation from neighborhood apartment. On examination, she is in respiratory distress, cannot complete a sentence and cyanosed. Chest auscultation revealed reduced breath sounds in both sides with short inspiratory and exploratory rhonchi (see lab results). Blood pressure 110/70 mmHg Heart rate 130 /min Respiratory rate 20 /min Oxygen saturation 85 % ABG HCO3- 24 22-28 mmol/L ABG PCO2 7.8 4.7-6.0 kPa pH 7.3 7.36-7.45 ABG P02 7.5 10.6-14.2 kPa Which of the following is the best immediate action in management?",
                     "options": [
+                        {
+                            "letter": "A",
+                            "text": "Intravenous magnesium infusion"
+                        },
                         {
                             "letter": "B",
                             "text": "Intravenous aminophylline infusion"
@@ -6825,8 +6881,12 @@
                 {
                     "id": 285,
                     "topic": "Pulmonology",
-                    "stem": "A 19-year-old healthy woman presented to Emergency Room with left leg swelling and pain for 2 days. She has no significant past medical history. She just missed her menstrual period. Blood pressure 131/89 mmH Heart rate 92 /min Respiratory rate 26 /min Oxygen saturation 94 % Which of the following is the most important question to ask next in history? A. History of fatigue",
+                    "stem": "A 19-year-old healthy woman presented to Emergency Room with left leg swelling and pain for 2 days. She has no significant past medical history. She just missed her menstrual period. Blood pressure 131/89 mmH Heart rate 92 /min Respiratory rate 26 /min Oxygen saturation 94 % Which of the following is the most important question to ask next in history?",
                     "options": [
+                        {
+                            "letter": "A",
+                            "text": "History of fatigue"
+                        },
                         {
                             "letter": "B",
                             "text": "History of sleepiness"
@@ -6924,7 +6984,7 @@
                 {
                     "id": 289,
                     "topic": "Nephrology",
-                    "stem": "hour urine protein 1500 0-150 mg/24 hr Which of the following is the most appropriate therapy?",
+                    "stem": "A 61-year-old woman has had type 2 diabetes for 12 years. She takes insulin and d smoke. She was recently started on enalapril 10 mg daily for hypertension but coulc it because of a cough (see lab results).\n Blood pressure 160/95 mmH\nHeart rate 84 /min Test Result Normal Value\nCreatinine 142 44-115 umol/L 24\nUrine Analysis: Test Result Normal Values\nCreatinine clearance 66 100-140 mL/min\n24-hour urine protein 1500 0-150 mg/24 hr\nWhich of the following is the most appropriate therapy?",
                     "options": [
                         {
                             "letter": "A",
@@ -9763,8 +9823,12 @@
                 {
                     "id": 407,
                     "topic": "Gastroenterology",
-                    "stem": "A 45-year-old obese woman presented with 1-week history of jaundice, anorexia and abdominal pain. She has no chronic illnesses and not on any medications. On examination, she is jaundiced with stable vital signs and no fever. Abdomen exam showed mild tender liver with span of 13 cm, no splenomegaly (see lab results). RBC 4 4.7-6.1 x 1012/L (Male) 4.2-5.4 x 1012/L (Female) Hb 110 130-170 g/L. (Male) 120-160 g/L (Female) Platelets count 212 150-400 × 109/L WBC 18 4.5-10.5 x 109/L Direct bilirubin 79 1.5-6.5 mol/L Total bilirubin 98 3.5-16.5 mol/L Aspartate aminotransferase 70 12-40 IU/L Alanine aminotransferase 150 5-40 IU/L Alkaline phosphatase 1000 39-117 IU/L Which of the following is the next step in the management? A. MRCP",
+                    "stem": "A 45-year-old obese woman presented with 1-week history of jaundice, anorexia and abdominal pain. She has no chronic illnesses and not on any medications. On examination, she is jaundiced with stable vital signs and no fever. Abdomen exam showed mild tender liver with span of 13 cm, no splenomegaly (see lab results). RBC 4 4.7-6.1 x 1012/L (Male) 4.2-5.4 x 1012/L (Female) Hb 110 130-170 g/L. (Male) 120-160 g/L (Female) Platelets count 212 150-400 × 109/L WBC 18 4.5-10.5 x 109/L Direct bilirubin 79 1.5-6.5 mol/L Total bilirubin 98 3.5-16.5 mol/L Aspartate aminotransferase 70 12-40 IU/L Alanine aminotransferase 150 5-40 IU/L Alkaline phosphatase 1000 39-117 IU/L Which of the following is the next step in the management?",
                     "options": [
+                        {
+                            "letter": "A",
+                            "text": "MRCP"
+                        },
                         {
                             "letter": "B",
                             "text": "Liver biopsy"
@@ -11668,6 +11732,30 @@
                     "answer": "A"
                 },
                 {
+                    "id": 486.1,
+                    "topic": "Rheumatology",
+                    "stem": "A A 30-year-old woman presented to the clinic with polyarthralgia, malar rash and mucosal ulcerations for 2-months. Examination revealed active malar rash and arthritis affecting several joints. She has positive anti-nuclear antibody with high titer (see lab results).\nTest Result Normal Values\nHb 100 130-170 g/L (Male)\n120-160 g/L (Female)\nPlatelets count 90 150-400 × 109/L\nWBC 3.5 4.5-10.5 x 109/L\nESR 60 2-10 mm/h (Male)\n3-15 mm/h (Female)\nUrea 5 2.75-7.4 mmol/L\nCreatinine 150 44-115 mol/L\nProtein 1200 0-150 mg/24 hr\nComplement C3 0.4 0.7-1.5 g/L\nComplement C4 0.1 0.15-0.45 g/L\nWhich of the following is the best high dose treatment option at this time?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Steroid and mycophenolate mofetil"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Steroid and hydroxychloroquine"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Steroid and methotrexate"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Steroid and cyclosporine"
+                        }
+                    ],
+                    "answer": "A"
+                },
+                {
                     "id": 487,
                     "topic": "Rheumatology",
                     "stem": "A 50-year-old man with active rheumatoid arthritis presented to the clinic complaining of polyarthralgia and significant early morning stiffness. His current treatments are methotrexate, prednisone and hydroxychloroquine. Examination revealed active arthritis at several joints (see lab results). Hb 160 130-170 g/L (Male) 120-160 q/L (Female) Platelets count 500 150-400 x 109/L WBC 10 4.5-10.5 x 109/L ESR 80 2-10 mm/h (Male) 3-15 mm/h (Female) Urea 5 2.75-7.4 mmol/L Creatinine 75 44-115 mol/L C-reactive peptide 18 <8.2 mg/L Rheumatoid factor 600 <58 kIU/L Aspartate aminotransferase 37 12-40 IU/L Alanine aminotransferase 35 5-40 IU/L Albumin 50 34-56 g/L Which of the following is the most appropriate additional treatment option?",
@@ -11982,8 +12070,12 @@
                 {
                     "id": 500,
                     "topic": "Rheumatology",
-                    "stem": "What is the recommended age to start screening for osteoporosis with bone measurement testing in women? A 50-54",
+                    "stem": "What is the recommended age to start screening for osteoporosis with bone measurement testing in women?",
                     "options": [
+                        {
+                            "letter": "A",
+                            "text": "50-54"
+                        },
                         {
                             "letter": "B",
                             "text": "55-59"
@@ -12153,7 +12245,7 @@
                 {
                     "id": 507,
                     "topic": "Infectious diseases",
-                    "stem": "hours history of seizures. Positive history of multiple unprotected sexual contact for the last 6 years. On examination, he was disoriented to time; place and person (see lab results and report. Temperature 39 °C WBC 1.3 4.5-10.5 x 109/L Serum Cryptococcal Antigen: Positive. Which of the following is the most appropriate diagnostic test?",
+                    "stem": "A 27-year-old man presented to the Emergency Department with 2-days history of confusion and 5-hours history of seizures. Positive history of multiple unprotected sexual contact for the last 6 years. On examination, he was disoriented to time; place and person (see lab results and report.\nTemperature 39 °C\nTest Result Normal Values\nWBC 1.3 4.5-10.5 x 109/L\nSerum Cryptococcal Antigen: Positive.\nWhich of the following is the most appropriate diagnostic test?",
                     "options": [
                         {
                             "letter": "A",
@@ -13233,12 +13325,8 @@
                 {
                     "id": 552,
                     "topic": "Infectious diseases",
-                    "stem": "A 71-year-old man who has been admitted due to clostridium difficile infection last year. In order to search for possible risk factors that increase the risk of recurrent infection, his medications have been reviewed thoroughly. Which of the following medications is associated with increased risk of",
+                    "stem": "A 71-year-old man who has been admitted due to clostridium difficile infection last year. In order to search for possible risk factors that increase the risk of recurrent infection, his medications have been reviewed thoroughly. Which of the following medications is associated with increased risk of difficile infection?",
                     "options": [
-                        {
-                            "letter": "C",
-                            "text": "difficile infection?"
-                        },
                         {
                             "letter": "A",
                             "text": "Omeprazole"
@@ -13853,6 +13941,54 @@
                         }
                     ],
                     "answer": "B"
+                },
+                {
+                    "id": 577.1,
+                    "topic": "Infectious diseases",
+                    "stem": "A 64-year-old diabetic woman was recently started on hemo-dialysis through a femoral central line. During dialysis, the nurse notices that she is shivering. Detailed history reveals a 3-day history of fever. On examination, central line site was red with pus discharge.\n Which of the following is the most appropriate management approach?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Withdraw blood culture and start IV antibiotics"
+                        },
+                        {
+                            "letter": "B",
+                            "text": " Start IV antibiotics and hold dialysis for 3 days"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Withdraw blood culture, change the line and resume dialysis"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Withdraw blood culture, start antibiotics and remove the line"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "id": 577.2,
+                    "topic": "Infectious diseases",
+                    "stem": "A 64-year-old diabetic woman is receiving hemo-dialysis through a femoral central line. She develops line sepsis. Blood culture grows MRSA (methicillin resistant staphylococcus aureus). She was started on IV vancomycin 1000 mg every 72 hours (to be infused over 20 min). Immediately after starting vancomycin, she started to have flushing, redness and itching over the face, neck and trunk.\n Which of the following is the most appropriate management approach?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Stop vancomycin and label her allergic to vancomycin"
+                        },
+                        {
+                            "letter": "B",
+                            "text": " Continue vancomycin but a lower dose"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Continue vancomycin but slower infusion rate"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Change vancomycin to cefazolin 1000 mg every 24 hours"
+                        }
+                    ],
+                    "answer": "C"
                 }
             ]
         },
@@ -14145,6 +14281,30 @@
                         {
                             "letter": "D",
                             "text": "Testosterone and gonadotrophin levels"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "id": 589.1,
+                    "topic": "Endocrinology",
+                    "stem": "40-year-old man was incidentally detected to have a benign 2.0-cm right adrenal adenoma on CT of the abdomen, which was done to evaluate his symptom of abdominal pain. On examination, he had unremarkable general physical and systemic examination. Blood pressure 130/70 mmHg, BMI 26 kg/m2 Which of the following is the most appropriate next step in management?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "MIBG scan"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "MRI adrenals"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Surgical referral"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Dexamethasone suppression test (overnight) and urinary metanephrines"
                         }
                     ],
                     "answer": "D"
@@ -14656,7 +14816,7 @@
                 {
                     "id": 611,
                     "topic": "Endocrinology",
-                    "stem": "Hydroxy Vitamin D3 (Women) 10 (25-90 mol/L) Which of the following is the most appropriate initial treatment approach?",
+                    "stem": "An 18-year-old woman presented to the Emergency Room with spasms of hands along with twitching around the mouth. Her general physical and systemic examination was unremarkable except for pallor, dental caries and small body built. She had prolonged QT interval on ECG (see lab results).\nTest Result Normal Values\nCalcium 1.6 (2.15-2.62 mmol/L)\nPhosphate inorganic 0.7 (0.82-1.51 mmol/L)\nParathyroid hormone (intact PTH levels) 4.5 (1.1-5.3 pmol/L)\n25-Hydroxy Vitamin D3 (Women) 10 (25-90 mol/L)\nWhich of the following is the most appropriate initial treatment approach?",
                     "options": [
                         {
                             "letter": "A",
@@ -15062,6 +15222,78 @@
                     "answer": "B"
                 },
                 {
+                    "id": 627.1,
+                    "topic": "Endocrinology",
+                    "stem": "A 55-year-old man with a family history of type 2 diabetes undergoes screening (see lab results). Blood pressure 130/85 mmH Heart rate 80 /min Height 185 cm Weight 91 kg Test Result Normal Values Glucose, fasting 7.4 3.5-6.5 mmol/L Hemoglobin A1C 6.3 4.7-5.6% Which of the following should be recommended?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Random plasma glucose"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Haemoglobin A1C after 6 weeks"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Fasting plasma glucose after 3 months"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "2-hour 75 g oral glucose tolerance test"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "id": 627.2,
+                    "topic": "Endocrinology",
+                    "stem": "A 55-year-old man with a family history of type 2 diabetes undergoes screening. He gives the history of polyuria (see lab results). Blood pressure 130/85 mmHg Heart rate 80 /min Height 185 cm Weight 91 kg Test Result Normal Values Glucose, fasting 7.0 3.5-5.5 mmol/L Hemoglobin A1C 7.1 5.7-6.4% Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Prediabetes"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Type 2 diabetes"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Impaired glucose tolerance"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Mature onset diabetes of youth"
+                        }
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "id": 627.3,
+                    "topic": "Endocrinology",
+                    "stem": "A 45-year-old man is diagnosed with type 2 diabetes 3 months ago and started on metformin 500 mg TDS, comes for his first follow-up (see lab results). Blood pressure 125/75 mmHg Heart rate 80 /min Test Result Normal Values Glucose, fasting 7.4 3.5-6.5 mmol/L Creatinine 125 44-115 mol/L HbA1C 6.8 4.7-5.6% Which of the following findings in the urine would indicate diabetic nephropathy in type 2 diabetes?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Hematuria"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Proteinuria"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Hyaline casts"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Red blood cell casts"
+                        }
+                    ],
+                    "answer": "B"
+                },
+                {
                     "id": 628,
                     "topic": "Endocrinology",
                     "stem": "A 40-year-old man presents to the doctor with a history of central weight gain, change in facial appearance, poor libido, easy bruising, and back pain. Examination reveals pigmentation of the skin, a buffalo hump, edema, proximal muscle wasting, and an elevated blood pressure. Which of the following is the most likely diagnosis?",
@@ -15390,6 +15622,30 @@
                     "answer": "D"
                 },
                 {
+                    "id": 641.1,
+                    "topic": "Endocrinology",
+                    "stem": "A couple with history of infertility presents for hormone tests results. While reviewing, there is a discussion of the menstrual cycle using the diagram; in ovulation, there would be changes in concentration of different hormones in the blood (see image). When does ovulation in the human usually occur?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Within the time of LH peak"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Within 36 hours after LH peak"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Within 36 hours before LH peak"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Within 36 hours after estradiol peak"
+                        }
+                    ],
+                    "answer": "B"
+                },
+                {
                     "id": 642,
                     "topic": "Endocrinology",
                     "stem": "A 29-year-old woman presents to the clinic with a history of irregular menstrual cycles for the last 2 years. Her last delivery 5 years ago. Currently, she is not on any contraception. Examination shows all within normal limits except breast examination revealed frank galactorrhea. Which of the following is most helpful investigation?",
@@ -15464,7 +15720,7 @@
                 {
                     "id": 645,
                     "topic": "Endocrinology",
-                    "stem": "hour postprandial blood glucose 190 to 200 mg/dL. (10.5-11.1 mmol/L.) In addition to lifestyle modifications, which of the following is the most appropriate initial management?",
+                    "stem": "A 54-year-old man presents for follow-up evaluation after diagnosed with type 2 diabetes mellitus 12 weeks ago. He was managed with lifestyle modifications and he come back with blood glucose log for the past 2 weeks. On physical examination, there is no evidence of diabetic retinopathy or peripheral neuropathy. Except for his blood glucose parameters, basic laboratory studies obtained at the time of her initial diagnosis were normal (see lab results).\nBlood pressure 124/79 mmHg Heart rate 84 /min Respiratory rate 13 /min Temperature 36.9 °C\nOxygen saturation 95 %\nBMI 27 kg/m2\nInitial test before lifestyle modifications: Test Result Normal Values\nНА 1C 8.5% 4.7-5.6 %\nBlood glucose log for the past 2 weeks: Test Result\npreprandial blood glucose 150 to 160 mg/dL. (8.3-8.9 mol/L)\n2-hour postprandial blood glucose 190 to 200 mg/dL. (10.5-11.1 mmol/L.)\nIn addition to lifestyle modifications, which of the following is the most appropriate initial management?",
                     "options": [
                         {
                             "letter": "A",
@@ -16326,9 +16582,57 @@
                     "answer": "D"
                 },
                 {
+                    "id": 680.1,
+                    "topic": "Endocrinology",
+                    "stem": "What is the recommended age to start screening for osteoporosis with bone measurement testing in women?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "50-54"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "55-59"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "60-64"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "65-69"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "id": 680.2,
+                    "topic": "Endocrinology",
+                    "stem": "An 81-year-old woman reports low back pain that began after a forceful coughing episode. Lumbar radiographs reveal features of a lumbar compression fracture. Which of the following is the most appropriate initial step in her care?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Prescribe nasal calcitonin"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Prescribe acetaminophen"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Admit for vertebroplasty"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Infuse zoledronate"
+                        }
+                    ],
+                    "answer": "B"
+                },
+                {
                     "id": 681,
                     "topic": "Endocrinology",
-                    "stem": "#Anki 119- A 20-year-old woman comes to the Medical Outpatient Department with a large swelling in the front of her neck that she has had for the last 3 years. She also complains of excessive sweating, occasional palpitations, and for the last month, the inability to stay in the kitchen for a long period. She has lost weight despite having a good appetite and intake. The examination of the swelling in her neck showed a soft, nodular mass measuring 8 x 15 cm with an audible bruit. Regional lymph nodes are not palpable (see lab results). Blood pressure: 130/85 mmHg Heart rate: 110 /min Respiratory rate: 20 /min Temperature: 37.0°C Lab Results: - Thyroxine (T4 free): 20.2 pmol/L (Normal: 8.5 - 15.2 pmol/L) - Thyroid-Stimulating Hormone (TSH): 0.1 U/L (Normal: 0.4 - 5.0 U/L) - Hemoglobin (Hb): 140 g/L (Normal: 120-160 g/L) Which of the following is the most appropriate management for palpitations?",
+                    "stem": "A 20-year-old woman comes to the Medical Outpatient Department with a large swelling in the front of her neck that she has had for the last 3 years. She also complains of excessive sweating, occasional palpitations, and for the last month, the inability to stay in the kitchen for a long period. She has lost weight despite having a good appetite and intake. The examination of the swelling in her neck showed a soft, nodular mass measuring 8 x 15 cm with an audible bruit. Regional lymph nodes are not palpable (see lab results). Blood pressure: 130/85 mmHg Heart rate: 110 /min Respiratory rate: 20 /min Temperature: 37.0°C Lab Results: - Thyroxine (T4 free): 20.2 pmol/L (Normal: 8.5 - 15.2 pmol/L) - Thyroid-Stimulating Hormone (TSH): 0.1 U/L (Normal: 0.4 - 5.0 U/L) - Hemoglobin (Hb): 140 g/L (Normal: 120-160 g/L) Which of the following is the most appropriate management for palpitations?",
                     "options": [
                         {
                             "letter": "A",
@@ -16352,7 +16656,7 @@
                 {
                     "id": 682,
                     "topic": "Endocrinology",
-                    "stem": "Hour Urine Analysis: - Osmolality: 310 mOsm/kg H2O (Normal: 280-910 mOsm/kg H2O) Which of the following is the most likely cause?",
+                    "stem": "A 75-year-old type 2 diabetic undergoes a bowel resection for colon cancer. He is well prior to the operation with well-controlled diabetes and no other underlying condition. The operation is successful and the patient is given postoperative insulin and IV dextrose. Two days after the operation he becomes very agitated (see lab results).\nLab Results:\n- Sodium: 124 mmol/L (Normal: 134-146 mmol/L)\n- Potassium: 3.2 mmol/L (Normal: 3.5-5.1 mmol/L)\n- Creatinine: 80 µmol/L (Normal: 44-115 µmol/L)\n- Blood urea nitrogen: 4.6 mmol/L (Normal: 2.8-8.9 mmol/L)\n- Serum osmolality: 270 mmol/kg (Normal: 280-300 mmol/kg)\n24-Hour Urine Analysis:\n- Osmolality: 310 mOsm/kg H2O (Normal: 280-910 mOsm/kg H2O)\nWhich of the following is the most likely cause?",
                     "options": [
                         {
                             "letter": "A",
@@ -16376,7 +16680,7 @@
                 {
                     "id": 683,
                     "topic": "Endocrinology",
-                    "stem": "#Anki 121- A 60-year-old diabetic patient presents for follow-up. Currently, the patient takes metformin that maintains fasting blood glucose levels lower than 5.5 mmol/L with HbA1c level of 5.8%. Physical examination is normal, including a lower extremity neurological examination. The patient has regular eye exams that show no signs of retinopathy. Blood pressure: 149/90 mmHg (three readings)Heart rate: 76 /minRespiratory rate: 18 /minTemperature: 36.6°C Which of the following is the most appropriate management?",
+                    "stem": "A 60-year-old diabetic patient presents for follow-up. Currently, the patient takes metformin that maintains fasting blood glucose levels lower than 5.5 mmol/L with HbA1c level of 5.8%. Physical examination is normal, including a lower extremity neurological examination. The patient has regular eye exams that show no signs of retinopathy. Blood pressure: 149/90 mmHg (three readings)Heart rate: 76 /minRespiratory rate: 18 /minTemperature: 36.6°C Which of the following is the most appropriate management?",
                     "options": [
                         {
                             "letter": "A",
@@ -16400,7 +16704,7 @@
                 {
                     "id": 684,
                     "topic": "Endocrinology",
-                    "stem": "#Anki 122 - A 25-year-old patient is diagnosed with diabetic ketoacidosis (see lab results). Vital Signs: - Blood pressure: 80/50 mmHg - Heart rate: 140 /min - Respiratory rate: 26 /min - Temperature: 36.6°C Lab Results: - Random Glucose: 52.7 mmol/L (Normal: 3.9 - 5.5 mmol/L) - Potassium: 6 mmol/L (Normal: 3.5-5.1 mmol/L) - Bicarbonate: 5 mmol/L (Normal: 21-28 mmol/L) Which of the following is the best initial management?",
+                    "stem": "A 25-year-old patient is diagnosed with diabetic ketoacidosis (see lab results). Vital Signs: - Blood pressure: 80/50 mmHg - Heart rate: 140 /min - Respiratory rate: 26 /min - Temperature: 36.6°C Lab Results: - Random Glucose: 52.7 mmol/L (Normal: 3.9 - 5.5 mmol/L) - Potassium: 6 mmol/L (Normal: 3.5-5.1 mmol/L) - Bicarbonate: 5 mmol/L (Normal: 21-28 mmol/L) Which of the following is the best initial management?",
                     "options": [
                         {
                             "letter": "A",
@@ -19074,6 +19378,30 @@
                         {
                             "letter": "D",
                             "text": "Right thigh plain X-ray"
+                        }
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "id": 794.1,
+                    "topic": "Unclassified",
+                    "stem": "Which of the following is the most appropriate biopsy for a limb sarcoma?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Incisional"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Excisional"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Core needle"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Fine needle aspiration"
                         }
                     ],
                     "answer": "C"
