@@ -11,7 +11,7 @@
             <RouterLink :to="`/subject/${subjectId}`" class="back-link">
               ← {{ subject.title }}
             </RouterLink>
-            <h1 class="topic-title">{{ topic.title }}</h1>
+            <!-- <h1 class="topic-title">{{ topic.title }}</h1> -->
           </div>
 
           <div class="stats-pills">
