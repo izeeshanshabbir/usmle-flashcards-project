@@ -6964,7 +6964,7 @@
                                     "text": "Vaginal ring Answer: Not determined"
                                 }
                             ],
-                            "answer": ""
+                            "answer": "A"
                         },
                         {
                             "id": 1530,
@@ -7636,7 +7636,11 @@
                                 },
                                 {
                                     "letter": "C",
-                                    "text": "Threatened abortion D.Septic incomplete abortion"
+                                    "text": "Threatened abortion"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Septic incomplete abortion"
                                 }
                             ],
                             "answer": "B"
@@ -10016,6 +10020,30 @@
                             "answer": "D"
                         },
                         {
+                            "id": 1636.1,
+                            "topic": "Endometrial Polyp, Hyperplasia and Carcinoma",
+                            "stem": "A 43-year-old woman gravida 2 para 2 has had oligoovulation due to polycystic ovary syndrome and used cyclic progesterone for withdrawal bleeding. Approximately 5 years ago, she discontinued taking progesterone. Which of the following risks is increased?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Hip fracture"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Cervical dysplasia"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Ectopic pregnancy"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Endometrial carcinoma"
+                                }
+                            ],
+                            "answer": "D"
+                        },
+                        {
                             "id": 1637,
                             "topic": "Endometrial Polyp, Hyperplasia and Carcinoma",
                             "stem": "A 57-year-old menopausal woman, presents for evaluation of postmenopausal bleeding. She is morbidly obese, hypertensive and diabetic. Endometrial sampling showed complex endometrial hyperplasia with atypia. Which of the following is the most appropriate treatment?",
@@ -10035,6 +10063,30 @@
                                 {
                                     "letter": "D",
                                     "text": "Total abdominal hysterectomy"
+                                }
+                            ],
+                            "answer": "D"
+                        },
+                        {
+                            "id": 1637.1,
+                            "topic": "Endometrial Polyp, Hyperplasia and Carcinoma",
+                            "stem": "A 40-year-old woman is on Tamoxifen 20 mg daily as a hormonal treatment of breast cancer. She complains of heavy and prolonged menstrual period. Her transvaginal ultrasound revealed the presence of 28 mm endometrial thickness with cystic changes. Which of the following is the next step in the patient's evaluation?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Endometrial sampling"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Cancer cell surface antigen 125"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": " Computed tomography of the pelvis"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Serum follicular and luteinizing hormones"
                                 }
                             ],
                             "answer": "D"
@@ -11688,7 +11740,7 @@
                         {
                             "id": 1691.2,
                             "topic": "Respiratory Disorders in Pregnancy",
-                            "stem": "A 34-year-old multiparous woman at 28 weeks' gestation presents with cough and difficulty breathing. She is restless, with bilateral rhonchi on auscultation. She has allergies to dust, pollen, mold, and animal hair. Symptoms began 2 days ago with clear sputum. Vital signs: BP 124/72 mmHg, HR 120/min, RR 24/min, Temperature 37.5°C. Which of the following tests is initially most appropriate?",
+                            "stem": "A 34-year-old multiparous woman presents to the Maternal Health Clinic at 28 weeks' gestation with coughing and difficulty in breathing. She appeared restless and uncomfortable. Auscultation of the lung fields shows bilateral rhonchi. The nail beds and oral mucous membranes appear pale. She is allergic to dust, pollen, mold and animal hair. There is no history of smoking. She reports that the symptoms began 2 days prior and had started with coughing up clear-colored phlegm. Blood pressure 124/72 mmHg Heart rate 120 /min Respiratory rate 24 /min Temperature 37.5° C oral Which of the following tests is initially most appropriate?",
                             "options": [
                                 {
                                     "letter": "A",
@@ -11712,7 +11764,7 @@
                         {
                             "id": 1691.3,
                             "topic": "Asthma in Pregnancy",
-                            "stem": "A 28-year-old woman with mild intermittent asthma presents at 24 weeks' gestation with worsening symptoms. Previously controlled with occasional albuterol use, she now has daily symptoms and weekly nighttime symptoms. FEV1 is 70% of normal. Which of the following is the most appropriate medication regimen?",
+                            "stem": "A 28-year-old woman with mild intermittent asthma presents to the Health Clinic at 24 weeks' gestation and says that her symptoms have worsened as the pregnancy progresses. Prior to the pregnancy, she had an occasional exacerbation of asthma and used only an albuterol inhaler for treatment as needed. However, she now complains of daily symptoms and once per week symptoms at night time. A forced expiratory volume in 1 second test shows 70% of normal. Which of the following medication regimen is now most appropriate?",
                             "options": [
                                 {
                                     "letter": "A",
@@ -11736,7 +11788,7 @@
                         {
                             "id": 1691.4,
                             "topic": "Tuberculosis in Pregnancy",
-                            "stem": "A 28-year-old pregnant woman (G4 P2012) at 20 weeks' gestation presents with a productive cough and night chills for 1 month. She has not responded to prior treatment. Examination shows pallor, cervical lymphadenopathy, and crepitations in the left upper lobe. Interferon-gamma release assay is positive. Which of the following is the next best step to obtain a definitive diagnosis?",
+                            "stem": "A 28-year-old woman G 4 P2012 immigrant presented to the Maternal Health Clinic at 20 weeks' gestation with a cough and night chills for the past month. The cough is productive and produces thick sputum. She had been prescribed treatment by a general practitioner for the cough and it had not responded to treatment. Patient nail beds and conjunctiva appeared pale and the cervical lymph nodes are palpable. Auscultation of the chest shows crepitation over the upper left lobe. She had received a BC vaccine as a child. A blood test is positive for interferon-gamma release assays. Blood pressure 110/70 mmHg Heart rate 84 /min Respiratory rate 18 /min Temperature 37.5° C oral Which of the following is the next best step in obtaining a definitive diagnosis?",
                             "options": [
                                 {
                                     "letter": "A",
@@ -11928,7 +11980,7 @@
                         {
                             "id": 1697.1,
                             "topic": "Vulvar Disorders",
-                            "stem": "A 25-year-old woman presents with swelling on one side of the labia, noticed 24 hours ago and not improved with warm tub soaking. Examination reveals a non-tender, 3 cm, slightly mobile cystic mass at approximately the 7 o'clock position on the right side of the vaginal introitus. Vital signs: BP 110/70 mmHg, HR 76/min, RR 18/min, Temperature 37°C. Which of the following is the most likely diagnosis?",
+                            "stem": "A 25-year-old woman complained of swelling on one side of the labia. The swelling was first noticed 24 hours ago and has not improved despite warm tub soaking. There was a non-tender 3 cm slightly mobile cystic mass at approximately 7 o'clock on the right side of the vaginal introitus. Blood pressure 110/70 mmg Heart rate 76 /min Respiratory rate 18 /min Temperature 37° C Which of the following is the most likely diagnosis?",
                             "options": [
                                 {
                                     "letter": "A",
@@ -11972,6 +12024,30 @@
                                 }
                             ],
                             "answer": "A"
+                        },
+                        {
+                            "id": 1698.1,
+                            "topic": "Unclassified",
+                            "stem": "A 55-year-old woman presented to the clinic with urinary leakage for the last 6 weeks. She cannot hold her urine and urine leaks even before she reaches the bathroom. History revealed she has been menopause for the last 6 years. Which of the following is the first step in the evaluation?",
+                            "options": [
+                                {
+                                    "letter": "A",
+                                    "text": "Cystourethroscopy"
+                                },
+                                {
+                                    "letter": "B",
+                                    "text": "Intravenous pyelogram"
+                                },
+                                {
+                                    "letter": "C",
+                                    "text": "Urethral pressure profile"
+                                },
+                                {
+                                    "letter": "D",
+                                    "text": "Urine analysis and culture"
+                                }
+                            ],
+                            "answer": "D"
                         },
                         {
                             "id": 1699,
@@ -12456,7 +12532,7 @@
                         {
                             "id": 1712.1,
                             "topic": "Polycystic Ovary Syndrome (PCOS)",
-                            "stem": "A 24-year-old woman presents with infertility for more than 2 years despite regular attempts. She has a history of irregular, infrequent, and scanty menstrual periods occurring every 6–7 weeks. Her BMI is 35 kg/m2. Transvaginal ultrasound shows multiple small peripheral ovarian cysts (3–5 mm) with a 'pearl necklace' appearance. Which of the following is the most likely factor contributing to her infertility?",
+                            "stem": "A 24-year-old woman presents to the clinic complaining of failure to conceive for more than 2 years of regular trials. The patient has a history of irregular periods occurring once every 6 to 7 weeks and is usually scanty (see report). Body mass index 35 kg/m2. Transvaginal ultrasound: Revealed the presence of multiple small cysts; each is 3-5mm, lining the ovarian periphery, representing pearl necklace appearance. Which of the following is the most likely factor contributing to her infertility?",
                             "options": [
                                 {
                                     "letter": "A",
@@ -12600,7 +12676,7 @@
                         {
                             "id": 1716.2,
                             "topic": "Polycystic Ovary Syndrome (PCOS)",
-                            "stem": "A 20-year-old woman presents with severe acne, irregular menstrual bleeding, and hirsutism affecting the chin, upper back, breasts, and lower abdomen. Pregnancy test is negative. On day 5 of her cycle, labs show FSH 10 IU/L, LH 28 U/L, prolactin 890 pmol/L, and testosterone 3.2 nmol/L. Which additional laboratory tests should be obtained?",
+                            "stem": "A 20-year-old woman presented to the Maternal Health Clinic with severe facial acne and irregular menstrual bleeding. Examination shows fine hair growth on the chin, upper back. breasts and lower abdomen. A pregnancy test is returned negative. She returns to the clinic on the 5th day of her menstrual cycle and has a serum sample drawn for analysis (see lab results). Test Result / Normal Values: Follicle-stimulating hormone 10 5-20 IU/L Luteinizing hormone 28 5-22 U/L Prolactin 890 < 870 pmol/L Testosterone 3.2 0.7-2.8 mol/L Which additional laboratory values should be obtained?",
                             "options": [
                                 {
                                     "letter": "A",
