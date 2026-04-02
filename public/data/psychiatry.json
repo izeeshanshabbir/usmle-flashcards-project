@@ -2504,6 +2504,150 @@
                     "answer": "B"
                 },
                 {
+                    "id": 2550.1,
+                    "topic": "Psychiatry",
+                    "stem": "A 6-year-old boy is brought to the clinic by his mother. She noticed that the child has been eating clay and paper for the last 4 months. Which of the following is the most appropriate initial treatment?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Fluoxetine"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Imipramine"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Clonazepam"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Behavioural therapy"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "id": 2550.2,
+                    "topic": "Psychiatry",
+                    "stem": "A 34-year-old woman presents to the clinic with a 6-month history of extreme fear of going to the park, the zoo and sporting events. This has worsened to the point where she has stopped going out of the house. Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Conversion disorder"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Schizophrenia"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Social phobia"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Agoraphobia"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "id": 2550.3,
+                    "topic": "Psychiatry",
+                    "stem": "A 45-year-old man presents in an anxious, tearful state. He complains of chronic, upper abdominal pain and is certain that he has stomach cancer but no one believes him. He has seen 6 different physicians in the past year and has had a Gl series and barium enema performed an ultrasound of the abdomen twice and a CT scan. The patient was thinking of next going to a Herbal Clinic. Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": " Somatoform pain disorder"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Somatization disorder"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Conversion disorder"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Hypochondriasis"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "id": 2550.4,
+                    "topic": "Psychiatry",
+                    "stem": "A 16-year-old girl is brought by her father to the Emergency Department with complaints of tachypnoea, light-headedness, paraesthesia and palpitations. Her father gives the history that she has recently failed her math test Which of the following is the most likely diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Oppositional defiant disorder"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Hyperventilation syndrome"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Munchausen syndrome"
+                        },
+                        {
+                            "letter": "D",
+                            "text": " Anxiety disorder"
+                        }
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "id": 2550.5,
+                    "topic": "Psychiatry",
+                    "stem": "A 27-year-old man presents to the clinic with a 1-month history of low mood and lack of sleep. It was associated with weight gain, isolation and concentration impairment. His wife mentioned that he bought a very expensive car and thinking that he is a wealthy man 3 months ago. He is very talkative and difficult to interrupt. Which of the following medications is the most effective for long-term management?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Lithium"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Bupropion"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "Olanzapine"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Mirtazapine"
+                        }
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "id": 2550.6,
+                    "topic": "Psychiatry",
+                    "stem": " Which of the following is the diagnostic criteria for attention deficit hyperactivity disorder in children, according to the International Classification of Diseases-10?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "1 inattentive , 3 hyperactive and 1 impulsive symptoms"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "1 inattentive, 3 hyperactive and 3 impulsive symptoms"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "3 inattentive, 3 hyperactive and 1 impulsive symptoms"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "6 inattentive, 3 hyperactive and 1 impulsive symptoms"
+                        }
+                    ],
+                    "answer": "D"
+                },
+                {
                     "id": 2551,
                     "topic": "Psychiatry",
                     "stem": "A 23-year-old woman with frequent panic a]acks, presents to the clinic complaining that during her last attack 3 days ago she felt that she was disconnected from the world, as if the environment is strange. Which of the following would best describe her feelings?",
