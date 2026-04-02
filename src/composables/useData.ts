@@ -1,5 +1,6 @@
 import { ref } from 'vue'
-import type { SubjectIndex, SubjectFull } from '@/types'
+import type { SubjectIndex, SubjectFull, Question } from '@/types'
+import type { TestQuestion } from '@/stores/mockTest'
 
 // Simple in-memory cache so we don't re-fetch on every navigation
 const subjectCache = new Map<string, SubjectFull>()
@@ -22,16 +23,31 @@ export async function fetchSubject(subjectId: string): Promise<SubjectFull> {
   return data
 }
 
-// Composable wrapper with loading / error state
-export function useSubject(subjectId: string) {
-  const subject = ref<SubjectFull | null>(null)
-  const loading = ref(true)
-  const error = ref<string | null>(null)
+export async function fetchRandomQuestions(count: number = 100): Promise<TestQuestion[]> {
+  const index = await fetchIndex()
+  const allQuestions: TestQuestion[] = []
 
-  fetchSubject(subjectId)
-    .then((d) => { subject.value = d })
-    .catch((e) => { error.value = e.message })
-    .finally(() => { loading.value = false })
+  // Flatten questions from all subjects and topics
+  for (const subjMeta of index.subjects) {
+    const subjData = await fetchSubject(subjMeta.id)
+    const allTopics = subjData.topics
+      ? subjData.topics
+      : (subjData.sections ?? []).flatMap(s => s.topics)
 
-  return { subject, loading, error }
+    for (const topic of allTopics) {
+      for (const q of topic.questions) {
+        allQuestions.push({
+          question: q,
+          subjectId: subjMeta.id,
+          topicId: topic.id,
+          topicTitle: topic.title,
+          subjectTitle: subjMeta.title,
+        })
+      }
+    }
+  }
+
+  // Shuffle and pick up to 'count' questions
+  const shuffled = allQuestions.sort(() => 0.5 - Math.random())
+  return shuffled.slice(0, Math.min(count, shuffled.length))
 }

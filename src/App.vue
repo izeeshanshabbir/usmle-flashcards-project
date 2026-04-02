@@ -10,6 +10,20 @@
         <RouterLink to="/" class="nav-link" :class="{ active: route.path === '/' }">
           Home
         </RouterLink>
+        <RouterLink
+          to="/review"
+          class="nav-link nav-link--review"
+          :class="{ active: route.path === '/review' }"
+        >
+          🔁 Review
+        </RouterLink>
+        <RouterLink
+          to="/test"
+          class="nav-link nav-link--test"
+          :class="{ active: route.path === '/test' }"
+        >
+          📝 Mock Test
+        </RouterLink>
       </nav>
 
       <div class="header-stats" v-if="store.totalAnswered > 0">
@@ -64,6 +78,8 @@ const store = useProgressStore()
   text-decoration: none; transition: all 0.15s;
 }
 .nav-link:hover, .nav-link.active { color: var(--accent); background: var(--accent-lo); }
+.nav-link--review:hover, .nav-link--review.active { color: var(--wrong); background: #ef444415; }
+.nav-link--test:hover, .nav-link--test.active { color: var(--warn); background: #f59e0b15; }
 
 .header-stats { display: flex; gap: 0.5rem; flex-shrink: 0; }
 .stat {

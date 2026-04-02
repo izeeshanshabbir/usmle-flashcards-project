@@ -75,6 +75,42 @@
         </RouterLink>
       </div>
     </section>
+    <!-- Feature cards -->
+    <section class="features">
+      <!-- Review Wrong Answers -->
+      <RouterLink to="/review" class="feature-card feature-card--review">
+        <div class="fc-icon">🔁</div>
+        <div class="fc-body">
+          <h3 class="fc-title">Review Wrong Answers</h3>
+          <p class="fc-desc">
+            See every question you got wrong. Re-answer them — correct answers update your
+            progress across the whole site.
+          </p>
+          <div class="fc-meta" v-if="store.totalAnswered > 0">
+            <span class="fc-badge wrong">
+              {{ store.totalAnswered - store.totalCorrect }} wrong answers
+            </span>
+          </div>
+        </div>
+        <span class="fc-arrow">→</span>
+      </RouterLink>
+
+      <!-- Mock Test -->
+      <RouterLink to="/test" class="feature-card feature-card--test">
+        <div class="fc-icon">📝</div>
+        <div class="fc-body">
+          <h3 class="fc-title">Mock Test</h3>
+          <p class="fc-desc">
+            Randomly picks up to 100 MCQs from all subjects. Get a score at the end.
+            Results stay here only — your main progress is never affected.
+          </p>
+          <div class="fc-meta">
+            <span class="fc-badge warn">Isolated · not saved</span>
+          </div>
+        </div>
+        <span class="fc-arrow">→</span>
+      </RouterLink>
+    </section>
   </div>
 </template>
 
@@ -198,4 +234,49 @@ function confirmReset() {
 .score-label { font-size: 0.75rem; color: var(--muted); }
 
 .error-msg { color: var(--wrong); padding: 2rem; text-align: center; }
+
+/* ── Feature cards ── */
+.features {
+  max-width: 1100px; margin: 0 auto 4rem;
+  padding: 0 1.5rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1.25rem;
+}
+
+.feature-card {
+  display: flex; align-items: flex-start; gap: 1.1rem;
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: var(--radius-lg); padding: 1.4rem 1.25rem;
+  text-decoration: none; color: inherit;
+  transition: border-color 0.2s, transform 0.2s, box-shadow 0.2s;
+  position: relative; overflow: hidden;
+}
+.feature-card::before {
+  content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px;
+  opacity: 0; transition: opacity 0.2s;
+}
+.feature-card--review::before { background: var(--wrong); }
+.feature-card--test::before   { background: var(--warn); }
+.feature-card:hover {
+  transform: translateY(-2px); box-shadow: 0 8px 32px #0006;
+  text-decoration: none;
+}
+.feature-card--review:hover { border-color: var(--wrong); }
+.feature-card--review:hover::before { opacity: 1; }
+.feature-card--test:hover   { border-color: var(--warn); }
+.feature-card--test:hover::before   { opacity: 1; }
+
+.fc-icon { font-size: 2rem; flex-shrink: 0; line-height: 1; margin-top: 2px; }
+.fc-body { flex: 1; }
+.fc-title { font-size: 1.05rem; font-weight: 700; margin-bottom: 0.4rem; }
+.fc-desc  { font-size: 0.8rem; color: var(--muted); line-height: 1.6; margin-bottom: 0.6rem; }
+.fc-meta  { display: flex; gap: 0.4rem; flex-wrap: wrap; }
+.fc-badge {
+  font-size: 0.7rem; font-weight: 700;
+  padding: 0.2rem 0.6rem; border-radius: 20px;
+}
+.fc-badge.wrong { background: #ef444415; color: var(--wrong); border: 1px solid #ef444433; }
+.fc-badge.warn  { background: #f59e0b15; color: var(--warn);  border: 1px solid #f59e0b33; }
+.fc-arrow { color: var(--muted); font-size: 1.1rem; flex-shrink: 0; align-self: center; }
 </style>
