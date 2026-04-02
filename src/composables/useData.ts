@@ -51,3 +51,17 @@ export async function fetchRandomQuestions(count: number = 100): Promise<TestQue
   const shuffled = allQuestions.sort(() => 0.5 - Math.random())
   return shuffled.slice(0, Math.min(count, shuffled.length))
 }
+
+// Composable wrapper with loading / error state
+export function useSubject(subjectId: string) {
+  const subject = ref<SubjectFull | null>(null)
+  const loading = ref(true)
+  const error = ref<string | null>(null)
+
+  fetchSubject(subjectId)
+    .then((d) => { subject.value = d })
+    .catch((e) => { error.value = e.message })
+    .finally(() => { loading.value = false })
+
+  return { subject, loading, error }
+}

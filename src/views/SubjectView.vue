@@ -165,7 +165,7 @@ const openSections = ref<Set<string>>(new Set())
 import { watch } from 'vue'
 watch(subject, (s) => {
   if (s?.sections) {
-    openSections.value = new Set(s.sections.map((sec) => sec.id))
+    openSections.value = new Set(s.sections.map((sec: Section) => sec.id))
   }
 })
 

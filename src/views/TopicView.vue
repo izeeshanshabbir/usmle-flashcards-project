@@ -96,11 +96,11 @@ const topic = computed(() => {
   const s = subject.value
   if (!s) return null
   // Flat subjects
-  if (s.topics?.length) return s.topics.find((t) => t.id === props.topicId) ?? null
+  if (s.topics?.length) return s.topics.find((t: any) => t.id === props.topicId) ?? null
   // Sectioned subjects (e.g. OB/GYN)
   if (s.sections?.length) {
     for (const sec of s.sections) {
-      const found = sec.topics.find((t) => t.id === props.topicId)
+      const found = sec.topics.find((t: any) => t.id === props.topicId)
       if (found) return found
     }
   }
@@ -119,7 +119,7 @@ const filters = computed(() => {
   const qs = topic.value?.questions ?? []
   return [
     { value: 'all' as Filter,        label: 'All',        count: qs.length },
-    { value: 'unanswered' as Filter, label: 'Unanswered', count: qs.filter(q => !store.getQuestionResult(props.subjectId, props.topicId, q.id)).length },
+    { value: 'unanswered' as Filter, label: 'Unanswered', count: qs.filter((q: Question) => !store.getQuestionResult(props.subjectId, props.topicId, q.id)).length },
     { value: 'correct' as Filter,    label: 'Correct',    count: stats.value.correct },
     { value: 'wrong' as Filter,      label: 'Wrong',      count: stats.value.wrong },
   ]
@@ -128,7 +128,7 @@ const filters = computed(() => {
 const filteredQuestions = computed<Question[]>(() => {
   const qs = topic.value?.questions ?? []
   if (activeFilter.value === 'all') return qs
-  return qs.filter((q) => {
+  return qs.filter((q: Question) => {
     const r = store.getQuestionResult(props.subjectId, props.topicId, q.id)
     if (activeFilter.value === 'unanswered') return r === null
     if (activeFilter.value === 'correct')    return r?.correct === true
