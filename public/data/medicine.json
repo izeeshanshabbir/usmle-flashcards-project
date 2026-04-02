@@ -11612,6 +11612,30 @@
                     "answer": "D"
                 },
                 {
+                    "id": 481.1,
+                    "topic": "Rheumatology",
+                    "stem": "A 29-year-old woman is diagnosed with rapidly progressive glomerulonephrits. Which of the following pathological changes is characteristic of this diagnosis?",
+                    "options": [
+                        {
+                            "letter": "A",
+                            "text": "Dilated proximal tubules with inflammation"
+                        },
+                        {
+                            "letter": "B",
+                            "text": "Crescent formation within Bowman's space"
+                        },
+                        {
+                            "letter": "C",
+                            "text": "IgA deposition in glomerular capillaries"
+                        },
+                        {
+                            "letter": "D",
+                            "text": "Fat globules in urine sediment"
+                        }
+                    ],
+                    "answer": "B"
+                },
+                {
                     "id": 482,
                     "topic": "Rheumatology",
                     "stem": "A young man comes into the clinic with intermitient haemoptysis for 2 months, associated with some blood in his urine. He is a non-smoker and was previously in excellent health. He also describes a weight gain of 20 kg over the past 3 weeks, with \"puffy eyes\" in the morning. He has an elevated serum creatinine concentration (see report). Lung Biopsy: Serum immunoglobulin on basement membranes. Which of the following is the most likely diagnosis?",
@@ -13061,7 +13085,7 @@
                 {
                     "id": 541,
                     "topic": "Infectious diseases",
-                    "stem": "Which of the following serologic markers is expected to be positive?",
+                    "stem": "An individual who has received all 3 doses of hepatitis B vaccine and has never had hepatitis B virus infection. Which of the following serologic markers is expected to be positive?",
                     "options": [
                         {
                             "letter": "A",
