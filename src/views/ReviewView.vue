@@ -72,11 +72,16 @@
       </div>
 
       <div class="questions-grid">
-        <ReviewCard
-          v-for="item in filteredQuestions"
-          :key="`${item.subjectId}-${item.topicId}-${item.question.id}`"
-          :item="item"
-        />
+        <div v-for="group in groupedQuestions" :key="group.subject">
+          <h2 class="subject-heading">{{ group.subject }}</h2>
+          <div class="subject-questions">
+            <ReviewCard
+              v-for="item in group.questions"
+              :key="`${item.subjectId}-${item.topicId}-${item.question.id}`"
+              :item="item"
+            />
+          </div>
+        </div>
       </div>
       <p v-if="filteredQuestions.length === 0" class="no-results">No questions in this filter.</p>
     </div>
@@ -189,6 +194,15 @@ const filteredQuestions = computed(() => {
   })
 })
 
+const groupedQuestions = computed(() => {
+  const groups: Record<string, WrongItem[]> = {}
+  for (const item of filteredQuestions.value) {
+    if (!groups[item.subjectTitle]) groups[item.subjectTitle] = []
+    groups[item.subjectTitle].push(item)
+  }
+  return Object.entries(groups).map(([subject, questions]) => ({ subject, questions }))
+})
+
 function retryAll() {
   if (!confirm('Reset all these questions to unanswered so you can retry them?')) return
   for (const item of wrongQuestions.value) {
@@ -275,9 +289,20 @@ function retryAll() {
 .questions-grid {
   padding: 1.25rem 1.5rem;
   max-width: 1200px; margin: 0 auto;
+}
+.subject-heading {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 2rem 0 1rem 0;
+  color: var(--text);
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: 0.5rem;
+}
+.subject-questions {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
   gap: 1rem;
+  margin-bottom: 2rem;
 }
 .no-results { text-align: center; color: var(--muted); padding: 3rem; }
 
@@ -298,7 +323,27 @@ function retryAll() {
 }
 .go-home-btn:hover { background: #2563eb; text-decoration: none; }
 
+@media (min-width: 601px) and (max-width: 1024px) {
+  .review-header {
+    padding: 2.5rem 2rem;
+  }
+  .filter-bar {
+    padding: 1.25rem 2rem;
+  }
+  .questions-grid {
+    padding: 1.5rem 2rem;
+  }
+  .subject-questions {
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 1.25rem;
+  }
+  .subject-heading {
+    font-size: 1.6rem;
+    margin: 2.5rem 0 1.25rem 0;
+  }
+}
+
 @media (max-width: 600px) {
-  .questions-grid { grid-template-columns: 1fr; }
+  .subject-questions { grid-template-columns: 1fr; }
 }
 </style>
